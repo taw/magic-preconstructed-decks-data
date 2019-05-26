@@ -2625,7 +2625,7 @@
       {
         "name": "Plains",
         "set_code": "por",
-        "number": "215",
+        "number": "196",
         "foil": false,
         "count": 6,
         "multiverseid": 4425
@@ -2633,15 +2633,15 @@
       {
         "name": "Mountain",
         "set_code": "por",
-        "number": "211",
+        "number": "208",
         "foil": false,
         "count": 6,
-        "multiverseid": 4417
+        "multiverseid": 4419
       },
       {
         "name": "Forest",
         "set_code": "por",
-        "number": "203",
+        "number": "212",
         "foil": false,
         "count": 3,
         "multiverseid": 4413
@@ -2649,7 +2649,7 @@
       {
         "name": "Defiant Stand",
         "set_code": "por",
-        "number": "174",
+        "number": "12",
         "foil": false,
         "count": 1,
         "multiverseid": 4380
@@ -2657,7 +2657,7 @@
       {
         "name": "Devoted Hero",
         "set_code": "por",
-        "number": "175",
+        "number": "13",
         "foil": false,
         "count": 1,
         "multiverseid": 4381
@@ -2665,7 +2665,7 @@
       {
         "name": "Armored Pegasus",
         "set_code": "por",
-        "number": "168",
+        "number": "6",
         "foil": false,
         "count": 1,
         "multiverseid": 4374
@@ -2673,7 +2673,7 @@
       {
         "name": "Regal Unicorn",
         "set_code": "por",
-        "number": "184",
+        "number": "22",
         "foil": false,
         "count": 1,
         "multiverseid": 4390
@@ -2681,7 +2681,7 @@
       {
         "name": "Sacred Nectar",
         "set_code": "por",
-        "number": "187",
+        "number": "25",
         "foil": false,
         "count": 1,
         "multiverseid": 4393
@@ -2689,7 +2689,7 @@
       {
         "name": "Spotted Griffin",
         "set_code": "por",
-        "number": "190",
+        "number": "28",
         "foil": false,
         "count": 1,
         "multiverseid": 4396
@@ -2697,7 +2697,7 @@
       {
         "name": "Venerable Monk",
         "set_code": "por",
-        "number": "197",
+        "number": "35",
         "foil": false,
         "count": 1,
         "multiverseid": 4403
@@ -2705,23 +2705,23 @@
       {
         "name": "Warrior's Charge",
         "set_code": "por",
-        "number": "200",
+        "number": "38",
         "foil": false,
         "count": 1,
-        "multiverseid": 4406
+        "multiverseid": 4407
       },
       {
         "name": "Anaconda",
         "set_code": "por",
-        "number": "81",
+        "number": "158",
         "foil": false,
         "count": 1,
-        "multiverseid": 4287
+        "multiverseid": 4288
       },
       {
         "name": "Gorilla Warrior",
         "set_code": "por",
-        "number": "93",
+        "number": "168",
         "foil": false,
         "count": 1,
         "multiverseid": 4299
@@ -2729,7 +2729,7 @@
       {
         "name": "Grizzly Bears",
         "set_code": "por",
-        "number": "94",
+        "number": "169",
         "foil": false,
         "count": 1,
         "multiverseid": 4300
@@ -2737,7 +2737,7 @@
       {
         "name": "Untamed Wilds",
         "set_code": "por",
-        "number": "117",
+        "number": "191",
         "foil": false,
         "count": 1,
         "multiverseid": 4323
@@ -2745,7 +2745,7 @@
       {
         "name": "Blaze",
         "set_code": "por",
-        "number": "122",
+        "number": "118",
         "foil": false,
         "count": 1,
         "multiverseid": 4328
@@ -2753,7 +2753,7 @@
       {
         "name": "Fire Imp",
         "set_code": "por",
-        "number": "131",
+        "number": "126",
         "foil": false,
         "count": 1,
         "multiverseid": 4337
@@ -2761,7 +2761,7 @@
       {
         "name": "Hill Giant",
         "set_code": "por",
-        "number": "138",
+        "number": "133",
         "foil": false,
         "count": 1,
         "multiverseid": 4344
@@ -2769,7 +2769,7 @@
       {
         "name": "Hulking Goblin",
         "set_code": "por",
-        "number": "140",
+        "number": "135",
         "foil": false,
         "count": 1,
         "multiverseid": 4346
@@ -2777,7 +2777,7 @@
       {
         "name": "Lava Axe",
         "set_code": "por",
-        "number": "142",
+        "number": "137",
         "foil": false,
         "count": 1,
         "multiverseid": 4348
@@ -2785,7 +2785,7 @@
       {
         "name": "Lizard Warrior",
         "set_code": "por",
-        "number": "144",
+        "number": "139",
         "foil": false,
         "count": 1,
         "multiverseid": 4350
@@ -2793,15 +2793,15 @@
       {
         "name": "Raging Goblin",
         "set_code": "por",
-        "number": "150",
+        "number": "145",
         "foil": false,
         "count": 1,
-        "multiverseid": 4356
+        "multiverseid": 4357
       },
       {
         "name": "Volcanic Hammer",
         "set_code": "por",
-        "number": "160",
+        "number": "154",
         "foil": false,
         "count": 1,
         "multiverseid": 4366
@@ -2821,23 +2821,23 @@
       {
         "name": "Swamp",
         "set_code": "por",
-        "number": "219",
+        "number": "204",
         "foil": false,
         "count": 6,
-        "multiverseid": 4409
+        "multiverseid": 4412
       },
       {
         "name": "Island",
         "set_code": "por",
-        "number": "207",
+        "number": "200",
         "foil": false,
         "count": 6,
-        "multiverseid": 4421
+        "multiverseid": 4422
       },
       {
         "name": "Forest",
         "set_code": "por",
-        "number": "203",
+        "number": "212",
         "foil": false,
         "count": 3,
         "multiverseid": 4413
@@ -2845,7 +2845,7 @@
       {
         "name": "Craven Knight",
         "set_code": "por",
-        "number": "7",
+        "number": "85",
         "foil": false,
         "count": 1,
         "multiverseid": 4213
@@ -2853,7 +2853,7 @@
       {
         "name": "Feral Shadow",
         "set_code": "por",
-        "number": "15",
+        "number": "93",
         "foil": false,
         "count": 1,
         "multiverseid": 4221
@@ -2861,7 +2861,7 @@
       {
         "name": "Gravedigger",
         "set_code": "por",
-        "number": "17",
+        "number": "95",
         "foil": false,
         "count": 1,
         "multiverseid": 4223
@@ -2869,7 +2869,7 @@
       {
         "name": "Hand of Death",
         "set_code": "por",
-        "number": "18",
+        "number": "96",
         "foil": false,
         "count": 1,
         "multiverseid": 4224
@@ -2877,7 +2877,7 @@
       {
         "name": "Mind Rot",
         "set_code": "por",
-        "number": "24",
+        "number": "101",
         "foil": false,
         "count": 1,
         "multiverseid": 4230
@@ -2885,7 +2885,7 @@
       {
         "name": "Muck Rats",
         "set_code": "por",
-        "number": "25",
+        "number": "102",
         "foil": false,
         "count": 1,
         "multiverseid": 4231
@@ -2893,7 +2893,7 @@
       {
         "name": "Skeletal Crocodile",
         "set_code": "por",
-        "number": "33",
+        "number": "110",
         "foil": false,
         "count": 1,
         "multiverseid": 4239
@@ -2901,7 +2901,7 @@
       {
         "name": "Vampiric Touch",
         "set_code": "por",
-        "number": "38",
+        "number": "115",
         "foil": false,
         "count": 1,
         "multiverseid": 4244
@@ -2909,7 +2909,7 @@
       {
         "name": "Cloak of Feathers",
         "set_code": "por",
-        "number": "45",
+        "number": "44",
         "foil": false,
         "count": 1,
         "multiverseid": 4251
@@ -2917,7 +2917,7 @@
       {
         "name": "Command of Unsummoning",
         "set_code": "por",
-        "number": "49",
+        "number": "48",
         "foil": false,
         "count": 1,
         "multiverseid": 4255
@@ -2925,7 +2925,7 @@
       {
         "name": "Coral Eel",
         "set_code": "por",
-        "number": "50",
+        "number": "49",
         "foil": false,
         "count": 1,
         "multiverseid": 4256
@@ -2933,7 +2933,7 @@
       {
         "name": "Ingenious Thief",
         "set_code": "por",
-        "number": "59",
+        "number": "58",
         "foil": false,
         "count": 1,
         "multiverseid": 4265
@@ -2941,7 +2941,7 @@
       {
         "name": "Snapping Drake",
         "set_code": "por",
-        "number": "68",
+        "number": "67",
         "foil": false,
         "count": 1,
         "multiverseid": 4274
@@ -2949,7 +2949,7 @@
       {
         "name": "Storm Crow",
         "set_code": "por",
-        "number": "70",
+        "number": "69",
         "foil": false,
         "count": 1,
         "multiverseid": 4276
@@ -2957,7 +2957,7 @@
       {
         "name": "Time Ebb",
         "set_code": "por",
-        "number": "76",
+        "number": "75",
         "foil": false,
         "count": 1,
         "multiverseid": 4282
@@ -2965,7 +2965,7 @@
       {
         "name": "Touch of Brilliance",
         "set_code": "por",
-        "number": "77",
+        "number": "76",
         "foil": false,
         "count": 1,
         "multiverseid": 4283
@@ -2973,23 +2973,23 @@
       {
         "name": "Elite Cat Warrior",
         "set_code": "por",
-        "number": "87",
+        "number": "163",
         "foil": false,
         "count": 1,
-        "multiverseid": 4293
+        "multiverseid": 4294
       },
       {
         "name": "Monstrous Growth",
         "set_code": "por",
-        "number": "98",
+        "number": "173",
         "foil": false,
         "count": 1,
-        "multiverseid": 4304
+        "multiverseid": 4305
       },
       {
         "name": "Panther Warriors",
         "set_code": "por",
-        "number": "106",
+        "number": "180",
         "foil": false,
         "count": 1,
         "multiverseid": 9845
@@ -2997,7 +2997,7 @@
       {
         "name": "Rowan Treefolk",
         "set_code": "por",
-        "number": "110",
+        "number": "184",
         "foil": false,
         "count": 1,
         "multiverseid": 4316
@@ -18199,7 +18199,7 @@
         "number": "293a",
         "foil": false,
         "count": 1,
-        "multiverseid": 20576
+        "multiverseid": 20575
       },
       {
         "name": "Lobotomy",
@@ -18459,7 +18459,7 @@
         "number": "296a",
         "foil": false,
         "count": 2,
-        "multiverseid": 20582
+        "multiverseid": 20581
       }
     ],
     "sideboard": [
@@ -18623,7 +18623,7 @@
         "number": "295a",
         "foil": false,
         "count": 2,
-        "multiverseid": 20580
+        "multiverseid": 20579
       },
       {
         "name": "Exclude",
@@ -18647,7 +18647,7 @@
         "number": "293a",
         "foil": false,
         "count": 1,
-        "multiverseid": 20576
+        "multiverseid": 20575
       },
       {
         "name": "Wax // Wane",
@@ -18655,7 +18655,7 @@
         "number": "296a",
         "foil": false,
         "count": 2,
-        "multiverseid": 20582
+        "multiverseid": 20581
       },
       {
         "name": "Global Ruin",
@@ -18891,7 +18891,7 @@
         "number": "295a",
         "foil": false,
         "count": 1,
-        "multiverseid": 20580
+        "multiverseid": 20579
       },
       {
         "name": "Explosive Growth",
@@ -20799,7 +20799,7 @@
         "number": "296a",
         "foil": false,
         "count": 1,
-        "multiverseid": 20582
+        "multiverseid": 20581
       },
       {
         "name": "Dead Ringers",
@@ -40472,13 +40472,13 @@
   {
     "name": "Elves",
     "type": "Duel Deck",
-    "set_code": "evg",
+    "set_code": "dd1",
     "set_name": "Duel Decks: Elves vs. Goblins",
     "release_date": "2007-11-16",
     "cards": [
       {
         "name": "Ambush Commander",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "1",
         "foil": true,
         "count": 1,
@@ -40486,7 +40486,7 @@
       },
       {
         "name": "Allosaurus Rider",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "2",
         "foil": false,
         "count": 1,
@@ -40494,7 +40494,7 @@
       },
       {
         "name": "Elvish Eulogist",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "3",
         "foil": false,
         "count": 2,
@@ -40502,7 +40502,7 @@
       },
       {
         "name": "Elvish Harbinger",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "4",
         "foil": false,
         "count": 1,
@@ -40510,7 +40510,7 @@
       },
       {
         "name": "Elvish Warrior",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "5",
         "foil": false,
         "count": 3,
@@ -40518,7 +40518,7 @@
       },
       {
         "name": "Gempalm Strider",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "6",
         "foil": false,
         "count": 2,
@@ -40526,7 +40526,7 @@
       },
       {
         "name": "Heedless One",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "7",
         "foil": false,
         "count": 1,
@@ -40534,7 +40534,7 @@
       },
       {
         "name": "Imperious Perfect",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "8",
         "foil": false,
         "count": 2,
@@ -40542,7 +40542,7 @@
       },
       {
         "name": "Llanowar Elves",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "9",
         "foil": false,
         "count": 3,
@@ -40550,7 +40550,7 @@
       },
       {
         "name": "Lys Alana Huntmaster",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "10",
         "foil": false,
         "count": 2,
@@ -40558,7 +40558,7 @@
       },
       {
         "name": "Stonewood Invoker",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "11",
         "foil": false,
         "count": 1,
@@ -40566,7 +40566,7 @@
       },
       {
         "name": "Sylvan Messenger",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "12",
         "foil": false,
         "count": 1,
@@ -40574,7 +40574,7 @@
       },
       {
         "name": "Timberwatch Elf",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "13",
         "foil": false,
         "count": 1,
@@ -40582,7 +40582,7 @@
       },
       {
         "name": "Voice of the Woods",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "14",
         "foil": false,
         "count": 1,
@@ -40590,7 +40590,7 @@
       },
       {
         "name": "Wellwisher",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "15",
         "foil": false,
         "count": 2,
@@ -40598,7 +40598,7 @@
       },
       {
         "name": "Wirewood Herald",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "16",
         "foil": false,
         "count": 1,
@@ -40606,7 +40606,7 @@
       },
       {
         "name": "Wirewood Symbiote",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "17",
         "foil": false,
         "count": 1,
@@ -40614,7 +40614,7 @@
       },
       {
         "name": "Wood Elves",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "18",
         "foil": false,
         "count": 2,
@@ -40622,7 +40622,7 @@
       },
       {
         "name": "Wren's Run Vanquisher",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "19",
         "foil": false,
         "count": 1,
@@ -40630,7 +40630,7 @@
       },
       {
         "name": "Elvish Promenade",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "20",
         "foil": false,
         "count": 1,
@@ -40638,7 +40638,7 @@
       },
       {
         "name": "Harmonize",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "22",
         "foil": false,
         "count": 1,
@@ -40646,7 +40646,7 @@
       },
       {
         "name": "Giant Growth",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "21",
         "foil": false,
         "count": 2,
@@ -40654,7 +40654,7 @@
       },
       {
         "name": "Wildsize",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "23",
         "foil": false,
         "count": 1,
@@ -40662,7 +40662,7 @@
       },
       {
         "name": "Moonglove Extract",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "24",
         "foil": false,
         "count": 3,
@@ -40670,7 +40670,7 @@
       },
       {
         "name": "Slate of Ancestry",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "25",
         "foil": false,
         "count": 1,
@@ -40678,7 +40678,7 @@
       },
       {
         "name": "Forest",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "28",
         "foil": false,
         "count": 19,
@@ -40686,7 +40686,7 @@
       },
       {
         "name": "Tranquil Thicket",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "27",
         "foil": false,
         "count": 2,
@@ -40694,7 +40694,7 @@
       },
       {
         "name": "Wirewood Lodge",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "26",
         "foil": false,
         "count": 1,
@@ -40708,13 +40708,13 @@
   {
     "name": "Goblins",
     "type": "Duel Deck",
-    "set_code": "evg",
+    "set_code": "dd1",
     "set_name": "Duel Decks: Elves vs. Goblins",
     "release_date": "2007-11-16",
     "cards": [
       {
         "name": "Akki Coalflinger",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "33",
         "foil": false,
         "count": 1,
@@ -40722,7 +40722,7 @@
       },
       {
         "name": "Clickslither",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "34",
         "foil": false,
         "count": 1,
@@ -40730,7 +40730,7 @@
       },
       {
         "name": "Emberwilde Augur",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "35",
         "foil": false,
         "count": 3,
@@ -40738,7 +40738,7 @@
       },
       {
         "name": "Flamewave Invoker",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "36",
         "foil": false,
         "count": 1,
@@ -40746,7 +40746,7 @@
       },
       {
         "name": "Gempalm Incinerator",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "37",
         "foil": false,
         "count": 1,
@@ -40754,7 +40754,7 @@
       },
       {
         "name": "Goblin Cohort",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "38",
         "foil": false,
         "count": 3,
@@ -40762,7 +40762,7 @@
       },
       {
         "name": "Goblin Matron",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "39",
         "foil": false,
         "count": 1,
@@ -40770,7 +40770,7 @@
       },
       {
         "name": "Goblin Ringleader",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "40",
         "foil": false,
         "count": 1,
@@ -40778,7 +40778,7 @@
       },
       {
         "name": "Goblin Sledder",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "41",
         "foil": false,
         "count": 1,
@@ -40786,7 +40786,7 @@
       },
       {
         "name": "Goblin Warchief",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "42",
         "foil": false,
         "count": 1,
@@ -40794,7 +40794,7 @@
       },
       {
         "name": "Ib Halfheart, Goblin Tactician",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "43",
         "foil": false,
         "count": 1,
@@ -40802,7 +40802,7 @@
       },
       {
         "name": "Mogg Fanatic",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "44",
         "foil": false,
         "count": 1,
@@ -40810,7 +40810,7 @@
       },
       {
         "name": "Mogg War Marshal",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "45",
         "foil": false,
         "count": 2,
@@ -40818,7 +40818,7 @@
       },
       {
         "name": "Mudbutton Torchrunner",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "46",
         "foil": false,
         "count": 2,
@@ -40826,7 +40826,7 @@
       },
       {
         "name": "Raging Goblin",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "47",
         "foil": false,
         "count": 2,
@@ -40834,7 +40834,7 @@
       },
       {
         "name": "Reckless One",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "48",
         "foil": false,
         "count": 1,
@@ -40842,7 +40842,7 @@
       },
       {
         "name": "Siege-Gang Commander",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "32",
         "foil": true,
         "count": 1,
@@ -40850,7 +40850,7 @@
       },
       {
         "name": "Skirk Drill Sergeant",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "49",
         "foil": false,
         "count": 2,
@@ -40858,7 +40858,7 @@
       },
       {
         "name": "Skirk Fire Marshal",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "50",
         "foil": false,
         "count": 1,
@@ -40866,7 +40866,7 @@
       },
       {
         "name": "Skirk Prospector",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "51",
         "foil": false,
         "count": 1,
@@ -40874,7 +40874,7 @@
       },
       {
         "name": "Skirk Shaman",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "52",
         "foil": false,
         "count": 1,
@@ -40882,7 +40882,7 @@
       },
       {
         "name": "Tar Pitcher",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "53",
         "foil": false,
         "count": 1,
@@ -40890,7 +40890,7 @@
       },
       {
         "name": "Spitting Earth",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "55",
         "foil": false,
         "count": 1,
@@ -40898,7 +40898,7 @@
       },
       {
         "name": "Boggart Shenanigans",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "54",
         "foil": false,
         "count": 2,
@@ -40906,7 +40906,7 @@
       },
       {
         "name": "Mountain",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "59",
         "foil": false,
         "count": 22,
@@ -40914,7 +40914,7 @@
       },
       {
         "name": "Forgotten Cave",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "57",
         "foil": false,
         "count": 1,
@@ -40922,7 +40922,7 @@
       },
       {
         "name": "Goblin Burrows",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "58",
         "foil": false,
         "count": 1,
@@ -40930,7 +40930,7 @@
       },
       {
         "name": "Tarfire",
-        "set_code": "evg",
+        "set_code": "dd1",
         "number": "56",
         "foil": false,
         "count": 3,
@@ -74648,7 +74648,86 @@
       }
     ],
     "sideboard": [
-
+      {
+        "name": "Grand Ossuary",
+        "set_code": "pc2",
+        "number": "1017",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226554
+      },
+      {
+        "name": "Hedron Fields of Agadeem",
+        "set_code": "pc2",
+        "number": "1019",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226544
+      },
+      {
+        "name": "Mount Keralia",
+        "set_code": "pc2",
+        "number": "1025",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226515
+      },
+      {
+        "name": "Nephalia",
+        "set_code": "pc2",
+        "number": "1026",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226543
+      },
+      {
+        "name": "Orzhova",
+        "set_code": "pc2",
+        "number": "1030",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226507
+      },
+      {
+        "name": "Trail of the Mage-Rings",
+        "set_code": "pc2",
+        "number": "1037",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226529
+      },
+      {
+        "name": "Truga Jungle",
+        "set_code": "pc2",
+        "number": "1038",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226553
+      },
+      {
+        "name": "Windriddle Palaces",
+        "set_code": "pc2",
+        "number": "1039",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226510
+      },
+      {
+        "name": "Mutual Epiphany",
+        "set_code": "pc2",
+        "number": "1004",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226520
+      },
+      {
+        "name": "Time Distortion",
+        "set_code": "pc2",
+        "number": "1008",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226556
+      }
     ]
   },
   {
@@ -74940,7 +75019,86 @@
       }
     ],
     "sideboard": [
-
+      {
+        "name": "Bloodhill Bastion",
+        "set_code": "pc2",
+        "number": "1012",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226539
+      },
+      {
+        "name": "Gavony",
+        "set_code": "pc2",
+        "number": "1015",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226542
+      },
+      {
+        "name": "Glen Elendra",
+        "set_code": "pc2",
+        "number": "1016",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226535
+      },
+      {
+        "name": "Kharasha Foothills",
+        "set_code": "pc2",
+        "number": "1022",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226534
+      },
+      {
+        "name": "Norn's Dominion",
+        "set_code": "pc2",
+        "number": "1027",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226540
+      },
+      {
+        "name": "Quicksilver Sea",
+        "set_code": "pc2",
+        "number": "1032",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226518
+      },
+      {
+        "name": "Takenuma",
+        "set_code": "pc2",
+        "number": "1035",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226533
+      },
+      {
+        "name": "The Zephyr Maze",
+        "set_code": "pc2",
+        "number": "1040",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226528
+      },
+      {
+        "name": "Interplanar Tunnel",
+        "set_code": "pc2",
+        "number": "1002",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226549
+      },
+      {
+        "name": "Morphic Tide",
+        "set_code": "pc2",
+        "number": "1003",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226514
+      }
     ]
   },
   {
@@ -75240,7 +75398,86 @@
       }
     ],
     "sideboard": [
-
+      {
+        "name": "Furnace Layer",
+        "set_code": "pc2",
+        "number": "1014",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226536
+      },
+      {
+        "name": "Jund",
+        "set_code": "pc2",
+        "number": "1020",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226551
+      },
+      {
+        "name": "Kilnspire District",
+        "set_code": "pc2",
+        "number": "1023",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226523
+      },
+      {
+        "name": "Lair of the Ashen Idol",
+        "set_code": "pc2",
+        "number": "1024",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226532
+      },
+      {
+        "name": "Orochi Colony",
+        "set_code": "pc2",
+        "number": "1029",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226524
+      },
+      {
+        "name": "Prahv",
+        "set_code": "pc2",
+        "number": "1031",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226552
+      },
+      {
+        "name": "Selesnya Loft Gardens",
+        "set_code": "pc2",
+        "number": "1033",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226538
+      },
+      {
+        "name": "Stensia",
+        "set_code": "pc2",
+        "number": "1034",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226555
+      },
+      {
+        "name": "Reality Shaping",
+        "set_code": "pc2",
+        "number": "1006",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226508
+      },
+      {
+        "name": "Spatial Merging",
+        "set_code": "pc2",
+        "number": "1007",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226546
+      }
     ]
   },
   {
@@ -75548,7 +75785,86 @@
       }
     ],
     "sideboard": [
-
+      {
+        "name": "Akoum",
+        "set_code": "pc2",
+        "number": "1009",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226512
+      },
+      {
+        "name": "Aretopolis",
+        "set_code": "pc2",
+        "number": "1010",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226517
+      },
+      {
+        "name": "Astral Arena",
+        "set_code": "pc2",
+        "number": "1011",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226526
+      },
+      {
+        "name": "Edge of Malacol",
+        "set_code": "pc2",
+        "number": "1013",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226527
+      },
+      {
+        "name": "Grove of the Dreampods",
+        "set_code": "pc2",
+        "number": "1018",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226541
+      },
+      {
+        "name": "Kessig",
+        "set_code": "pc2",
+        "number": "1021",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226537
+      },
+      {
+        "name": "Onakke Catacomb",
+        "set_code": "pc2",
+        "number": "1028",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226513
+      },
+      {
+        "name": "Talon Gates",
+        "set_code": "pc2",
+        "number": "1036",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226525
+      },
+      {
+        "name": "Chaotic Aether",
+        "set_code": "pc2",
+        "number": "1001",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226509
+      },
+      {
+        "name": "Planewide Disaster",
+        "set_code": "pc2",
+        "number": "1005",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 226545
+      }
     ]
   },
   {
@@ -99846,13 +100162,13 @@
   {
     "name": "Demonic",
     "type": "Duel Deck",
-    "set_code": "dd3_dvd",
-    "set_name": "Duel Decks Anthology, Divine vs. Demonic",
+    "set_code": "dvd",
+    "set_name": "Duel Decks Anthology: Divine vs. Demonic",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Abyssal Gatekeeper",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "31",
         "foil": false,
         "count": 1,
@@ -99860,7 +100176,7 @@
       },
       {
         "name": "Abyssal Specter",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "40",
         "foil": false,
         "count": 1,
@@ -99868,7 +100184,7 @@
       },
       {
         "name": "Cackling Imp",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "41",
         "foil": false,
         "count": 1,
@@ -99876,7 +100192,7 @@
       },
       {
         "name": "Daggerclaw Imp",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "33",
         "foil": false,
         "count": 1,
@@ -99884,7 +100200,7 @@
       },
       {
         "name": "Demon's Jester",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "38",
         "foil": false,
         "count": 2,
@@ -99892,7 +100208,7 @@
       },
       {
         "name": "Dusk Imp",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "34",
         "foil": false,
         "count": 2,
@@ -99900,7 +100216,7 @@
       },
       {
         "name": "Fallen Angel",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "42",
         "foil": false,
         "count": 1,
@@ -99908,7 +100224,7 @@
       },
       {
         "name": "Foul Imp",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "32",
         "foil": false,
         "count": 1,
@@ -99916,7 +100232,7 @@
       },
       {
         "name": "Kuro, Pitlord",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "44",
         "foil": false,
         "count": 1,
@@ -99924,7 +100240,7 @@
       },
       {
         "name": "Lord of the Pit",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "30",
         "foil": true,
         "count": 1,
@@ -99932,7 +100248,7 @@
       },
       {
         "name": "Overeager Apprentice",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "35",
         "foil": false,
         "count": 2,
@@ -99940,7 +100256,7 @@
       },
       {
         "name": "Reiver Demon",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "43",
         "foil": false,
         "count": 1,
@@ -99948,7 +100264,7 @@
       },
       {
         "name": "Soot Imp",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "37",
         "foil": false,
         "count": 1,
@@ -99956,7 +100272,7 @@
       },
       {
         "name": "Souldrinker",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "39",
         "foil": false,
         "count": 1,
@@ -99964,7 +100280,7 @@
       },
       {
         "name": "Stinkweed Imp",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "36",
         "foil": false,
         "count": 1,
@@ -99972,7 +100288,7 @@
       },
       {
         "name": "Barter in Blood",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "52",
         "foil": false,
         "count": 1,
@@ -99980,7 +100296,7 @@
       },
       {
         "name": "Consume Spirit",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "56",
         "foil": false,
         "count": 1,
@@ -99988,7 +100304,7 @@
       },
       {
         "name": "Corrupt",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "55",
         "foil": false,
         "count": 1,
@@ -99996,7 +100312,7 @@
       },
       {
         "name": "Cruel Edict",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "48",
         "foil": false,
         "count": 1,
@@ -100004,7 +100320,7 @@
       },
       {
         "name": "Demonic Tutor",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "49",
         "foil": false,
         "count": 1,
@@ -100012,7 +100328,7 @@
       },
       {
         "name": "Duress",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "46",
         "foil": false,
         "count": 1,
@@ -100020,7 +100336,7 @@
       },
       {
         "name": "Promise of Power",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "54",
         "foil": false,
         "count": 1,
@@ -100028,7 +100344,7 @@
       },
       {
         "name": "Dark Banishing",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "50",
         "foil": false,
         "count": 1,
@@ -100036,7 +100352,7 @@
       },
       {
         "name": "Dark Ritual",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "45",
         "foil": false,
         "count": 2,
@@ -100044,7 +100360,7 @@
       },
       {
         "name": "Demon's Horn",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "57",
         "foil": false,
         "count": 1,
@@ -100052,7 +100368,7 @@
       },
       {
         "name": "Breeding Pit",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "53",
         "foil": false,
         "count": 2,
@@ -100060,7 +100376,7 @@
       },
       {
         "name": "Oni Possession",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "51",
         "foil": false,
         "count": 1,
@@ -100068,7 +100384,7 @@
       },
       {
         "name": "Unholy Strength",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "47",
         "foil": false,
         "count": 2,
@@ -100076,7 +100392,7 @@
       },
       {
         "name": "Barren Moor",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "58",
         "foil": false,
         "count": 2,
@@ -100084,7 +100400,7 @@
       },
       {
         "name": "Swamp",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "59",
         "foil": false,
         "count": 24,
@@ -100098,13 +100414,13 @@
   {
     "name": "Divine",
     "type": "Duel Deck",
-    "set_code": "dd3_dvd",
-    "set_name": "Duel Decks Anthology, Divine vs. Demonic",
+    "set_code": "dvd",
+    "set_name": "Duel Decks Anthology: Divine vs. Demonic",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Akroma, Angel of Wrath",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "1",
         "foil": true,
         "count": 1,
@@ -100112,7 +100428,7 @@
       },
       {
         "name": "Angel of Mercy",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "9",
         "foil": false,
         "count": 2,
@@ -100120,7 +100436,7 @@
       },
       {
         "name": "Angelic Page",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "3",
         "foil": false,
         "count": 2,
@@ -100128,7 +100444,7 @@
       },
       {
         "name": "Angelic Protector",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "6",
         "foil": false,
         "count": 1,
@@ -100136,7 +100452,7 @@
       },
       {
         "name": "Charging Paladin",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "4",
         "foil": false,
         "count": 2,
@@ -100144,7 +100460,7 @@
       },
       {
         "name": "Icatian Priest",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "2",
         "foil": false,
         "count": 2,
@@ -100152,7 +100468,7 @@
       },
       {
         "name": "Luminous Angel",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "12",
         "foil": false,
         "count": 1,
@@ -100160,7 +100476,7 @@
       },
       {
         "name": "Reya Dawnbringer",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "13",
         "foil": false,
         "count": 1,
@@ -100168,7 +100484,7 @@
       },
       {
         "name": "Serra Advocate",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "7",
         "foil": false,
         "count": 2,
@@ -100176,7 +100492,7 @@
       },
       {
         "name": "Serra Angel",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "10",
         "foil": false,
         "count": 1,
@@ -100184,7 +100500,7 @@
       },
       {
         "name": "Sustainer of the Realm",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "8",
         "foil": false,
         "count": 2,
@@ -100192,7 +100508,7 @@
       },
       {
         "name": "Twilight Shepherd",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "11",
         "foil": false,
         "count": 1,
@@ -100200,7 +100516,7 @@
       },
       {
         "name": "Venerable Monk",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "5",
         "foil": false,
         "count": 2,
@@ -100208,7 +100524,7 @@
       },
       {
         "name": "Angelsong",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "15",
         "foil": false,
         "count": 1,
@@ -100216,7 +100532,7 @@
       },
       {
         "name": "Healing Salve",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "14",
         "foil": false,
         "count": 1,
@@ -100224,7 +100540,7 @@
       },
       {
         "name": "Otherworldly Journey",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "16",
         "foil": false,
         "count": 2,
@@ -100232,7 +100548,7 @@
       },
       {
         "name": "Angel's Feather",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "23",
         "foil": false,
         "count": 1,
@@ -100240,7 +100556,7 @@
       },
       {
         "name": "Marble Diamond",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "24",
         "foil": false,
         "count": 2,
@@ -100248,7 +100564,7 @@
       },
       {
         "name": "Angelic Benediction",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "19",
         "foil": false,
         "count": 1,
@@ -100256,7 +100572,7 @@
       },
       {
         "name": "Faith's Fetters",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "20",
         "foil": false,
         "count": 2,
@@ -100264,7 +100580,7 @@
       },
       {
         "name": "Pacifism",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "17",
         "foil": false,
         "count": 1,
@@ -100272,7 +100588,7 @@
       },
       {
         "name": "Righteous Cause",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "22",
         "foil": false,
         "count": 1,
@@ -100280,7 +100596,7 @@
       },
       {
         "name": "Serra's Boon",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "18",
         "foil": false,
         "count": 1,
@@ -100288,7 +100604,7 @@
       },
       {
         "name": "Serra's Embrace",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "21",
         "foil": false,
         "count": 1,
@@ -100296,7 +100612,7 @@
       },
       {
         "name": "Plains",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "26",
         "foil": false,
         "count": 24,
@@ -100304,7 +100620,7 @@
       },
       {
         "name": "Secluded Steppe",
-        "set_code": "dd3_dvd",
+        "set_code": "dvd",
         "number": "25",
         "foil": false,
         "count": 2,
@@ -100318,13 +100634,13 @@
   {
     "name": "Elves",
     "type": "Duel Deck",
-    "set_code": "dd3_evg",
-    "set_name": "Duel Decks Anthology, Elves vs. Goblins",
+    "set_code": "evg",
+    "set_name": "Duel Decks Anthology: Elves vs. Goblins",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Ambush Commander",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "1",
         "foil": true,
         "count": 1,
@@ -100332,7 +100648,7 @@
       },
       {
         "name": "Allosaurus Rider",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "2",
         "foil": false,
         "count": 1,
@@ -100340,7 +100656,7 @@
       },
       {
         "name": "Elvish Eulogist",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "3",
         "foil": false,
         "count": 2,
@@ -100348,7 +100664,7 @@
       },
       {
         "name": "Elvish Harbinger",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "4",
         "foil": false,
         "count": 1,
@@ -100356,7 +100672,7 @@
       },
       {
         "name": "Elvish Warrior",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "5",
         "foil": false,
         "count": 3,
@@ -100364,7 +100680,7 @@
       },
       {
         "name": "Gempalm Strider",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "6",
         "foil": false,
         "count": 2,
@@ -100372,7 +100688,7 @@
       },
       {
         "name": "Heedless One",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "7",
         "foil": false,
         "count": 1,
@@ -100380,7 +100696,7 @@
       },
       {
         "name": "Imperious Perfect",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "8",
         "foil": false,
         "count": 2,
@@ -100388,7 +100704,7 @@
       },
       {
         "name": "Llanowar Elves",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "9",
         "foil": false,
         "count": 3,
@@ -100396,7 +100712,7 @@
       },
       {
         "name": "Lys Alana Huntmaster",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "10",
         "foil": false,
         "count": 2,
@@ -100404,7 +100720,7 @@
       },
       {
         "name": "Stonewood Invoker",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "11",
         "foil": false,
         "count": 1,
@@ -100412,7 +100728,7 @@
       },
       {
         "name": "Sylvan Messenger",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "12",
         "foil": false,
         "count": 1,
@@ -100420,7 +100736,7 @@
       },
       {
         "name": "Timberwatch Elf",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "13",
         "foil": false,
         "count": 1,
@@ -100428,7 +100744,7 @@
       },
       {
         "name": "Voice of the Woods",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "14",
         "foil": false,
         "count": 1,
@@ -100436,7 +100752,7 @@
       },
       {
         "name": "Wellwisher",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "15",
         "foil": false,
         "count": 2,
@@ -100444,7 +100760,7 @@
       },
       {
         "name": "Wirewood Herald",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "16",
         "foil": false,
         "count": 1,
@@ -100452,7 +100768,7 @@
       },
       {
         "name": "Wirewood Symbiote",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "17",
         "foil": false,
         "count": 1,
@@ -100460,7 +100776,7 @@
       },
       {
         "name": "Wood Elves",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "18",
         "foil": false,
         "count": 2,
@@ -100468,7 +100784,7 @@
       },
       {
         "name": "Wren's Run Vanquisher",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "19",
         "foil": false,
         "count": 1,
@@ -100476,7 +100792,7 @@
       },
       {
         "name": "Elvish Promenade",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "20",
         "foil": false,
         "count": 1,
@@ -100484,7 +100800,7 @@
       },
       {
         "name": "Harmonize",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "22",
         "foil": false,
         "count": 1,
@@ -100492,7 +100808,7 @@
       },
       {
         "name": "Giant Growth",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "21",
         "foil": false,
         "count": 2,
@@ -100500,7 +100816,7 @@
       },
       {
         "name": "Wildsize",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "23",
         "foil": false,
         "count": 1,
@@ -100508,7 +100824,7 @@
       },
       {
         "name": "Moonglove Extract",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "24",
         "foil": false,
         "count": 3,
@@ -100516,7 +100832,7 @@
       },
       {
         "name": "Slate of Ancestry",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "25",
         "foil": false,
         "count": 1,
@@ -100524,7 +100840,7 @@
       },
       {
         "name": "Forest",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "28",
         "foil": false,
         "count": 19,
@@ -100532,7 +100848,7 @@
       },
       {
         "name": "Tranquil Thicket",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "26",
         "foil": false,
         "count": 2,
@@ -100540,7 +100856,7 @@
       },
       {
         "name": "Wirewood Lodge",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "27",
         "foil": false,
         "count": 1,
@@ -100554,13 +100870,13 @@
   {
     "name": "Goblins",
     "type": "Duel Deck",
-    "set_code": "dd3_evg",
-    "set_name": "Duel Decks Anthology, Elves vs. Goblins",
+    "set_code": "evg",
+    "set_name": "Duel Decks Anthology: Elves vs. Goblins",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Siege-Gang Commander",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "32",
         "foil": true,
         "count": 1,
@@ -100568,7 +100884,7 @@
       },
       {
         "name": "Akki Coalflinger",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "33",
         "foil": false,
         "count": 1,
@@ -100576,7 +100892,7 @@
       },
       {
         "name": "Clickslither",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "34",
         "foil": false,
         "count": 1,
@@ -100584,7 +100900,7 @@
       },
       {
         "name": "Emberwilde Augur",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "35",
         "foil": false,
         "count": 3,
@@ -100592,7 +100908,7 @@
       },
       {
         "name": "Flamewave Invoker",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "36",
         "foil": false,
         "count": 1,
@@ -100600,7 +100916,7 @@
       },
       {
         "name": "Gempalm Incinerator",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "37",
         "foil": false,
         "count": 1,
@@ -100608,7 +100924,7 @@
       },
       {
         "name": "Goblin Cohort",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "38",
         "foil": false,
         "count": 3,
@@ -100616,7 +100932,7 @@
       },
       {
         "name": "Goblin Matron",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "39",
         "foil": false,
         "count": 1,
@@ -100624,7 +100940,7 @@
       },
       {
         "name": "Goblin Ringleader",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "40",
         "foil": false,
         "count": 1,
@@ -100632,7 +100948,7 @@
       },
       {
         "name": "Goblin Sledder",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "41",
         "foil": false,
         "count": 1,
@@ -100640,7 +100956,7 @@
       },
       {
         "name": "Goblin Warchief",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "42",
         "foil": false,
         "count": 1,
@@ -100648,7 +100964,7 @@
       },
       {
         "name": "Ib Halfheart, Goblin Tactician",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "43",
         "foil": false,
         "count": 1,
@@ -100656,7 +100972,7 @@
       },
       {
         "name": "Mogg Fanatic",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "44",
         "foil": false,
         "count": 1,
@@ -100664,7 +100980,7 @@
       },
       {
         "name": "Mogg War Marshal",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "45",
         "foil": false,
         "count": 2,
@@ -100672,7 +100988,7 @@
       },
       {
         "name": "Mudbutton Torchrunner",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "46",
         "foil": false,
         "count": 2,
@@ -100680,7 +100996,7 @@
       },
       {
         "name": "Raging Goblin",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "47",
         "foil": false,
         "count": 2,
@@ -100688,7 +101004,7 @@
       },
       {
         "name": "Reckless One",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "48",
         "foil": false,
         "count": 1,
@@ -100696,7 +101012,7 @@
       },
       {
         "name": "Skirk Drill Sergeant",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "49",
         "foil": false,
         "count": 2,
@@ -100704,7 +101020,7 @@
       },
       {
         "name": "Skirk Fire Marshal",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "50",
         "foil": false,
         "count": 1,
@@ -100712,7 +101028,7 @@
       },
       {
         "name": "Skirk Prospector",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "51",
         "foil": false,
         "count": 1,
@@ -100720,7 +101036,7 @@
       },
       {
         "name": "Skirk Shaman",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "52",
         "foil": false,
         "count": 1,
@@ -100728,7 +101044,7 @@
       },
       {
         "name": "Tar Pitcher",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "53",
         "foil": false,
         "count": 1,
@@ -100736,7 +101052,7 @@
       },
       {
         "name": "Spitting Earth",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "55",
         "foil": false,
         "count": 1,
@@ -100744,7 +101060,7 @@
       },
       {
         "name": "Boggart Shenanigans",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "54",
         "foil": false,
         "count": 2,
@@ -100752,7 +101068,7 @@
       },
       {
         "name": "Mountain",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "59",
         "foil": false,
         "count": 22,
@@ -100760,7 +101076,7 @@
       },
       {
         "name": "Goblin Burrows",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "58",
         "foil": false,
         "count": 1,
@@ -100768,7 +101084,7 @@
       },
       {
         "name": "Forgotten Cave",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "57",
         "foil": false,
         "count": 1,
@@ -100776,7 +101092,7 @@
       },
       {
         "name": "Tarfire",
-        "set_code": "dd3_evg",
+        "set_code": "evg",
         "number": "56",
         "foil": false,
         "count": 3,
@@ -100790,13 +101106,13 @@
   {
     "name": "Garruk",
     "type": "Duel Deck",
-    "set_code": "dd3_gvl",
-    "set_name": "Duel Decks Anthology, Garruk vs. Liliana",
+    "set_code": "gvl",
+    "set_name": "Duel Decks Anthology: Garruk vs. Liliana",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Garruk Wildspeaker",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "1",
         "foil": true,
         "count": 1,
@@ -100804,7 +101120,7 @@
       },
       {
         "name": "Albino Troll",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "3",
         "foil": false,
         "count": 2,
@@ -100812,7 +101128,7 @@
       },
       {
         "name": "Basking Rootwalla",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "2",
         "foil": false,
         "count": 2,
@@ -100820,7 +101136,7 @@
       },
       {
         "name": "Blastoderm",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "7",
         "foil": false,
         "count": 2,
@@ -100828,7 +101144,7 @@
       },
       {
         "name": "Indrik Stomphowler",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "10",
         "foil": false,
         "count": 2,
@@ -100836,7 +101152,7 @@
       },
       {
         "name": "Krosan Tusker",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "11",
         "foil": false,
         "count": 1,
@@ -100844,7 +101160,7 @@
       },
       {
         "name": "Plated Slagwurm",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "12",
         "foil": false,
         "count": 1,
@@ -100852,7 +101168,7 @@
       },
       {
         "name": "Ravenous Baloth",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "8",
         "foil": false,
         "count": 1,
@@ -100860,7 +101176,7 @@
       },
       {
         "name": "Stampeding Wildebeests",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "9",
         "foil": false,
         "count": 1,
@@ -100868,7 +101184,7 @@
       },
       {
         "name": "Vine Trellis",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "4",
         "foil": false,
         "count": 2,
@@ -100876,7 +101192,7 @@
       },
       {
         "name": "Wild Mongrel",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "5",
         "foil": false,
         "count": 2,
@@ -100884,7 +101200,7 @@
       },
       {
         "name": "Wirewood Savage",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "6",
         "foil": false,
         "count": 2,
@@ -100892,7 +101208,7 @@
       },
       {
         "name": "Harmonize",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "21",
         "foil": false,
         "count": 2,
@@ -100900,7 +101216,7 @@
       },
       {
         "name": "Nature's Lore",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "17",
         "foil": false,
         "count": 2,
@@ -100908,7 +101224,7 @@
       },
       {
         "name": "Overrun",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "24",
         "foil": false,
         "count": 1,
@@ -100916,7 +101232,7 @@
       },
       {
         "name": "Rude Awakening",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "22",
         "foil": false,
         "count": 1,
@@ -100924,7 +101240,7 @@
       },
       {
         "name": "Beast Attack",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "23",
         "foil": false,
         "count": 1,
@@ -100932,7 +101248,7 @@
       },
       {
         "name": "Giant Growth",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "14",
         "foil": false,
         "count": 1,
@@ -100940,7 +101256,7 @@
       },
       {
         "name": "Invigorate",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "19",
         "foil": false,
         "count": 1,
@@ -100948,7 +101264,7 @@
       },
       {
         "name": "Windstorm",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "25",
         "foil": false,
         "count": 1,
@@ -100956,7 +101272,7 @@
       },
       {
         "name": "Serrated Arrows",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "20",
         "foil": false,
         "count": 2,
@@ -100964,7 +101280,7 @@
       },
       {
         "name": "Elephant Guide",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "18",
         "foil": false,
         "count": 1,
@@ -100972,7 +101288,7 @@
       },
       {
         "name": "Genju of the Cedars",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "13",
         "foil": false,
         "count": 1,
@@ -100980,7 +101296,7 @@
       },
       {
         "name": "Lignify",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "16",
         "foil": false,
         "count": 1,
@@ -100988,7 +101304,7 @@
       },
       {
         "name": "Rancor",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "15",
         "foil": false,
         "count": 2,
@@ -100996,7 +101312,7 @@
       },
       {
         "name": "Forest",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "28",
         "foil": false,
         "count": 21,
@@ -101004,7 +101320,7 @@
       },
       {
         "name": "Slippery Karst",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "26",
         "foil": false,
         "count": 2,
@@ -101012,7 +101328,7 @@
       },
       {
         "name": "Treetop Village",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "27",
         "foil": false,
         "count": 1,
@@ -101026,13 +101342,13 @@
   {
     "name": "Liliana",
     "type": "Duel Deck",
-    "set_code": "dd3_gvl",
-    "set_name": "Duel Decks Anthology, Garruk vs. Liliana",
+    "set_code": "gvl",
+    "set_name": "Duel Decks Anthology: Garruk vs. Liliana",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Liliana Vess",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "32",
         "foil": true,
         "count": 1,
@@ -101040,7 +101356,7 @@
       },
       {
         "name": "Deathgreeter",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "33",
         "foil": false,
         "count": 1,
@@ -101048,7 +101364,7 @@
       },
       {
         "name": "Drudge Skeletons",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "36",
         "foil": false,
         "count": 1,
@@ -101056,7 +101372,7 @@
       },
       {
         "name": "Faerie Macabre",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "42",
         "foil": false,
         "count": 1,
@@ -101064,7 +101380,7 @@
       },
       {
         "name": "Fleshbag Marauder",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "38",
         "foil": false,
         "count": 2,
@@ -101072,7 +101388,7 @@
       },
       {
         "name": "Ghost-Lit Stalker",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "34",
         "foil": false,
         "count": 2,
@@ -101080,7 +101396,7 @@
       },
       {
         "name": "Howling Banshee",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "43",
         "foil": false,
         "count": 1,
@@ -101088,7 +101404,7 @@
       },
       {
         "name": "Keening Banshee",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "44",
         "foil": false,
         "count": 1,
@@ -101096,7 +101412,7 @@
       },
       {
         "name": "Phyrexian Rager",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "39",
         "foil": false,
         "count": 2,
@@ -101104,7 +101420,7 @@
       },
       {
         "name": "Ravenous Rats",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "37",
         "foil": false,
         "count": 1,
@@ -101112,7 +101428,7 @@
       },
       {
         "name": "Skeletal Vampire",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "46",
         "foil": false,
         "count": 1,
@@ -101120,7 +101436,7 @@
       },
       {
         "name": "Twisted Abomination",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "45",
         "foil": false,
         "count": 2,
@@ -101128,7 +101444,7 @@
       },
       {
         "name": "Urborg Syphon-Mage",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "40",
         "foil": false,
         "count": 1,
@@ -101136,7 +101452,7 @@
       },
       {
         "name": "Vampire Bats",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "35",
         "foil": false,
         "count": 2,
@@ -101144,7 +101460,7 @@
       },
       {
         "name": "Wall of Bone",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "41",
         "foil": false,
         "count": 1,
@@ -101152,7 +101468,7 @@
       },
       {
         "name": "Corrupt",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "57",
         "foil": false,
         "count": 2,
@@ -101160,7 +101476,7 @@
       },
       {
         "name": "Ichor Slick",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "51",
         "foil": false,
         "count": 1,
@@ -101168,7 +101484,7 @@
       },
       {
         "name": "Mutilate",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "55",
         "foil": false,
         "count": 1,
@@ -101176,7 +101492,7 @@
       },
       {
         "name": "Rise from the Grave",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "56",
         "foil": false,
         "count": 1,
@@ -101184,7 +101500,7 @@
       },
       {
         "name": "Sign in Blood",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "49",
         "foil": false,
         "count": 2,
@@ -101192,7 +101508,7 @@
       },
       {
         "name": "Vicious Hunger",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "50",
         "foil": false,
         "count": 1,
@@ -101200,7 +101516,7 @@
       },
       {
         "name": "Hideous End",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "52",
         "foil": false,
         "count": 1,
@@ -101208,7 +101524,7 @@
       },
       {
         "name": "Snuff Out",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "53",
         "foil": false,
         "count": 1,
@@ -101216,7 +101532,7 @@
       },
       {
         "name": "Tendrils of Corruption",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "54",
         "foil": false,
         "count": 2,
@@ -101224,7 +101540,7 @@
       },
       {
         "name": "Bad Moon",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "48",
         "foil": false,
         "count": 1,
@@ -101232,7 +101548,7 @@
       },
       {
         "name": "Enslave",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "58",
         "foil": false,
         "count": 1,
@@ -101240,7 +101556,7 @@
       },
       {
         "name": "Genju of the Fens",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "47",
         "foil": false,
         "count": 1,
@@ -101248,7 +101564,7 @@
       },
       {
         "name": "Polluted Mire",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "59",
         "foil": false,
         "count": 2,
@@ -101256,7 +101572,7 @@
       },
       {
         "name": "Swamp",
-        "set_code": "dd3_gvl",
+        "set_code": "gvl",
         "number": "60",
         "foil": false,
         "count": 23,
@@ -101270,13 +101586,13 @@
   {
     "name": "Chandra",
     "type": "Duel Deck",
-    "set_code": "dd3_jvc",
-    "set_name": "Duel Decks Anthology, Jace vs. Chandra",
+    "set_code": "jvc",
+    "set_name": "Duel Decks Anthology: Jace vs. Chandra",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Chandra Nalaar",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "34",
         "foil": true,
         "count": 1,
@@ -101284,7 +101600,7 @@
       },
       {
         "name": "Chartooth Cougar",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "47",
         "foil": false,
         "count": 1,
@@ -101292,7 +101608,7 @@
       },
       {
         "name": "Fireslinger",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "36",
         "foil": false,
         "count": 1,
@@ -101300,7 +101616,7 @@
       },
       {
         "name": "Flamekin Brawler",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "35",
         "foil": false,
         "count": 2,
@@ -101308,7 +101624,7 @@
       },
       {
         "name": "Flametongue Kavu",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "42",
         "foil": false,
         "count": 1,
@@ -101316,7 +101632,7 @@
       },
       {
         "name": "Flamewave Invoker",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "40",
         "foil": false,
         "count": 1,
@@ -101324,7 +101640,7 @@
       },
       {
         "name": "Furnace Whelp",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "43",
         "foil": false,
         "count": 2,
@@ -101332,7 +101648,7 @@
       },
       {
         "name": "Hostility",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "48",
         "foil": false,
         "count": 1,
@@ -101340,7 +101656,7 @@
       },
       {
         "name": "Ingot Chewer",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "45",
         "foil": false,
         "count": 1,
@@ -101348,7 +101664,7 @@
       },
       {
         "name": "Inner-Flame Acolyte",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "41",
         "foil": false,
         "count": 2,
@@ -101356,7 +101672,7 @@
       },
       {
         "name": "Oxidda Golem",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "46",
         "foil": false,
         "count": 2,
@@ -101364,7 +101680,7 @@
       },
       {
         "name": "Pyre Charger",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "38",
         "foil": false,
         "count": 1,
@@ -101372,7 +101688,7 @@
       },
       {
         "name": "Rakdos Pit Dragon",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "44",
         "foil": false,
         "count": 1,
@@ -101380,7 +101696,7 @@
       },
       {
         "name": "Slith Firewalker",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "39",
         "foil": false,
         "count": 2,
@@ -101388,7 +101704,7 @@
       },
       {
         "name": "Soulbright Flamekin",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "37",
         "foil": false,
         "count": 2,
@@ -101396,7 +101712,7 @@
       },
       {
         "name": "Cone of Flame",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "54",
         "foil": false,
         "count": 1,
@@ -101404,7 +101720,7 @@
       },
       {
         "name": "Demonfire",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "57",
         "foil": false,
         "count": 1,
@@ -101412,7 +101728,7 @@
       },
       {
         "name": "Fireball",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "56",
         "foil": false,
         "count": 2,
@@ -101420,7 +101736,7 @@
       },
       {
         "name": "Firebolt",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "49",
         "foil": false,
         "count": 2,
@@ -101428,7 +101744,7 @@
       },
       {
         "name": "Fireblast",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "55",
         "foil": false,
         "count": 2,
@@ -101436,7 +101752,7 @@
       },
       {
         "name": "Flame Javelin",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "53",
         "foil": false,
         "count": 1,
@@ -101444,7 +101760,7 @@
       },
       {
         "name": "Incinerate",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "51",
         "foil": false,
         "count": 2,
@@ -101452,7 +101768,7 @@
       },
       {
         "name": "Magma Jet",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "52",
         "foil": false,
         "count": 1,
@@ -101460,7 +101776,7 @@
       },
       {
         "name": "Seal of Fire",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "50",
         "foil": false,
         "count": 2,
@@ -101468,7 +101784,7 @@
       },
       {
         "name": "Keldon Megaliths",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "58",
         "foil": false,
         "count": 1,
@@ -101476,7 +101792,7 @@
       },
       {
         "name": "Mountain",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "59",
         "foil": false,
         "count": 24,
@@ -101490,13 +101806,13 @@
   {
     "name": "Jace",
     "type": "Duel Deck",
-    "set_code": "dd3_jvc",
-    "set_name": "Duel Decks Anthology, Jace vs. Chandra",
+    "set_code": "jvc",
+    "set_name": "Duel Decks Anthology: Jace vs. Chandra",
     "release_date": "2014-12-05",
     "cards": [
       {
         "name": "Jace Beleren",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "1",
         "foil": true,
         "count": 1,
@@ -101504,7 +101820,7 @@
       },
       {
         "name": "Aethersnipe",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "17",
         "foil": false,
         "count": 1,
@@ -101512,7 +101828,7 @@
       },
       {
         "name": "Air Elemental",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "13",
         "foil": false,
         "count": 1,
@@ -101520,7 +101836,7 @@
       },
       {
         "name": "Bottle Gnomes",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "7",
         "foil": false,
         "count": 1,
@@ -101528,7 +101844,7 @@
       },
       {
         "name": "Brine Elemental",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "18",
         "foil": false,
         "count": 1,
@@ -101536,7 +101852,7 @@
       },
       {
         "name": "Errant Ephemeron",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "20",
         "foil": false,
         "count": 1,
@@ -101544,7 +101860,7 @@
       },
       {
         "name": "Fathom Seer",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "3",
         "foil": false,
         "count": 2,
@@ -101552,7 +101868,7 @@
       },
       {
         "name": "Fledgling Mawcor",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "10",
         "foil": false,
         "count": 1,
@@ -101560,7 +101876,7 @@
       },
       {
         "name": "Guile",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "14",
         "foil": false,
         "count": 1,
@@ -101568,7 +101884,7 @@
       },
       {
         "name": "Man-o'-War",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "8",
         "foil": false,
         "count": 2,
@@ -101576,7 +101892,7 @@
       },
       {
         "name": "Martyr of Frost",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "2",
         "foil": false,
         "count": 1,
@@ -101584,7 +101900,7 @@
       },
       {
         "name": "Mulldrifter",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "12",
         "foil": false,
         "count": 2,
@@ -101592,7 +101908,7 @@
       },
       {
         "name": "Ophidian",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "9",
         "foil": false,
         "count": 1,
@@ -101600,7 +101916,7 @@
       },
       {
         "name": "Quicksilver Dragon",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "19",
         "foil": false,
         "count": 1,
@@ -101608,7 +101924,7 @@
       },
       {
         "name": "Riftwing Cloudskate",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "15",
         "foil": false,
         "count": 1,
@@ -101616,7 +101932,7 @@
       },
       {
         "name": "Spire Golem",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "16",
         "foil": false,
         "count": 2,
@@ -101624,7 +101940,7 @@
       },
       {
         "name": "Voidmage Apprentice",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "4",
         "foil": false,
         "count": 1,
@@ -101632,7 +101948,7 @@
       },
       {
         "name": "Wall of Deceit",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "5",
         "foil": false,
         "count": 2,
@@ -101640,7 +101956,7 @@
       },
       {
         "name": "Waterspout Djinn",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "11",
         "foil": false,
         "count": 1,
@@ -101648,7 +101964,7 @@
       },
       {
         "name": "Willbender",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "6",
         "foil": false,
         "count": 1,
@@ -101656,7 +101972,7 @@
       },
       {
         "name": "Ancestral Vision",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "21",
         "foil": false,
         "count": 1,
@@ -101664,7 +101980,7 @@
       },
       {
         "name": "Condescend",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "28",
         "foil": false,
         "count": 2,
@@ -101672,7 +101988,7 @@
       },
       {
         "name": "Counterspell",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "24",
         "foil": false,
         "count": 2,
@@ -101680,7 +101996,7 @@
       },
       {
         "name": "Daze",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "23",
         "foil": false,
         "count": 1,
@@ -101688,7 +102004,7 @@
       },
       {
         "name": "Fact or Fiction",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "26",
         "foil": false,
         "count": 1,
@@ -101696,7 +102012,7 @@
       },
       {
         "name": "Gush",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "27",
         "foil": false,
         "count": 1,
@@ -101704,7 +102020,7 @@
       },
       {
         "name": "Repulse",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "25",
         "foil": false,
         "count": 2,
@@ -101712,7 +102028,7 @@
       },
       {
         "name": "Mind Stone",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "22",
         "foil": false,
         "count": 1,
@@ -101720,7 +102036,7 @@
       },
       {
         "name": "Island",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "30",
         "foil": false,
         "count": 23,
@@ -101728,7 +102044,7 @@
       },
       {
         "name": "Terrain Generator",
-        "set_code": "dd3_jvc",
+        "set_code": "jvc",
         "number": "29",
         "foil": false,
         "count": 1,
@@ -121830,86 +122146,7 @@
       }
     ],
     "sideboard": [
-      {
-        "name": "Grand Ossuary",
-        "set_code": "pca",
-        "number": "1031",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423612
-      },
-      {
-        "name": "Hedron Fields of Agadeem",
-        "set_code": "pca",
-        "number": "1035",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423616
-      },
-      {
-        "name": "Mount Keralia",
-        "set_code": "pca",
-        "number": "1052",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423633
-      },
-      {
-        "name": "Nephalia",
-        "set_code": "pca",
-        "number": "1056",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423637
-      },
-      {
-        "name": "Orzhova",
-        "set_code": "pca",
-        "number": "1060",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423641
-      },
-      {
-        "name": "Trail of the Mage-Rings",
-        "set_code": "pca",
-        "number": "1080",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423661
-      },
-      {
-        "name": "Truga Jungle",
-        "set_code": "pca",
-        "number": "1081",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423662
-      },
-      {
-        "name": "Windriddle Palaces",
-        "set_code": "pca",
-        "number": "1085",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423666
-      },
-      {
-        "name": "Mutual Epiphany",
-        "set_code": "pca",
-        "number": "1004",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423585
-      },
-      {
-        "name": "Time Distortion",
-        "set_code": "pca",
-        "number": "1008",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423589
-      }
+
     ]
   },
   {
@@ -122201,86 +122438,7 @@
       }
     ],
     "sideboard": [
-      {
-        "name": "Bloodhill Bastion",
-        "set_code": "pca",
-        "number": "1016",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423597
-      },
-      {
-        "name": "Gavony",
-        "set_code": "pca",
-        "number": "1027",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423608
-      },
-      {
-        "name": "Glen Elendra",
-        "set_code": "pca",
-        "number": "1028",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423609
-      },
-      {
-        "name": "Kharasha Foothills",
-        "set_code": "pca",
-        "number": "1043",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423624
-      },
-      {
-        "name": "Norn's Dominion",
-        "set_code": "pca",
-        "number": "1057",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423638
-      },
-      {
-        "name": "Quicksilver Sea",
-        "set_code": "pca",
-        "number": "1065",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423646
-      },
-      {
-        "name": "Takenuma",
-        "set_code": "pca",
-        "number": "1076",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423657
-      },
-      {
-        "name": "The Zephyr Maze",
-        "set_code": "pca",
-        "number": "1086",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423667
-      },
-      {
-        "name": "Interplanar Tunnel",
-        "set_code": "pca",
-        "number": "1002",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423583
-      },
-      {
-        "name": "Morphic Tide",
-        "set_code": "pca",
-        "number": "1003",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423584
-      }
+
     ]
   },
   {
@@ -122580,86 +122738,7 @@
       }
     ],
     "sideboard": [
-      {
-        "name": "Furnace Layer",
-        "set_code": "pca",
-        "number": "1026",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423607
-      },
-      {
-        "name": "Jund",
-        "set_code": "pca",
-        "number": "1041",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423622
-      },
-      {
-        "name": "Kilnspire District",
-        "set_code": "pca",
-        "number": "1044",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423625
-      },
-      {
-        "name": "Lair of the Ashen Idol",
-        "set_code": "pca",
-        "number": "1046",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423627
-      },
-      {
-        "name": "Orochi Colony",
-        "set_code": "pca",
-        "number": "1059",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423640
-      },
-      {
-        "name": "Prahv",
-        "set_code": "pca",
-        "number": "1064",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423645
-      },
-      {
-        "name": "Selesnya Loft Gardens",
-        "set_code": "pca",
-        "number": "1069",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423650
-      },
-      {
-        "name": "Stensia",
-        "set_code": "pca",
-        "number": "1074",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423655
-      },
-      {
-        "name": "Reality Shaping",
-        "set_code": "pca",
-        "number": "1006",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423587
-      },
-      {
-        "name": "Spatial Merging",
-        "set_code": "pca",
-        "number": "1007",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423588
-      }
+
     ]
   },
   {
@@ -122967,86 +123046,7 @@
       }
     ],
     "sideboard": [
-      {
-        "name": "Akoum",
-        "set_code": "pca",
-        "number": "1012",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423593
-      },
-      {
-        "name": "Aretopolis",
-        "set_code": "pca",
-        "number": "1013",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423594
-      },
-      {
-        "name": "Astral Arena",
-        "set_code": "pca",
-        "number": "1014",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423595
-      },
-      {
-        "name": "Edge of Malacol",
-        "set_code": "pca",
-        "number": "1020",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423601
-      },
-      {
-        "name": "Grove of the Dreampods",
-        "set_code": "pca",
-        "number": "1034",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423615
-      },
-      {
-        "name": "Kessig",
-        "set_code": "pca",
-        "number": "1042",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423623
-      },
-      {
-        "name": "Onakke Catacomb",
-        "set_code": "pca",
-        "number": "1058",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423639
-      },
-      {
-        "name": "Talon Gates",
-        "set_code": "pca",
-        "number": "1077",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423658
-      },
-      {
-        "name": "Chaotic Aether",
-        "set_code": "pca",
-        "number": "1001",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423582
-      },
-      {
-        "name": "Planewide Disaster",
-        "set_code": "pca",
-        "number": "1005",
-        "foil": false,
-        "count": 1,
-        "multiverseid": 423586
-      }
+
     ]
   },
   {
@@ -135796,7 +135796,7 @@
     "name": "Breed Lethality",
     "type": "Commander Deck",
     "set_code": "cm2",
-    "set_name": "Commander Anthology 2018",
+    "set_name": "Commander Anthology Volume II",
     "release_date": "2018-06-08",
     "cards": [
       {
@@ -136471,7 +136471,7 @@
     "name": "Built From Scratch",
     "type": "Commander Deck",
     "set_code": "cm2",
-    "set_name": "Commander Anthology 2018",
+    "set_name": "Commander Anthology Volume II",
     "release_date": "2018-06-08",
     "cards": [
       {
@@ -137058,7 +137058,7 @@
     "name": "Devour for Power",
     "type": "Commander Deck",
     "set_code": "cm2",
-    "set_name": "Commander Anthology 2018",
+    "set_name": "Commander Anthology Volume II",
     "release_date": "2018-06-08",
     "cards": [
       {
@@ -137677,7 +137677,7 @@
     "name": "Wade into Battle",
     "type": "Commander Deck",
     "set_code": "cm2",
-    "set_name": "Commander Anthology 2018",
+    "set_name": "Commander Anthology Volume II",
     "release_date": "2018-06-08",
     "cards": [
       {
@@ -148394,6 +148394,358 @@
         "foil": false,
         "count": 8,
         "multiverseid": 460318
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Gideon, the Oathsworn",
+    "type": "Planeswalker Deck",
+    "set_code": "war",
+    "set_name": "War of the Spark",
+    "release_date": "2019-05-03",
+    "cards": [
+      {
+        "name": "Ajani's Pridemate",
+        "set_code": "war",
+        "number": "4",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 460931
+      },
+      {
+        "name": "Orzhov Guildgate",
+        "set_code": "war",
+        "number": "269",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 463836
+      },
+      {
+        "name": "Plains",
+        "set_code": "war",
+        "number": "250",
+        "foil": false,
+        "count": 12,
+        "multiverseid": 461177
+      },
+      {
+        "name": "Swamp",
+        "set_code": "war",
+        "number": "256",
+        "foil": false,
+        "count": 8,
+        "multiverseid": 461183
+      },
+      {
+        "name": "Command the Dreadhorde",
+        "set_code": "war",
+        "number": "82",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461009
+      },
+      {
+        "name": "Oath of Kaya",
+        "set_code": "war",
+        "number": "209",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461136
+      },
+      {
+        "name": "Gideon's Battle Cry",
+        "set_code": "war",
+        "number": "267",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 463834
+      },
+      {
+        "name": "Kaya, Bane of the Dead",
+        "set_code": "war",
+        "number": "231",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461158
+      },
+      {
+        "name": "Charmed Stray",
+        "set_code": "war",
+        "number": "8",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 460935
+      },
+      {
+        "name": "Enforcer Griffin",
+        "set_code": "war",
+        "number": "11",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 460938
+      },
+      {
+        "name": "Makeshift Battalion",
+        "set_code": "war",
+        "number": "22",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 460949
+      },
+      {
+        "name": "Trusted Pegasus",
+        "set_code": "war",
+        "number": "36",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 460963
+      },
+      {
+        "name": "War Screecher",
+        "set_code": "war",
+        "number": "39",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 460966
+      },
+      {
+        "name": "Vampire Opportunist",
+        "set_code": "war",
+        "number": "110",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461037
+      },
+      {
+        "name": "Cruel Celebrant",
+        "set_code": "war",
+        "number": "188",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 461115
+      },
+      {
+        "name": "Gideon's Company",
+        "set_code": "war",
+        "number": "268",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 463835
+      },
+      {
+        "name": "Bond of Discipline",
+        "set_code": "war",
+        "number": "6",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 460933
+      },
+      {
+        "name": "Ob Nixilis's Cruelty",
+        "set_code": "war",
+        "number": "101",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 461028
+      },
+      {
+        "name": "Desperate Lunge",
+        "set_code": "war",
+        "number": "266",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 463833
+      },
+      {
+        "name": "Gideon, the Oathsworn",
+        "set_code": "war",
+        "number": "265",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 463832
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Jace, Arcane Strategist",
+    "type": "Planeswalker Deck",
+    "set_code": "war",
+    "set_name": "War of the Spark",
+    "release_date": "2019-05-03",
+    "cards": [
+      {
+        "name": "Primordial Wurm",
+        "set_code": "war",
+        "number": "174",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461101
+      },
+      {
+        "name": "New Horizons",
+        "set_code": "war",
+        "number": "168",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461095
+      },
+      {
+        "name": "Simic Guildgate",
+        "set_code": "war",
+        "number": "274",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 463841
+      },
+      {
+        "name": "Island",
+        "set_code": "war",
+        "number": "253",
+        "foil": false,
+        "count": 10,
+        "multiverseid": 461180
+      },
+      {
+        "name": "Forest",
+        "set_code": "war",
+        "number": "262",
+        "foil": false,
+        "count": 11,
+        "multiverseid": 461189
+      },
+      {
+        "name": "Spark Double",
+        "set_code": "war",
+        "number": "68",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 460995
+      },
+      {
+        "name": "Bioessence Hydra",
+        "set_code": "war",
+        "number": "186",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461113
+      },
+      {
+        "name": "Jace's Ruse",
+        "set_code": "war",
+        "number": "273",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 463840
+      },
+      {
+        "name": "Kiora, Behemoth Beckoner",
+        "set_code": "war",
+        "number": "232",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461159
+      },
+      {
+        "name": "Kiora's Dambreaker",
+        "set_code": "war",
+        "number": "58",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 460985
+      },
+      {
+        "name": "Bloom Hulk",
+        "set_code": "war",
+        "number": "154",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 461081
+      },
+      {
+        "name": "Pollenbright Druid",
+        "set_code": "war",
+        "number": "173",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 461100
+      },
+      {
+        "name": "Wardscale Crocodile",
+        "set_code": "war",
+        "number": "183",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461110
+      },
+      {
+        "name": "Merfolk Skydiver",
+        "set_code": "war",
+        "number": "205",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461132
+      },
+      {
+        "name": "Guildpact Informant",
+        "set_code": "war",
+        "number": "271",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 463838
+      },
+      {
+        "name": "Jace's Projection",
+        "set_code": "war",
+        "number": "272",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 463839
+      },
+      {
+        "name": "Jace's Triumph",
+        "set_code": "war",
+        "number": "55",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 460982
+      },
+      {
+        "name": "Stealth Mission",
+        "set_code": "war",
+        "number": "70",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 460997
+      },
+      {
+        "name": "Band Together",
+        "set_code": "war",
+        "number": "153",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461080
+      },
+      {
+        "name": "Courage in Crisis",
+        "set_code": "war",
+        "number": "158",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461085
+      },
+      {
+        "name": "Jace, Arcane Strategist",
+        "set_code": "war",
+        "number": "270",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 463837
       }
     ],
     "sideboard": [
