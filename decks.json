@@ -127604,7 +127604,7 @@
         "name": "Derevi, Empyrial Tactician",
         "set_code": "cma",
         "number": "176",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 430395
       }
@@ -128223,7 +128223,7 @@
         "name": "Freyalise, Llanowar's Fury",
         "set_code": "cma",
         "number": "111",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 430330
       }
@@ -128866,7 +128866,7 @@
         "name": "Kaalia of the Vast",
         "set_code": "cma",
         "number": "180",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 430399
       }
@@ -129493,7 +129493,7 @@
         "name": "Meren of Clan Nel Toth",
         "set_code": "cma",
         "number": "186",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 430405
       }
@@ -145446,7 +145446,7 @@
         "name": "Ral, Caller of Storms",
         "set_code": "grn",
         "number": "265",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 455605
       },
@@ -145821,7 +145821,7 @@
         "name": "Vraska, Regal Gorgon",
         "set_code": "grn",
         "number": "269",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 455609
       },
@@ -148505,7 +148505,7 @@
         "name": "Domri, City Smasher",
         "set_code": "rna",
         "number": "269",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 460003
       },
@@ -148685,7 +148685,7 @@
         "name": "Dovin, Architect of Law",
         "set_code": "rna",
         "number": "265",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 459999
       },
@@ -150549,7 +150549,7 @@
         "name": "Gideon, the Oathsworn",
         "set_code": "war",
         "number": "265",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 463832
       }
@@ -150729,7 +150729,7 @@
         "name": "Jace, Arcane Strategist",
         "set_code": "war",
         "number": "270",
-        "foil": false,
+        "foil": true,
         "count": 1,
         "multiverseid": 463837
       }
