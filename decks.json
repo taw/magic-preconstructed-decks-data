@@ -150743,5 +150743,985 @@
     "sideboard": [
 
     ]
+  },
+  {
+    "name": "Ajani, Inspiring Leader",
+    "type": "Planeswalker Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-29",
+    "cards": [
+      {
+        "name": "Serra's Guardian",
+        "set_code": "m20",
+        "number": "310",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469863
+      },
+      {
+        "name": "Daybreak Chaplain",
+        "set_code": "m20",
+        "number": "12",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466766
+      },
+      {
+        "name": "Fencing Ace",
+        "set_code": "m20",
+        "number": "16",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466770
+      },
+      {
+        "name": "Impassioned Orator",
+        "set_code": "m20",
+        "number": "306",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469859
+      },
+      {
+        "name": "Moment of Heroism",
+        "set_code": "m20",
+        "number": "30",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466784
+      },
+      {
+        "name": "Pacifism",
+        "set_code": "m20",
+        "number": "32",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466786
+      },
+      {
+        "name": "Plains",
+        "set_code": "m20",
+        "number": "261",
+        "foil": false,
+        "count": 25,
+        "multiverseid": 467015
+      },
+      {
+        "name": "Loxodon Lifechanter",
+        "set_code": "m20",
+        "number": "27",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466781
+      },
+      {
+        "name": "Goldmane Griffin",
+        "set_code": "m20",
+        "number": "283",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469836
+      },
+      {
+        "name": "Angel of Vitality",
+        "set_code": "m20",
+        "number": "4",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466758
+      },
+      {
+        "name": "Dawning Angel",
+        "set_code": "m20",
+        "number": "11",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466765
+      },
+      {
+        "name": "Savannah Sage",
+        "set_code": "m20",
+        "number": "284",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 469837
+      },
+      {
+        "name": "Twinblade Paladin",
+        "set_code": "m20",
+        "number": "285",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469838
+      },
+      {
+        "name": "Ajani, Inspiring Leader",
+        "set_code": "m20",
+        "number": "282",
+        "foil": true,
+        "count": 1,
+        "multiverseid": 469835
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Chandra, Flame's Fury",
+    "type": "Planeswalker Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-29",
+    "cards": [
+      {
+        "name": "Shivan Dragon",
+        "set_code": "m20",
+        "number": "335",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469888
+      },
+      {
+        "name": "Chandra's Spitfire",
+        "set_code": "m20",
+        "number": "132",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466886
+      },
+      {
+        "name": "Ember Hauler",
+        "set_code": "m20",
+        "number": "137",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466891
+      },
+      {
+        "name": "Chandra's Outrage",
+        "set_code": "m20",
+        "number": "130",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466884
+      },
+      {
+        "name": "Shock",
+        "set_code": "m20",
+        "number": "160",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466914
+      },
+      {
+        "name": "Mountain",
+        "set_code": "m20",
+        "number": "273",
+        "foil": false,
+        "count": 25,
+        "multiverseid": 467027
+      },
+      {
+        "name": "Drakuseth, Maw of Flames",
+        "set_code": "m20",
+        "number": "136",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466890
+      },
+      {
+        "name": "Chandra's Flame Wave",
+        "set_code": "m20",
+        "number": "295",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469848
+      },
+      {
+        "name": "Pack Mastiff",
+        "set_code": "m20",
+        "number": "152",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466906
+      },
+      {
+        "name": "Scorch Spitter",
+        "set_code": "m20",
+        "number": "159",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466913
+      },
+      {
+        "name": "Pyroclastic Elemental",
+        "set_code": "m20",
+        "number": "296",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469849
+      },
+      {
+        "name": "Wildfire Elemental",
+        "set_code": "m20",
+        "number": "297",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 469850
+      },
+      {
+        "name": "Infuriate",
+        "set_code": "m20",
+        "number": "145",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466899
+      },
+      {
+        "name": "Chandra, Flame's Fury",
+        "set_code": "m20",
+        "number": "294",
+        "foil": true,
+        "count": 1,
+        "multiverseid": 469847
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Mu Yanling, Celestial Wind",
+    "type": "Planeswalker Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-29",
+    "cards": [
+      {
+        "name": "Riddlemaster Sphinx",
+        "set_code": "m20",
+        "number": "317",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469870
+      },
+      {
+        "name": "Dungeon Geists",
+        "set_code": "m20",
+        "number": "57",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466811
+      },
+      {
+        "name": "Air Elemental",
+        "set_code": "m20",
+        "number": "44",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466798
+      },
+      {
+        "name": "Frost Lynx",
+        "set_code": "m20",
+        "number": "62",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466816
+      },
+      {
+        "name": "Warden of Evos Isle",
+        "set_code": "m20",
+        "number": "79",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466833
+      },
+      {
+        "name": "Unsummon",
+        "set_code": "m20",
+        "number": "78",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466832
+      },
+      {
+        "name": "Island",
+        "set_code": "m20",
+        "number": "265",
+        "foil": false,
+        "count": 25,
+        "multiverseid": 467019
+      },
+      {
+        "name": "Yanling's Harbinger",
+        "set_code": "m20",
+        "number": "289",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469842
+      },
+      {
+        "name": "Brineborn Cutthroat",
+        "set_code": "m20",
+        "number": "50",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466804
+      },
+      {
+        "name": "Cloudkin Seer",
+        "set_code": "m20",
+        "number": "54",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466808
+      },
+      {
+        "name": "Spectral Sailor",
+        "set_code": "m20",
+        "number": "76",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466830
+      },
+      {
+        "name": "Celestial Messenger",
+        "set_code": "m20",
+        "number": "287",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 469840
+      },
+      {
+        "name": "Waterkin Shaman",
+        "set_code": "m20",
+        "number": "288",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469841
+      },
+      {
+        "name": "Winged Words",
+        "set_code": "m20",
+        "number": "80",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466834
+      },
+      {
+        "name": "Mu Yanling, Celestial Wind",
+        "set_code": "m20",
+        "number": "286",
+        "foil": true,
+        "count": 1,
+        "multiverseid": 469839
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Sorin, Vampire Lord",
+    "type": "Planeswalker Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-29",
+    "cards": [
+      {
+        "name": "Gravewaker",
+        "set_code": "m20",
+        "number": "323",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469876
+      },
+      {
+        "name": "Vampire Opportunist",
+        "set_code": "m20",
+        "number": "326",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469879
+      },
+      {
+        "name": "Murder",
+        "set_code": "m20",
+        "number": "109",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466863
+      },
+      {
+        "name": "Sorin's Thirst",
+        "set_code": "m20",
+        "number": "325",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 469878
+      },
+      {
+        "name": "Swamp",
+        "set_code": "m20",
+        "number": "269",
+        "foil": false,
+        "count": 25,
+        "multiverseid": 467023
+      },
+      {
+        "name": "Dread Presence",
+        "set_code": "m20",
+        "number": "96",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466850
+      },
+      {
+        "name": "Sorin's Guide",
+        "set_code": "m20",
+        "number": "292",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469845
+      },
+      {
+        "name": "Blood Burglar",
+        "set_code": "m20",
+        "number": "88",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466842
+      },
+      {
+        "name": "Bloodthirsty Aerialist",
+        "set_code": "m20",
+        "number": "91",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466845
+      },
+      {
+        "name": "Vampire of the Dire Moon",
+        "set_code": "m20",
+        "number": "120",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466874
+      },
+      {
+        "name": "Savage Gorger",
+        "set_code": "m20",
+        "number": "291",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 469844
+      },
+      {
+        "name": "Thirsting Bloodlord",
+        "set_code": "m20",
+        "number": "293",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469846
+      },
+      {
+        "name": "Dark Remedy",
+        "set_code": "m20",
+        "number": "321",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469874
+      },
+      {
+        "name": "Sorin, Vampire Lord",
+        "set_code": "m20",
+        "number": "290",
+        "foil": true,
+        "count": 1,
+        "multiverseid": 469843
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Spellslinger Starter Kit - Red Deck",
+    "type": "Spellslinger Starter Kit",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-12",
+    "cards": [
+      {
+        "name": "Hellkite Whelp",
+        "set_code": "grn",
+        "number": "106",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452856
+      },
+      {
+        "name": "Fire Elemental",
+        "set_code": "m20",
+        "number": "138",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466892
+      },
+      {
+        "name": "Fearless Halberdier",
+        "set_code": "m20",
+        "number": "329",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469882
+      },
+      {
+        "name": "Goblin Assailant",
+        "set_code": "m20",
+        "number": "330",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 469883
+      },
+      {
+        "name": "Hostile Minotaur",
+        "set_code": "m20",
+        "number": "331",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469884
+      },
+      {
+        "name": "Shivan Dragon",
+        "set_code": "m20",
+        "number": "335",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469888
+      },
+      {
+        "name": "Act of Treason",
+        "set_code": "m20",
+        "number": "124",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466878
+      },
+      {
+        "name": "Tectonic Rift",
+        "set_code": "m20",
+        "number": "161",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466915
+      },
+      {
+        "name": "Sure Strike",
+        "set_code": "grn",
+        "number": "118",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452868
+      },
+      {
+        "name": "Shock",
+        "set_code": "m20",
+        "number": "160",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466914
+      },
+      {
+        "name": "Mountain",
+        "set_code": "m20",
+        "number": "273",
+        "foil": false,
+        "count": 26,
+        "multiverseid": 467027
+      },
+      {
+        "name": "Daggersail Aeronaut",
+        "set_code": "m20",
+        "number": "133",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466887
+      },
+      {
+        "name": "Drakuseth, Maw of Flames",
+        "set_code": "m20",
+        "number": "136",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466890
+      },
+      {
+        "name": "Glint-Horn Buccaneer",
+        "set_code": "m20",
+        "number": "141",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466895
+      },
+      {
+        "name": "Goblin Smuggler",
+        "set_code": "m20",
+        "number": "144",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466898
+      },
+      {
+        "name": "Infuriate",
+        "set_code": "m20",
+        "number": "145",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466899
+      },
+      {
+        "name": "Leyline of Combustion",
+        "set_code": "m20",
+        "number": "148",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466902
+      },
+      {
+        "name": "Engulfing Eruption",
+        "set_code": "m20",
+        "number": "328",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469881
+      },
+      {
+        "name": "Immortal Phoenix",
+        "set_code": "m20",
+        "number": "332",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469885
+      },
+      {
+        "name": "Nimble Birdsticker",
+        "set_code": "m20",
+        "number": "333",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469886
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Spellslinger Starter Kit - White Deck",
+    "type": "Spellslinger Starter Kit",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-12",
+    "cards": [
+      {
+        "name": "Serra's Guardian",
+        "set_code": "m20",
+        "number": "310",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469863
+      },
+      {
+        "name": "Inspiring Unicorn",
+        "set_code": "grn",
+        "number": "16",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452766
+      },
+      {
+        "name": "Intrusive Packbeast",
+        "set_code": "grn",
+        "number": "17",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 452767
+      },
+      {
+        "name": "Bastion Enforcer",
+        "set_code": "m20",
+        "number": "303",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469856
+      },
+      {
+        "name": "Concordia Pegasus",
+        "set_code": "m20",
+        "number": "304",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469857
+      },
+      {
+        "name": "Haazda Officer",
+        "set_code": "m20",
+        "number": "305",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469858
+      },
+      {
+        "name": "Prowling Caracal",
+        "set_code": "m20",
+        "number": "309",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469862
+      },
+      {
+        "name": "Trusted Pegasus",
+        "set_code": "m20",
+        "number": "314",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469867
+      },
+      {
+        "name": "Citywide Bust",
+        "set_code": "grn",
+        "number": "4",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 452754
+      },
+      {
+        "name": "Bond of Discipline",
+        "set_code": "war",
+        "number": "6",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 460933
+      },
+      {
+        "name": "Take Vengeance",
+        "set_code": "m20",
+        "number": "313",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469866
+      },
+      {
+        "name": "Righteous Blow",
+        "set_code": "grn",
+        "number": "23",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452773
+      },
+      {
+        "name": "Inspired Charge",
+        "set_code": "m20",
+        "number": "24",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466778
+      },
+      {
+        "name": "Show of Valor",
+        "set_code": "m20",
+        "number": "311",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469864
+      },
+      {
+        "name": "Plains",
+        "set_code": "m20",
+        "number": "261",
+        "foil": false,
+        "count": 26,
+        "multiverseid": 467015
+      },
+      {
+        "name": "Dawning Angel",
+        "set_code": "m20",
+        "number": "11",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466765
+      },
+      {
+        "name": "Loxodon Lifechanter",
+        "set_code": "m20",
+        "number": "27",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466781
+      },
+      {
+        "name": "Sephara, Sky's Blade",
+        "set_code": "m20",
+        "number": "36",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466790
+      },
+      {
+        "name": "Angelic Guardian",
+        "set_code": "m20",
+        "number": "302",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469855
+      },
+      {
+        "name": "Imperial Outrider",
+        "set_code": "m20",
+        "number": "307",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469860
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Vivien, Nature's Avenger",
+    "type": "Planeswalker Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-29",
+    "cards": [
+      {
+        "name": "Aggressive Mammoth",
+        "set_code": "m20",
+        "number": "337",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469890
+      },
+      {
+        "name": "Greenwood Sentinel",
+        "set_code": "m20",
+        "number": "174",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466928
+      },
+      {
+        "name": "Rabid Bite",
+        "set_code": "m20",
+        "number": "190",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466944
+      },
+      {
+        "name": "Might of the Masses",
+        "set_code": "m20",
+        "number": "182",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466936
+      },
+      {
+        "name": "Titanic Growth",
+        "set_code": "m20",
+        "number": "343",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469896
+      },
+      {
+        "name": "Forest",
+        "set_code": "m20",
+        "number": "277",
+        "foil": false,
+        "count": 25,
+        "multiverseid": 467031
+      },
+      {
+        "name": "Wakeroot Elemental",
+        "set_code": "m20",
+        "number": "202",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466956
+      },
+      {
+        "name": "Ethereal Elk",
+        "set_code": "m20",
+        "number": "299",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469852
+      },
+      {
+        "name": "Barkhide Troll",
+        "set_code": "m20",
+        "number": "165",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466919
+      },
+      {
+        "name": "Silverback Shaman",
+        "set_code": "m20",
+        "number": "195",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466949
+      },
+      {
+        "name": "Gnarlback Rhino",
+        "set_code": "m20",
+        "number": "300",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469853
+      },
+      {
+        "name": "Vivien's Crocodile",
+        "set_code": "m20",
+        "number": "301",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 469854
+      },
+      {
+        "name": "Growth Cycle",
+        "set_code": "m20",
+        "number": "175",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466929
+      },
+      {
+        "name": "Season of Growth",
+        "set_code": "m20",
+        "number": "191",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466945
+      },
+      {
+        "name": "Vivien, Nature's Avenger",
+        "set_code": "m20",
+        "number": "298",
+        "foil": true,
+        "count": 1,
+        "multiverseid": 469851
+      }
+    ],
+    "sideboard": [
+
+    ]
   }
 ]
