@@ -150869,6 +150869,270 @@
     ]
   },
   {
+    "name": "Black Deck",
+    "type": "Welcome Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-12",
+    "cards": [
+      {
+        "name": "Barony Vampire",
+        "set_code": "m20",
+        "number": "85",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466839
+      },
+      {
+        "name": "Bartizan Bats",
+        "set_code": "m20",
+        "number": "319",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469872
+      },
+      {
+        "name": "Bogstomper",
+        "set_code": "m20",
+        "number": "320",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469873
+      },
+      {
+        "name": "Feral Abomination",
+        "set_code": "m20",
+        "number": "101",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466855
+      },
+      {
+        "name": "Gravedigger",
+        "set_code": "m20",
+        "number": "103",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466857
+      },
+      {
+        "name": "Gravewaker",
+        "set_code": "m20",
+        "number": "323",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469876
+      },
+      {
+        "name": "Skeleton Archer",
+        "set_code": "m20",
+        "number": "324",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469877
+      },
+      {
+        "name": "Walking Corpse",
+        "set_code": "m20",
+        "number": "327",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 469880
+      },
+      {
+        "name": "Agonizing Syphon",
+        "set_code": "m20",
+        "number": "83",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466837
+      },
+      {
+        "name": "Disentomb",
+        "set_code": "m20",
+        "number": "322",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469875
+      },
+      {
+        "name": "Dark Remedy",
+        "set_code": "m20",
+        "number": "321",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469874
+      },
+      {
+        "name": "Disfigure",
+        "set_code": "m20",
+        "number": "95",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466849
+      },
+      {
+        "name": "Murder",
+        "set_code": "m20",
+        "number": "109",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466863
+      },
+      {
+        "name": "Swamp",
+        "set_code": "m20",
+        "number": "269",
+        "foil": false,
+        "count": 13,
+        "multiverseid": 467023
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Blue Deck",
+    "type": "Welcome Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-12",
+    "cards": [
+      {
+        "name": "Air Elemental",
+        "set_code": "m20",
+        "number": "44",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466798
+      },
+      {
+        "name": "Cloudkin Seer",
+        "set_code": "m20",
+        "number": "54",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466808
+      },
+      {
+        "name": "Coral Merfolk",
+        "set_code": "m20",
+        "number": "315",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469868
+      },
+      {
+        "name": "Fortress Crab",
+        "set_code": "m20",
+        "number": "60",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466814
+      },
+      {
+        "name": "Frost Lynx",
+        "set_code": "m20",
+        "number": "62",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466816
+      },
+      {
+        "name": "Moat Piranhas",
+        "set_code": "m20",
+        "number": "67",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466821
+      },
+      {
+        "name": "Octoprophet",
+        "set_code": "m20",
+        "number": "70",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466824
+      },
+      {
+        "name": "Phantom Warrior",
+        "set_code": "m20",
+        "number": "316",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469869
+      },
+      {
+        "name": "Riddlemaster Sphinx",
+        "set_code": "m20",
+        "number": "317",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469870
+      },
+      {
+        "name": "Snapping Drake",
+        "set_code": "m20",
+        "number": "318",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469871
+      },
+      {
+        "name": "Captivating Gyre",
+        "set_code": "m20",
+        "number": "51",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466805
+      },
+      {
+        "name": "Winged Words",
+        "set_code": "m20",
+        "number": "80",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466834
+      },
+      {
+        "name": "Befuddle",
+        "set_code": "m20",
+        "number": "47",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466801
+      },
+      {
+        "name": "Unsummon",
+        "set_code": "m20",
+        "number": "78",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466832
+      },
+      {
+        "name": "Sleep Paralysis",
+        "set_code": "m20",
+        "number": "75",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466829
+      },
+      {
+        "name": "Island",
+        "set_code": "m20",
+        "number": "265",
+        "foil": false,
+        "count": 13,
+        "multiverseid": 467019
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
     "name": "Chandra, Flame's Fury",
     "type": "Planeswalker Deck",
     "set_code": "m20",
@@ -150986,6 +151250,146 @@
         "foil": true,
         "count": 1,
         "multiverseid": 469847
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Green Deck",
+    "type": "Welcome Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-12",
+    "cards": [
+      {
+        "name": "Aggressive Mammoth",
+        "set_code": "m20",
+        "number": "337",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469890
+      },
+      {
+        "name": "Bristling Boar",
+        "set_code": "m20",
+        "number": "338",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469891
+      },
+      {
+        "name": "Canopy Spider",
+        "set_code": "m20",
+        "number": "339",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469892
+      },
+      {
+        "name": "Centaur Courser",
+        "set_code": "m20",
+        "number": "168",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466922
+      },
+      {
+        "name": "Frilled Sandwalla",
+        "set_code": "m20",
+        "number": "340",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469893
+      },
+      {
+        "name": "Healer of the Glade",
+        "set_code": "m20",
+        "number": "176",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466930
+      },
+      {
+        "name": "Mammoth Spider",
+        "set_code": "m20",
+        "number": "181",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466935
+      },
+      {
+        "name": "Prized Unicorn",
+        "set_code": "m20",
+        "number": "342",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469895
+      },
+      {
+        "name": "Vorstclaw",
+        "set_code": "m20",
+        "number": "201",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466955
+      },
+      {
+        "name": "Woodland Mystic",
+        "set_code": "m20",
+        "number": "344",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469897
+      },
+      {
+        "name": "Plummet",
+        "set_code": "m20",
+        "number": "188",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466942
+      },
+      {
+        "name": "Titanic Growth",
+        "set_code": "m20",
+        "number": "343",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469896
+      },
+      {
+        "name": "Overcome",
+        "set_code": "m20",
+        "number": "186",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466940
+      },
+      {
+        "name": "Rabid Bite",
+        "set_code": "m20",
+        "number": "190",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466944
+      },
+      {
+        "name": "Oakenform",
+        "set_code": "m20",
+        "number": "341",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469894
+      },
+      {
+        "name": "Forest",
+        "set_code": "m20",
+        "number": "277",
+        "foil": false,
+        "count": 13,
+        "multiverseid": 467031
       }
     ],
     "sideboard": [
@@ -151118,6 +151522,138 @@
         "foil": true,
         "count": 1,
         "multiverseid": 469839
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Red Deck",
+    "type": "Welcome Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-12",
+    "cards": [
+      {
+        "name": "Daggersail Aeronaut",
+        "set_code": "m20",
+        "number": "133",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466887
+      },
+      {
+        "name": "Fearless Halberdier",
+        "set_code": "m20",
+        "number": "329",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469882
+      },
+      {
+        "name": "Fire Elemental",
+        "set_code": "m20",
+        "number": "138",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466892
+      },
+      {
+        "name": "Goblin Assailant",
+        "set_code": "m20",
+        "number": "330",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469883
+      },
+      {
+        "name": "Goblin Smuggler",
+        "set_code": "m20",
+        "number": "144",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466898
+      },
+      {
+        "name": "Rubblebelt Recluse",
+        "set_code": "m20",
+        "number": "334",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469887
+      },
+      {
+        "name": "Shivan Dragon",
+        "set_code": "m20",
+        "number": "335",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469888
+      },
+      {
+        "name": "Volcanic Dragon",
+        "set_code": "m20",
+        "number": "336",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469889
+      },
+      {
+        "name": "Chandra's Outrage",
+        "set_code": "m20",
+        "number": "130",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466884
+      },
+      {
+        "name": "Infuriate",
+        "set_code": "m20",
+        "number": "145",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466899
+      },
+      {
+        "name": "Shock",
+        "set_code": "m20",
+        "number": "160",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466914
+      },
+      {
+        "name": "Act of Treason",
+        "set_code": "m20",
+        "number": "124",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466878
+      },
+      {
+        "name": "Engulfing Eruption",
+        "set_code": "m20",
+        "number": "328",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469881
+      },
+      {
+        "name": "Maniacal Rage",
+        "set_code": "m20",
+        "number": "149",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466903
+      },
+      {
+        "name": "Mountain",
+        "set_code": "m20",
+        "number": "273",
+        "foil": false,
+        "count": 13,
+        "multiverseid": 467027
       }
     ],
     "sideboard": [
@@ -151722,6 +152258,2534 @@
     ],
     "sideboard": [
 
+    ]
+  },
+  {
+    "name": "White Deck",
+    "type": "Welcome Deck",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
+    "release_date": "2019-07-12",
+    "cards": [
+      {
+        "name": "Concordia Pegasus",
+        "set_code": "m20",
+        "number": "304",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469857
+      },
+      {
+        "name": "Dawning Angel",
+        "set_code": "m20",
+        "number": "11",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466765
+      },
+      {
+        "name": "Haazda Officer",
+        "set_code": "m20",
+        "number": "305",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469858
+      },
+      {
+        "name": "Inspiring Captain",
+        "set_code": "m20",
+        "number": "25",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466779
+      },
+      {
+        "name": "Ironclad Krovod",
+        "set_code": "m20",
+        "number": "308",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469861
+      },
+      {
+        "name": "Loyal Pegasus",
+        "set_code": "m20",
+        "number": "28",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466782
+      },
+      {
+        "name": "Prowling Caracal",
+        "set_code": "m20",
+        "number": "309",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 469862
+      },
+      {
+        "name": "Serra's Guardian",
+        "set_code": "m20",
+        "number": "310",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469863
+      },
+      {
+        "name": "Siege Mastodon",
+        "set_code": "m20",
+        "number": "312",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469865
+      },
+      {
+        "name": "Trusted Pegasus",
+        "set_code": "m20",
+        "number": "314",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469867
+      },
+      {
+        "name": "Inspired Charge",
+        "set_code": "m20",
+        "number": "24",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466778
+      },
+      {
+        "name": "Show of Valor",
+        "set_code": "m20",
+        "number": "311",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 469864
+      },
+      {
+        "name": "Glaring Aegis",
+        "set_code": "m20",
+        "number": "18",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466772
+      },
+      {
+        "name": "Pacifism",
+        "set_code": "m20",
+        "number": "32",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 466786
+      },
+      {
+        "name": "Plains",
+        "set_code": "m20",
+        "number": "261",
+        "foil": false,
+        "count": 13,
+        "multiverseid": 467015
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Faceless Menace",
+    "type": "Commander Deck",
+    "set_code": "c19",
+    "set_name": "Commander 2019",
+    "release_date": "2019-08-23",
+    "cards": [
+      {
+        "name": "Vraska the Unseen",
+        "set_code": "c19",
+        "number": "207",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rayami, First of the Fallen",
+        "set_code": "c19",
+        "number": "48",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Volrath, the Shapestealer",
+        "set_code": "c19",
+        "number": "51",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Kadena's Silencer",
+        "set_code": "c19",
+        "number": "8",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thought Sponge",
+        "set_code": "c19",
+        "number": "12",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thieving Amalgam",
+        "set_code": "c19",
+        "number": "21",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Apex Altisaur",
+        "set_code": "c19",
+        "number": "31",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Grismold, the Dreadsower",
+        "set_code": "c19",
+        "number": "44",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Deathmist Raptor",
+        "set_code": "c19",
+        "number": "160",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Hooded Hydra",
+        "set_code": "c19",
+        "number": "172",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Chromeshell Crab",
+        "set_code": "c19",
+        "number": "81",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ixidron",
+        "set_code": "c19",
+        "number": "87",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Kheru Spellsnatcher",
+        "set_code": "c19",
+        "number": "89",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Stratus Dancer",
+        "set_code": "c19",
+        "number": "96",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thousand Winds",
+        "set_code": "c19",
+        "number": "100",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Vesuvan Shapeshifter",
+        "set_code": "c19",
+        "number": "101",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bane of the Living",
+        "set_code": "c19",
+        "number": "104",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Grim Haruspex",
+        "set_code": "c19",
+        "number": "118",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Silumgar Assassin",
+        "set_code": "c19",
+        "number": "128",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Den Protector",
+        "set_code": "c19",
+        "number": "161",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Seedborn Muse",
+        "set_code": "c19",
+        "number": "179",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thelonite Hermit",
+        "set_code": "c19",
+        "number": "184",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sagu Mauler",
+        "set_code": "c19",
+        "number": "200",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Voice of Many",
+        "set_code": "c19",
+        "number": "36",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Scaretiller",
+        "set_code": "c19",
+        "number": "57",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Willbender",
+        "set_code": "c19",
+        "number": "102",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Skinthinner",
+        "set_code": "c19",
+        "number": "129",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ainok Survivalist",
+        "set_code": "c19",
+        "number": "156",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Great Oak Guardian",
+        "set_code": "c19",
+        "number": "170",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Nantuko Vigilante",
+        "set_code": "c19",
+        "number": "174",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "set_code": "c19",
+        "number": "177",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Icefeather Aven",
+        "set_code": "c19",
+        "number": "194",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Road of Return",
+        "set_code": "c19",
+        "number": "34",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ghastly Conscription",
+        "set_code": "c19",
+        "number": "115",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Hex",
+        "set_code": "c19",
+        "number": "120",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Overwhelming Stampede",
+        "set_code": "c19",
+        "number": "175",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Tempt with Discovery",
+        "set_code": "c19",
+        "number": "183",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mire in Misery",
+        "set_code": "c19",
+        "number": "19",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Tezzeret's Gambit",
+        "set_code": "c19",
+        "number": "98",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cultivate",
+        "set_code": "c19",
+        "number": "159",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Explore",
+        "set_code": "c19",
+        "number": "164",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Farseek",
+        "set_code": "c19",
+        "number": "165",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Urban Evolution",
+        "set_code": "c19",
+        "number": "205",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sudden Substitution",
+        "set_code": "c19",
+        "number": "11",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Biomass Mutation",
+        "set_code": "c19",
+        "number": "187",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Leadership Vacuum",
+        "set_code": "c19",
+        "number": "9",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Echoing Truth",
+        "set_code": "c19",
+        "number": "84",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Reality Shift",
+        "set_code": "c19",
+        "number": "92",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Putrefy",
+        "set_code": "c19",
+        "number": "197",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sultai Charm",
+        "set_code": "c19",
+        "number": "202",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Pendant of Prosperity",
+        "set_code": "c19",
+        "number": "56",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Scroll of Fate",
+        "set_code": "c19",
+        "number": "58",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Strionic Resonator",
+        "set_code": "c19",
+        "number": "224",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sol Ring",
+        "set_code": "c19",
+        "number": "221",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thran Dynamo",
+        "set_code": "c19",
+        "number": "225",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Gift of Doom",
+        "set_code": "c19",
+        "number": "17",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Trail of Mystery",
+        "set_code": "c19",
+        "number": "186",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bounty of the Luxa",
+        "set_code": "c19",
+        "number": "189",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Secret Plans",
+        "set_code": "c19",
+        "number": "201",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "set_code": "c19",
+        "number": "238",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Exotic Orchard",
+        "set_code": "c19",
+        "number": "242",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Llanowar Wastes",
+        "set_code": "c19",
+        "number": "258",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Shrine of the Forsaken Gods",
+        "set_code": "c19",
+        "number": "273",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sunken Hollow",
+        "set_code": "c19",
+        "number": "278",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thespian's Stage",
+        "set_code": "c19",
+        "number": "282",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Yavimaya Coast",
+        "set_code": "c19",
+        "number": "287",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "c19",
+        "number": "291",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Swamp",
+        "set_code": "c19",
+        "number": "294",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Forest",
+        "set_code": "c19",
+        "number": "300",
+        "foil": false,
+        "count": 7
+      },
+      {
+        "name": "Ash Barrens",
+        "set_code": "c19",
+        "number": "227",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bojuka Bog",
+        "set_code": "c19",
+        "number": "232",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Command Tower",
+        "set_code": "c19",
+        "number": "237",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Dimir Aqueduct",
+        "set_code": "c19",
+        "number": "239",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Evolving Wilds",
+        "set_code": "c19",
+        "number": "241",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Foul Orchard",
+        "set_code": "c19",
+        "number": "244",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Golgari Guildgate",
+        "set_code": "c19",
+        "number": "247",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Golgari Rot Farm",
+        "set_code": "c19",
+        "number": "248",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Jungle Hollow",
+        "set_code": "c19",
+        "number": "254",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Myriad Landscape",
+        "set_code": "c19",
+        "number": "261",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Opulent Palace",
+        "set_code": "c19",
+        "number": "264",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Reliquary Tower",
+        "set_code": "c19",
+        "number": "268",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Simic Growth Chamber",
+        "set_code": "c19",
+        "number": "274",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Simic Guildgate",
+        "set_code": "c19",
+        "number": "275",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Temple of the False God",
+        "set_code": "c19",
+        "number": "280",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Terramorphic Expanse",
+        "set_code": "c19",
+        "number": "281",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thornwood Falls",
+        "set_code": "c19",
+        "number": "283",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Woodland Stream",
+        "set_code": "c19",
+        "number": "286",
+        "foil": false,
+        "count": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Kadena, Slinking Sorcerer",
+        "set_code": "c19",
+        "number": "45",
+        "foil": true,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Merciless Rage",
+    "type": "Commander Deck",
+    "set_code": "c19",
+    "set_name": "Commander 2019",
+    "release_date": "2019-08-23",
+    "cards": [
+      {
+        "name": "Ob Nixilis Reignited",
+        "set_code": "c19",
+        "number": "124",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Chainer, Nightmare Adept",
+        "set_code": "c19",
+        "number": "39",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Greven, Predator Captain",
+        "set_code": "c19",
+        "number": "43",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Archfiend of Spite",
+        "set_code": "c19",
+        "number": "14",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bone Miser",
+        "set_code": "c19",
+        "number": "15",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "K'rrik, Son of Yawgmoth",
+        "set_code": "c19",
+        "number": "18",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Anje's Ravager",
+        "set_code": "c19",
+        "number": "22",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Skyfire Phoenix",
+        "set_code": "c19",
+        "number": "28",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Wildfire Devils",
+        "set_code": "c19",
+        "number": "30",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Champion of Stray Souls",
+        "set_code": "c19",
+        "number": "109",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Geth, Lord of the Vault",
+        "set_code": "c19",
+        "number": "114",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Soul of Innistrad",
+        "set_code": "c19",
+        "number": "130",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Asylum Visitor",
+        "set_code": "c19",
+        "number": "103",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Doomed Necromancer",
+        "set_code": "c19",
+        "number": "111",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Overseer of the Damned",
+        "set_code": "c19",
+        "number": "125",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Flayer of the Hatebound",
+        "set_code": "c19",
+        "number": "144",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Magus of the Wheel",
+        "set_code": "c19",
+        "number": "149",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Squee, Goblin Nabob",
+        "set_code": "c19",
+        "number": "152",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Stromkirk Occultist",
+        "set_code": "c19",
+        "number": "153",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bloodhall Priest",
+        "set_code": "c19",
+        "number": "188",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Solemn Simulacrum",
+        "set_code": "c19",
+        "number": "222",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Scaretiller",
+        "set_code": "c19",
+        "number": "57",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Big Game Hunter",
+        "set_code": "c19",
+        "number": "106",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Gorgon Recluse",
+        "set_code": "c19",
+        "number": "116",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Grave Scrabbler",
+        "set_code": "c19",
+        "number": "117",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Nightshade Assassin",
+        "set_code": "c19",
+        "number": "123",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plaguecrafter",
+        "set_code": "c19",
+        "number": "126",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sanitarium Skeleton",
+        "set_code": "c19",
+        "number": "127",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Meteor Golem",
+        "set_code": "c19",
+        "number": "218",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Nightmare Unmaking",
+        "set_code": "c19",
+        "number": "20",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Boneyard Parley",
+        "set_code": "c19",
+        "number": "107",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Beacon of Unrest",
+        "set_code": "c19",
+        "number": "105",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "From Under the Floorboards",
+        "set_code": "c19",
+        "number": "113",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "In Garruk's Wake",
+        "set_code": "c19",
+        "number": "121",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Avacyn's Judgment",
+        "set_code": "c19",
+        "number": "134",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mire in Misery",
+        "set_code": "c19",
+        "number": "19",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Hate Mirage",
+        "set_code": "c19",
+        "number": "26",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Call to the Netherworld",
+        "set_code": "c19",
+        "number": "108",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Murderous Compulsion",
+        "set_code": "c19",
+        "number": "122",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Alchemist's Greeting",
+        "set_code": "c19",
+        "number": "133",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Malevolent Whispers",
+        "set_code": "c19",
+        "number": "150",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Chaos Warp",
+        "set_code": "c19",
+        "number": "136",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Dark Withering",
+        "set_code": "c19",
+        "number": "110",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Fiery Temper",
+        "set_code": "c19",
+        "number": "142",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Violent Eruption",
+        "set_code": "c19",
+        "number": "154",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Aeon Engine",
+        "set_code": "c19",
+        "number": "52",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Grimoire of the Dead",
+        "set_code": "c19",
+        "number": "213",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Key to the City",
+        "set_code": "c19",
+        "number": "216",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bloodthirsty Blade",
+        "set_code": "c19",
+        "number": "53",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Armillary Sphere",
+        "set_code": "c19",
+        "number": "209",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Hedron Archive",
+        "set_code": "c19",
+        "number": "214",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rakdos Locket",
+        "set_code": "c19",
+        "number": "220",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sol Ring",
+        "set_code": "c19",
+        "number": "221",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Curse of Fool's Wisdom",
+        "set_code": "c19",
+        "number": "16",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Hedonist's Trove",
+        "set_code": "c19",
+        "number": "119",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Warstorm Surge",
+        "set_code": "c19",
+        "number": "155",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Faith of the Devoted",
+        "set_code": "c19",
+        "number": "112",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "The Eldest Reborn",
+        "set_code": "c19",
+        "number": "131",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Zombie Infestation",
+        "set_code": "c19",
+        "number": "132",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sanctum of Eternity",
+        "set_code": "c19",
+        "number": "59",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Drownyard Temple",
+        "set_code": "c19",
+        "number": "240",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Exotic Orchard",
+        "set_code": "c19",
+        "number": "242",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Geier Reach Sanitarium",
+        "set_code": "c19",
+        "number": "246",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "c19",
+        "number": "294",
+        "foil": false,
+        "count": 10
+      },
+      {
+        "name": "Mountain",
+        "set_code": "c19",
+        "number": "297",
+        "foil": false,
+        "count": 10
+      },
+      {
+        "name": "Akoum Refuge",
+        "set_code": "c19",
+        "number": "226",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ash Barrens",
+        "set_code": "c19",
+        "number": "227",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Barren Moor",
+        "set_code": "c19",
+        "number": "229",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bloodfell Caves",
+        "set_code": "c19",
+        "number": "230",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cinder Barrens",
+        "set_code": "c19",
+        "number": "235",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Command Tower",
+        "set_code": "c19",
+        "number": "237",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Evolving Wilds",
+        "set_code": "c19",
+        "number": "241",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forgotten Cave",
+        "set_code": "c19",
+        "number": "243",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Memorial to Folly",
+        "set_code": "c19",
+        "number": "259",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mortuary Mire",
+        "set_code": "c19",
+        "number": "260",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Myriad Landscape",
+        "set_code": "c19",
+        "number": "261",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rakdos Carnarium",
+        "set_code": "c19",
+        "number": "266",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rakdos Guildgate",
+        "set_code": "c19",
+        "number": "267",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rix Maadi, Dungeon Palace",
+        "set_code": "c19",
+        "number": "269",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Terramorphic Expanse",
+        "set_code": "c19",
+        "number": "281",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Temple of the False God",
+        "set_code": "c19",
+        "number": "280",
+        "foil": false,
+        "count": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Anje Falkenrath",
+        "set_code": "c19",
+        "number": "37",
+        "foil": true,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Mystic Intellect",
+    "type": "Commander Deck",
+    "set_code": "c19",
+    "set_name": "Commander 2019",
+    "release_date": "2019-08-23",
+    "cards": [
+      {
+        "name": "Ral Zarek",
+        "set_code": "c19",
+        "number": "198",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Elsha of the Infinite",
+        "set_code": "c19",
+        "number": "40",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Pramikon, Sky Rampart",
+        "set_code": "c19",
+        "number": "47",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Thalia's Geistcaller",
+        "set_code": "c19",
+        "number": "7",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Wall of Stolen Identity",
+        "set_code": "c19",
+        "number": "13",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Backdraft Hellkite",
+        "set_code": "c19",
+        "number": "23",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Dockside Extortionist",
+        "set_code": "c19",
+        "number": "24",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Gerrard, Weatherlight Hero",
+        "set_code": "c19",
+        "number": "41",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Pristine Angel",
+        "set_code": "c19",
+        "number": "70",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sun Titan",
+        "set_code": "c19",
+        "number": "76",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Clever Impersonator",
+        "set_code": "c19",
+        "number": "82",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Zetalpa, Primal Dawn",
+        "set_code": "c19",
+        "number": "79",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "River Kelpie",
+        "set_code": "c19",
+        "number": "93",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Talrand, Sky Summoner",
+        "set_code": "c19",
+        "number": "97",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Pristine Skywise",
+        "set_code": "c19",
+        "number": "196",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cliffside Rescuer",
+        "set_code": "c19",
+        "number": "1",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Scaretiller",
+        "set_code": "c19",
+        "number": "57",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Guttersnipe",
+        "set_code": "c19",
+        "number": "145",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Crackling Drake",
+        "set_code": "c19",
+        "number": "190",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Burnished Hart",
+        "set_code": "c19",
+        "number": "211",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sevinne's Reclamation",
+        "set_code": "c19",
+        "number": "5",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mass Diminish",
+        "set_code": "c19",
+        "number": "10",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ignite the Future",
+        "set_code": "c19",
+        "number": "27",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Divine Reckoning",
+        "set_code": "c19",
+        "number": "62",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Dusk // Dawn",
+        "set_code": "c19",
+        "number": "63a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Increasing Devotion",
+        "set_code": "c19",
+        "number": "66",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Storm Herd",
+        "set_code": "c19",
+        "number": "75",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Devil's Play",
+        "set_code": "c19",
+        "number": "138",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Deep Analysis",
+        "set_code": "c19",
+        "number": "83",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mystic Retrieval",
+        "set_code": "c19",
+        "number": "90",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Runic Repetition",
+        "set_code": "c19",
+        "number": "94",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Faithless Looting",
+        "set_code": "c19",
+        "number": "140",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rolling Temblor",
+        "set_code": "c19",
+        "number": "151",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mandate of Peace",
+        "set_code": "c19",
+        "number": "4",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Increasing Vengeance",
+        "set_code": "c19",
+        "number": "147",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Magmaquake",
+        "set_code": "c19",
+        "number": "148",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Refuse // Cooperate",
+        "set_code": "c19",
+        "number": "199a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Leadership Vacuum",
+        "set_code": "c19",
+        "number": "9",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Prismatic Strands",
+        "set_code": "c19",
+        "number": "69",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Purify the Grave",
+        "set_code": "c19",
+        "number": "71",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ray of Distortion",
+        "set_code": "c19",
+        "number": "72",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Chemister's Insight",
+        "set_code": "c19",
+        "number": "80",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Fact or Fiction",
+        "set_code": "c19",
+        "number": "85",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Fervent Denial",
+        "set_code": "c19",
+        "number": "86",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Oona's Grace",
+        "set_code": "c19",
+        "number": "91",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Think Twice",
+        "set_code": "c19",
+        "number": "99",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Desperate Ravings",
+        "set_code": "c19",
+        "number": "137",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Farm // Market",
+        "set_code": "c19",
+        "number": "192a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Empowered Autogenerator",
+        "set_code": "c19",
+        "number": "54",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Bloodthirsty Blade",
+        "set_code": "c19",
+        "number": "53",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Armillary Sphere",
+        "set_code": "c19",
+        "number": "209",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Azorius Locket",
+        "set_code": "c19",
+        "number": "210",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Commander's Sphere",
+        "set_code": "c19",
+        "number": "212",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Izzet Locket",
+        "set_code": "c19",
+        "number": "215",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sol Ring",
+        "set_code": "c19",
+        "number": "221",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Jace's Sanctum",
+        "set_code": "c19",
+        "number": "88",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ghostly Prison",
+        "set_code": "c19",
+        "number": "64",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Secrets of the Dead",
+        "set_code": "c19",
+        "number": "95",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Burning Vengeance",
+        "set_code": "c19",
+        "number": "135",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Exotic Orchard",
+        "set_code": "c19",
+        "number": "242",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Prairie Stream",
+        "set_code": "c19",
+        "number": "265",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "c19",
+        "number": "288",
+        "foil": false,
+        "count": 9
+      },
+      {
+        "name": "Island",
+        "set_code": "c19",
+        "number": "291",
+        "foil": false,
+        "count": 8
+      },
+      {
+        "name": "Mountain",
+        "set_code": "c19",
+        "number": "297",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Ash Barrens",
+        "set_code": "c19",
+        "number": "227",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Azorius Chancery",
+        "set_code": "c19",
+        "number": "228",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Boros Garrison",
+        "set_code": "c19",
+        "number": "233",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Boros Guildgate",
+        "set_code": "c19",
+        "number": "234",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Command Tower",
+        "set_code": "c19",
+        "number": "237",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Evolving Wilds",
+        "set_code": "c19",
+        "number": "241",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Highland Lake",
+        "set_code": "c19",
+        "number": "251",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Izzet Boilerworks",
+        "set_code": "c19",
+        "number": "252",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Izzet Guildgate",
+        "set_code": "c19",
+        "number": "253",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Myriad Landscape",
+        "set_code": "c19",
+        "number": "261",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mystic Monastery",
+        "set_code": "c19",
+        "number": "262",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Stone Quarry",
+        "set_code": "c19",
+        "number": "276",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swiftwater Cliffs",
+        "set_code": "c19",
+        "number": "279",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Temple of the False God",
+        "set_code": "c19",
+        "number": "280",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Terramorphic Expanse",
+        "set_code": "c19",
+        "number": "281",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Tranquil Cove",
+        "set_code": "c19",
+        "number": "284",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Wind-Scarred Crag",
+        "set_code": "c19",
+        "number": "285",
+        "foil": false,
+        "count": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Sevinne, the Chronoclasm",
+        "set_code": "c19",
+        "number": "49",
+        "foil": true,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Primal Genesis",
+    "type": "Commander Deck",
+    "set_code": "c19",
+    "set_name": "Commander 2019",
+    "release_date": "2019-08-23",
+    "cards": [
+      {
+        "name": "Garruk, Primal Hunter",
+        "set_code": "c19",
+        "number": "167",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Atla Palani, Nest Tender",
+        "set_code": "c19",
+        "number": "38",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Marisi, Breaker of the Coil",
+        "set_code": "c19",
+        "number": "46",
+        "foil": true,
+        "count": 1
+      },
+      {
+        "name": "Doomed Artisan",
+        "set_code": "c19",
+        "number": "3",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Tectonic Hellion",
+        "set_code": "c19",
+        "number": "29",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ohran Frostfang",
+        "set_code": "c19",
+        "number": "33",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Selesnya Eulogist",
+        "set_code": "c19",
+        "number": "35",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Tahngarth, First Mate",
+        "set_code": "c19",
+        "number": "50",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Angel of Sanctions",
+        "set_code": "c19",
+        "number": "61",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Wingmate Roc",
+        "set_code": "c19",
+        "number": "78",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Dragonmaster Outcast",
+        "set_code": "c19",
+        "number": "139",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Feldon of the Third Path",
+        "set_code": "c19",
+        "number": "141",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Giant Adephage",
+        "set_code": "c19",
+        "number": "169",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Soul of Zendikar",
+        "set_code": "c19",
+        "number": "182",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Trostani, Selesnya's Voice",
+        "set_code": "c19",
+        "number": "204",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Desolation Twin",
+        "set_code": "c19",
+        "number": "60",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Flamerush Rider",
+        "set_code": "c19",
+        "number": "143",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Heart-Piercer Manticore",
+        "set_code": "c19",
+        "number": "146",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rampaging Baloths",
+        "set_code": "c19",
+        "number": "176",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thragtusk",
+        "set_code": "c19",
+        "number": "185",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Emmara Tandris",
+        "set_code": "c19",
+        "number": "191",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Wayfaring Temple",
+        "set_code": "c19",
+        "number": "208",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cliffside Rescuer",
+        "set_code": "c19",
+        "number": "1",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Voice of Many",
+        "set_code": "c19",
+        "number": "36",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Scaretiller",
+        "set_code": "c19",
+        "number": "57",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Roc Egg",
+        "set_code": "c19",
+        "number": "73",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Garruk's Packleader",
+        "set_code": "c19",
+        "number": "168",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sakura-Tribe Elder",
+        "set_code": "c19",
+        "number": "177",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Vitu-Ghazi Guildmage",
+        "set_code": "c19",
+        "number": "206",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ghired's Belligerence",
+        "set_code": "c19",
+        "number": "25",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Full Flowering",
+        "set_code": "c19",
+        "number": "32",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Hour of Reckoning",
+        "set_code": "c19",
+        "number": "65",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Phyrexian Rebirth",
+        "set_code": "c19",
+        "number": "68",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Shamanic Revelation",
+        "set_code": "c19",
+        "number": "180",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Hate Mirage",
+        "set_code": "c19",
+        "number": "26",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cultivate",
+        "set_code": "c19",
+        "number": "159",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Explore",
+        "set_code": "c19",
+        "number": "164",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Farseek",
+        "set_code": "c19",
+        "number": "165",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Harmonize",
+        "set_code": "c19",
+        "number": "171",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Fresh Meat",
+        "set_code": "c19",
+        "number": "166",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Momentous Fall",
+        "set_code": "c19",
+        "number": "173",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Second Harvest",
+        "set_code": "c19",
+        "number": "178",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rootborn Defenses",
+        "set_code": "c19",
+        "number": "74",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Trostani's Judgment",
+        "set_code": "c19",
+        "number": "77",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Beast Within",
+        "set_code": "c19",
+        "number": "157",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Druid's Deliverance",
+        "set_code": "c19",
+        "number": "162",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Slice in Twain",
+        "set_code": "c19",
+        "number": "181",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Naya Charm",
+        "set_code": "c19",
+        "number": "195",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sundering Growth",
+        "set_code": "c19",
+        "number": "203",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Idol of Oblivion",
+        "set_code": "c19",
+        "number": "55",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mimic Vat",
+        "set_code": "c19",
+        "number": "219",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Soul Foundry",
+        "set_code": "c19",
+        "number": "223",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Lightning Greaves",
+        "set_code": "c19",
+        "number": "217",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sol Ring",
+        "set_code": "c19",
+        "number": "221",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Commander's Insignia",
+        "set_code": "c19",
+        "number": "2",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Song of the Worldsoul",
+        "set_code": "c19",
+        "number": "6",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Growing Ranks",
+        "set_code": "c19",
+        "number": "193",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Intangible Virtue",
+        "set_code": "c19",
+        "number": "67",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Colossal Majesty",
+        "set_code": "c19",
+        "number": "158",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Elemental Bond",
+        "set_code": "c19",
+        "number": "163",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cinder Glade",
+        "set_code": "c19",
+        "number": "236",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Exotic Orchard",
+        "set_code": "c19",
+        "number": "242",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Gargoyle Castle",
+        "set_code": "c19",
+        "number": "245",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Sungrass Prairie",
+        "set_code": "c19",
+        "number": "277",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "c19",
+        "number": "288",
+        "foil": false,
+        "count": 7
+      },
+      {
+        "name": "Mountain",
+        "set_code": "c19",
+        "number": "297",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Forest",
+        "set_code": "c19",
+        "number": "300",
+        "foil": false,
+        "count": 8
+      },
+      {
+        "name": "Ash Barrens",
+        "set_code": "c19",
+        "number": "227",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Blossoming Sands",
+        "set_code": "c19",
+        "number": "231",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Boros Garrison",
+        "set_code": "c19",
+        "number": "233",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Command Tower",
+        "set_code": "c19",
+        "number": "237",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Evolving Wilds",
+        "set_code": "c19",
+        "number": "241",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Graypelt Refuge",
+        "set_code": "c19",
+        "number": "249",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Gruul Turf",
+        "set_code": "c19",
+        "number": "250",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Jungle Shrine",
+        "set_code": "c19",
+        "number": "255",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Kazandu Refuge",
+        "set_code": "c19",
+        "number": "256",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Krosan Verge",
+        "set_code": "c19",
+        "number": "257",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Myriad Landscape",
+        "set_code": "c19",
+        "number": "261",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Naya Panorama",
+        "set_code": "c19",
+        "number": "263",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rogue's Passage",
+        "set_code": "c19",
+        "number": "270",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Rugged Highlands",
+        "set_code": "c19",
+        "number": "271",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Selesnya Sanctuary",
+        "set_code": "c19",
+        "number": "272",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Terramorphic Expanse",
+        "set_code": "c19",
+        "number": "281",
+        "foil": false,
+        "count": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Ghired, Conclave Exile",
+        "set_code": "c19",
+        "number": "42",
+        "foil": true,
+        "count": 1
+      }
     ]
   }
 ]
