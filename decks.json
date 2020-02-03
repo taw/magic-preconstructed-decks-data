@@ -157059,5 +157059,298 @@
         "multiverseid": 476044
       }
     ]
+  },
+  {
+    "name": "Ashiok",
+    "type": "Planeswalker Deck",
+    "set_code": "thb",
+    "set_name": "Theros Beyond Death",
+    "release_date": "2020-01-24",
+    "cards": [
+      {
+        "name": "Ashiok, Sculptor of Fears",
+        "set_code": "thb",
+        "number": "274",
+        "foil": true,
+        "count": 1,
+        "multiverseid": 479171
+      },
+      {
+        "name": "Gravebreaker Lamia",
+        "set_code": "thb",
+        "number": "314",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Tymaret, Chosen from Death",
+        "set_code": "thb",
+        "number": "119",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 476370
+      },
+      {
+        "name": "Mindwrack Harpy",
+        "set_code": "thb",
+        "number": "276",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 479173
+      },
+      {
+        "name": "Ashiok's Forerunner",
+        "set_code": "thb",
+        "number": "277",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 479174
+      },
+      {
+        "name": "Pharika's Spawn",
+        "set_code": "thb",
+        "number": "112",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476363
+      },
+      {
+        "name": "Devourer of Memory",
+        "set_code": "thb",
+        "number": "213",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476464
+      },
+      {
+        "name": "Elite Instructor",
+        "set_code": "thb",
+        "number": "49",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476300
+      },
+      {
+        "name": "Swimmer in Nightmares",
+        "set_code": "thb",
+        "number": "275",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 479172
+      },
+      {
+        "name": "Towering-Wave Mystic",
+        "set_code": "thb",
+        "number": "77",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476328
+      },
+      {
+        "name": "Underworld Charger",
+        "set_code": "thb",
+        "number": "120",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476371
+      },
+      {
+        "name": "Mire's Grasp",
+        "set_code": "thb",
+        "number": "106",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476357
+      },
+      {
+        "name": "Final Death",
+        "set_code": "thb",
+        "number": "95",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476346
+      },
+      {
+        "name": "Glimpse of Freedom",
+        "set_code": "thb",
+        "number": "50",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476301
+      },
+      {
+        "name": "Funeral Rites",
+        "set_code": "thb",
+        "number": "97",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476348
+      },
+      {
+        "name": "Sleep of the Dead",
+        "set_code": "thb",
+        "number": "66",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476317
+      },
+      {
+        "name": "Unknown Shores",
+        "set_code": "thb",
+        "number": "249",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476500
+      },
+      {
+        "name": "Swamp",
+        "set_code": "thb",
+        "number": "252",
+        "foil": false,
+        "count": 12,
+        "multiverseid": 476503
+      },
+      {
+        "name": "Island",
+        "set_code": "thb",
+        "number": "251",
+        "foil": false,
+        "count": 11,
+        "multiverseid": 476502
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Elspeth",
+    "type": "Planeswalker Deck",
+    "set_code": "thb",
+    "set_name": "Theros Beyond Death",
+    "release_date": "2020-01-24",
+    "cards": [
+      {
+        "name": "Elspeth, Undaunted Hero",
+        "set_code": "thb",
+        "number": "270",
+        "foil": true,
+        "count": 1,
+        "multiverseid": 479167
+      },
+      {
+        "name": "Daxos, Blessed by the Sun",
+        "set_code": "thb",
+        "number": "258",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Eidolon of Inspiration",
+        "set_code": "thb",
+        "number": "271",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 479168
+      },
+      {
+        "name": "Taranika, Akroan Veteran",
+        "set_code": "thb",
+        "number": "303",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Archon of Falling Stars",
+        "set_code": "thb",
+        "number": "2",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476253
+      },
+      {
+        "name": "Elspeth's Devotee",
+        "set_code": "thb",
+        "number": "272",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 479169
+      },
+      {
+        "name": "Hero of the Winds",
+        "set_code": "thb",
+        "number": "23",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476274
+      },
+      {
+        "name": "Daybreak Chimera",
+        "set_code": "thb",
+        "number": "10",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 476261
+      },
+      {
+        "name": "Leonin of the Lost Pride",
+        "set_code": "thb",
+        "number": "28",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 476279
+      },
+      {
+        "name": "Sunlit Hoplite",
+        "set_code": "thb",
+        "number": "273",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 479170
+      },
+      {
+        "name": "Karametra's Blessing",
+        "set_code": "thb",
+        "number": "26",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476277
+      },
+      {
+        "name": "Phalanx Tactics",
+        "set_code": "thb",
+        "number": "31",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476282
+      },
+      {
+        "name": "Indomitable Will",
+        "set_code": "thb",
+        "number": "25",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476276
+      },
+      {
+        "name": "Dreadful Apathy",
+        "set_code": "thb",
+        "number": "11",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476262
+      },
+      {
+        "name": "Plains",
+        "set_code": "thb",
+        "number": "250",
+        "foil": false,
+        "count": 25,
+        "multiverseid": 476501
+      }
+    ],
+    "sideboard": [
+
+    ]
   }
 ]
