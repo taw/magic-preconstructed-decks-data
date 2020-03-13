@@ -157061,6 +157061,287 @@
     ]
   },
   {
+    "name": "Allied Fires",
+    "type": "Challenger Deck",
+    "set_code": "thb",
+    "set_name": "Theros Beyond Death",
+    "release_date": "2020-04-03",
+    "cards": [
+      {
+        "name": "Sarkhan the Masterless",
+        "set_code": "war",
+        "number": "143",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 461070
+      },
+      {
+        "name": "Ugin, the Ineffable",
+        "set_code": "war",
+        "number": "2",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 460929
+      },
+      {
+        "name": "Kasmina, Enigmatic Mentor",
+        "set_code": "war",
+        "number": "56",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 460983
+      },
+      {
+        "name": "Narset, Parter of Veils",
+        "set_code": "war",
+        "number": "61",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 460988
+      },
+      {
+        "name": "Saheeli, Sublime Artificer",
+        "set_code": "war",
+        "number": "234",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461161
+      },
+      {
+        "name": "Kenrith, the Returned King",
+        "set_code": "eld",
+        "number": "303",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 476052
+      },
+      {
+        "name": "Fae of Wishes // Granted",
+        "set_code": "eld",
+        "number": "282a",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Deafening Clarion",
+        "set_code": "grn",
+        "number": "165",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 452915
+      },
+      {
+        "name": "Drawn from Dreams",
+        "set_code": "m20",
+        "number": "56",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466810
+      },
+      {
+        "name": "Time Wipe",
+        "set_code": "war",
+        "number": "223",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461150
+      },
+      {
+        "name": "Fires of Invention",
+        "set_code": "eld",
+        "number": "125",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473087
+      },
+      {
+        "name": "Banishing Light",
+        "set_code": "thb",
+        "number": "4",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476255
+      },
+      {
+        "name": "Omen of the Sea",
+        "set_code": "thb",
+        "number": "58",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 476309
+      },
+      {
+        "name": "Steam Vents",
+        "set_code": "grn",
+        "number": "257",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 453007
+      },
+      {
+        "name": "Temple of Enlightenment",
+        "set_code": "thb",
+        "number": "246",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 476497
+      },
+      {
+        "name": "Temple of Epiphany",
+        "set_code": "m20",
+        "number": "253",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 467007
+      },
+      {
+        "name": "Temple of Triumph",
+        "set_code": "m20",
+        "number": "257",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 467011
+      },
+      {
+        "name": "Interplanar Beacon",
+        "set_code": "war",
+        "number": "247",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 461174
+      },
+      {
+        "name": "Swiftwater Cliffs",
+        "set_code": "m20",
+        "number": "252",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 467006
+      },
+      {
+        "name": "Tranquil Cove",
+        "set_code": "m20",
+        "number": "259",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 467013
+      },
+      {
+        "name": "Wind-Scarred Crag",
+        "set_code": "eld",
+        "number": "308",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 475926
+      },
+      {
+        "name": "Island",
+        "set_code": "thb",
+        "number": "251",
+        "foil": false,
+        "count": 5,
+        "multiverseid": 476502
+      },
+      {
+        "name": "Mountain",
+        "set_code": "thb",
+        "number": "253",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476504
+      },
+      {
+        "name": "Plains",
+        "set_code": "thb",
+        "number": "250",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476501
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Sarkhan the Masterless",
+        "set_code": "war",
+        "number": "143",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461070
+      },
+      {
+        "name": "Time Wipe",
+        "set_code": "war",
+        "number": "223",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461150
+      },
+      {
+        "name": "Mass Manipulation",
+        "set_code": "rna",
+        "number": "42",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 457186
+      },
+      {
+        "name": "Ashiok, Dream Render",
+        "set_code": "war",
+        "number": "228",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461155
+      },
+      {
+        "name": "Devout Decree",
+        "set_code": "m20",
+        "number": "13",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466767
+      },
+      {
+        "name": "Dovin, Hand of Control",
+        "set_code": "war",
+        "number": "229",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461156
+      },
+      {
+        "name": "Dovin's Veto",
+        "set_code": "war",
+        "number": "193",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 461120
+      },
+      {
+        "name": "Fry",
+        "set_code": "m20",
+        "number": "140",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466894
+      },
+      {
+        "name": "Revoke Existence",
+        "set_code": "thb",
+        "number": "34",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 476285
+      },
+      {
+        "name": "Thirst for Meaning",
+        "set_code": "thb",
+        "number": "354",
+        "foil": false,
+        "count": 3
+      }
+    ]
+  },
+  {
     "name": "Ashiok",
     "type": "Planeswalker Deck",
     "set_code": "thb",
@@ -157224,6 +157505,161 @@
     ]
   },
   {
+    "name": "Cavalcade Charge",
+    "type": "Challenger Deck",
+    "set_code": "thb",
+    "set_name": "Theros Beyond Death",
+    "release_date": "2020-04-03",
+    "cards": [
+      {
+        "name": "Chandra, Acolyte of Flame",
+        "set_code": "m20",
+        "number": "126",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466880
+      },
+      {
+        "name": "Bonecrusher Giant // Stomp",
+        "set_code": "eld",
+        "number": "115a",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473077
+      },
+      {
+        "name": "Fervent Champion",
+        "set_code": "eld",
+        "number": "124",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473086
+      },
+      {
+        "name": "Runaway Steam-Kin",
+        "set_code": "grn",
+        "number": "115",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 452865
+      },
+      {
+        "name": "Torbran, Thane of Red Fell",
+        "set_code": "eld",
+        "number": "147",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473109
+      },
+      {
+        "name": "Rimrock Knight // Boulder Rush",
+        "set_code": "eld",
+        "number": "137a",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473099
+      },
+      {
+        "name": "Scorch Spitter",
+        "set_code": "m20",
+        "number": "159",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466913
+      },
+      {
+        "name": "Tin Street Dodger",
+        "set_code": "rna",
+        "number": "120",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 457264
+      },
+      {
+        "name": "Light Up the Stage",
+        "set_code": "rna",
+        "number": "107",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 457251
+      },
+      {
+        "name": "Embercleave",
+        "set_code": "eld",
+        "number": "120",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 473082
+      },
+      {
+        "name": "Cavalcade of Calamity",
+        "set_code": "rna",
+        "number": "95",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 457239
+      },
+      {
+        "name": "Castle Embereth",
+        "set_code": "eld",
+        "number": "239",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 473201
+      },
+      {
+        "name": "Mountain",
+        "set_code": "thb",
+        "number": "253",
+        "foil": false,
+        "count": 18,
+        "multiverseid": 476504
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Experimental Frenzy",
+        "set_code": "grn",
+        "number": "99",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 452849
+      },
+      {
+        "name": "Satyr's Cunning",
+        "set_code": "thb",
+        "number": "152",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476403
+      },
+      {
+        "name": "Shock",
+        "set_code": "m20",
+        "number": "160",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466914
+      },
+      {
+        "name": "Slaying Fire",
+        "set_code": "eld",
+        "number": "143",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 473105
+      },
+      {
+        "name": "Tibalt, Rakish Instigator",
+        "set_code": "war",
+        "number": "146",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461073
+      }
+    ]
+  },
+  {
     "name": "Elspeth",
     "type": "Planeswalker Deck",
     "set_code": "thb",
@@ -157347,6 +157783,1233 @@
         "foil": false,
         "count": 25,
         "multiverseid": 476501
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Final Adventure",
+    "type": "Challenger Deck",
+    "set_code": "thb",
+    "set_name": "Theros Beyond Death",
+    "release_date": "2020-04-03",
+    "cards": [
+      {
+        "name": "Vraska, Golgari Queen",
+        "set_code": "grn",
+        "number": "213",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 452963
+      },
+      {
+        "name": "Blacklance Paragon",
+        "set_code": "eld",
+        "number": "351",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Knight of the Ebon Legion",
+        "set_code": "m20",
+        "number": "105",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466859
+      },
+      {
+        "name": "Lovestruck Beast // Heart's Desire",
+        "set_code": "eld",
+        "number": "165a",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473127
+      },
+      {
+        "name": "Midnight Reaper",
+        "set_code": "grn",
+        "number": "77",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452827
+      },
+      {
+        "name": "Murderous Rider // Swift End",
+        "set_code": "eld",
+        "number": "287a",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Edgewall Innkeeper",
+        "set_code": "eld",
+        "number": "151",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473113
+      },
+      {
+        "name": "Foulmire Knight // Profane Insight",
+        "set_code": "eld",
+        "number": "286a",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Order of Midnight // Alter Fate",
+        "set_code": "eld",
+        "number": "288a",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Smitten Swordmaster // Curry Favor",
+        "set_code": "eld",
+        "number": "105a",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473067
+      },
+      {
+        "name": "Find // Finality",
+        "set_code": "grn",
+        "number": "225a",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452975
+      },
+      {
+        "name": "Disfigure",
+        "set_code": "m20",
+        "number": "95",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466849
+      },
+      {
+        "name": "Lucky Clover",
+        "set_code": "eld",
+        "number": "226",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473188
+      },
+      {
+        "name": "Castle Locthwain",
+        "set_code": "eld",
+        "number": "241",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 473203
+      },
+      {
+        "name": "Fabled Passage",
+        "set_code": "eld",
+        "number": "244",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 473206
+      },
+      {
+        "name": "Temple of Malady",
+        "set_code": "m20",
+        "number": "254",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 467008
+      },
+      {
+        "name": "Jungle Hollow",
+        "set_code": "m20",
+        "number": "248",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 467002
+      },
+      {
+        "name": "Forest",
+        "set_code": "thb",
+        "number": "254",
+        "foil": false,
+        "count": 7,
+        "multiverseid": 476505
+      },
+      {
+        "name": "Swamp",
+        "set_code": "thb",
+        "number": "252",
+        "foil": false,
+        "count": 8,
+        "multiverseid": 476503
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Massacre Girl",
+        "set_code": "war",
+        "number": "99",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 461026
+      },
+      {
+        "name": "Cling to Dust",
+        "set_code": "thb",
+        "number": "87",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 476338
+      },
+      {
+        "name": "Duress",
+        "set_code": "m20",
+        "number": "97",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466851
+      },
+      {
+        "name": "Kraul Harpooner",
+        "set_code": "grn",
+        "number": "136",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452886
+      },
+      {
+        "name": "Noxious Grasp",
+        "set_code": "m20",
+        "number": "110",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466864
+      },
+      {
+        "name": "Thrashing Brontodon",
+        "set_code": "m20",
+        "number": "197",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466951
+      }
+    ]
+  },
+  {
+    "name": "Flash of Ferocity",
+    "type": "Challenger Deck",
+    "set_code": "thb",
+    "set_name": "Theros Beyond Death",
+    "release_date": "2020-04-03",
+    "cards": [
+      {
+        "name": "Brazen Borrower // Petty Theft",
+        "set_code": "eld",
+        "number": "281a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Nightpack Ambusher",
+        "set_code": "m20",
+        "number": "185",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466939
+      },
+      {
+        "name": "Wavebreak Hippocamp",
+        "set_code": "thb",
+        "number": "310",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Wildborn Preserver",
+        "set_code": "eld",
+        "number": "182",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473144
+      },
+      {
+        "name": "Brineborn Cutthroat",
+        "set_code": "m20",
+        "number": "50",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466804
+      },
+      {
+        "name": "Frilled Mystic",
+        "set_code": "rna",
+        "number": "174",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 457318
+      },
+      {
+        "name": "Spectral Sailor",
+        "set_code": "m20",
+        "number": "76",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 466830
+      },
+      {
+        "name": "Thassa's Intervention",
+        "set_code": "thb",
+        "number": "307",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Opt",
+        "set_code": "eld",
+        "number": "59",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 473021
+      },
+      {
+        "name": "Quench",
+        "set_code": "rna",
+        "number": "48",
+        "foil": false,
+        "count": 4,
+        "multiverseid": 457192
+      },
+      {
+        "name": "Sinister Sabotage",
+        "set_code": "grn",
+        "number": "54",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452804
+      },
+      {
+        "name": "Unsummon",
+        "set_code": "m20",
+        "number": "78",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466832
+      },
+      {
+        "name": "Castle Vantress",
+        "set_code": "eld",
+        "number": "242",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 473204
+      },
+      {
+        "name": "Fabled Passage",
+        "set_code": "eld",
+        "number": "244",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 473206
+      },
+      {
+        "name": "Temple of Mystery",
+        "set_code": "m20",
+        "number": "255",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 467009
+      },
+      {
+        "name": "Thornwood Falls",
+        "set_code": "eld",
+        "number": "313",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 475931
+      },
+      {
+        "name": "Forest",
+        "set_code": "thb",
+        "number": "254",
+        "foil": false,
+        "count": 8,
+        "multiverseid": 476505
+      },
+      {
+        "name": "Island",
+        "set_code": "thb",
+        "number": "251",
+        "foil": false,
+        "count": 8,
+        "multiverseid": 476502
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Shifting Ceratops",
+        "set_code": "m20",
+        "number": "194",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466948
+      },
+      {
+        "name": "Aether Gust",
+        "set_code": "m20",
+        "number": "42",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 466796
+      },
+      {
+        "name": "Disdainful Stroke",
+        "set_code": "grn",
+        "number": "37",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 452787
+      },
+      {
+        "name": "Mystical Dispute",
+        "set_code": "eld",
+        "number": "58",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 473020
+      },
+      {
+        "name": "Negate",
+        "set_code": "m20",
+        "number": "69",
+        "foil": false,
+        "count": 2,
+        "multiverseid": 466823
+      },
+      {
+        "name": "Threnody Singer",
+        "set_code": "thb",
+        "number": "75",
+        "foil": false,
+        "count": 3,
+        "multiverseid": 476326
+      }
+    ]
+  },
+  {
+    "name": "Black",
+    "type": "Halfdeck",
+    "set_code": "und",
+    "set_name": "Unsanctioned",
+    "release_date": "2020-02-28",
+    "cards": [
+      {
+        "name": "Acornelia, Fashionable Filcher",
+        "set_code": "und",
+        "number": "31",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479426
+      },
+      {
+        "name": "Infernal Spawn of Evil",
+        "set_code": "und",
+        "number": "38",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479431
+      },
+      {
+        "name": "Infernal Spawn of Infernal Spawn of Evil",
+        "set_code": "und",
+        "number": "39",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479432
+      },
+      {
+        "name": "Infernius Spawnington III, Esq.",
+        "set_code": "und",
+        "number": "40",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479433
+      },
+      {
+        "name": "Bat-",
+        "set_code": "und",
+        "number": "32",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479490
+      },
+      {
+        "name": "Dirty Rat",
+        "set_code": "und",
+        "number": "34",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479491
+      },
+      {
+        "name": "Hoisted Hireling",
+        "set_code": "und",
+        "number": "37",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479430
+      },
+      {
+        "name": "Inhumaniac",
+        "set_code": "und",
+        "number": "41",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479434
+      },
+      {
+        "name": "Jumbo Imp",
+        "set_code": "und",
+        "number": "42",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479435
+      },
+      {
+        "name": "Poultrygeist",
+        "set_code": "und",
+        "number": "43",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479436
+      },
+      {
+        "name": "Skull Saucer",
+        "set_code": "und",
+        "number": "44",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479437
+      },
+      {
+        "name": "Snickering Squirrel",
+        "set_code": "und",
+        "number": "45",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479438
+      },
+      {
+        "name": "Stinging Scorpion",
+        "set_code": "und",
+        "number": "46",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479492
+      },
+      {
+        "name": "Booster Tutor",
+        "set_code": "und",
+        "number": "33",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479427
+      },
+      {
+        "name": "Duh",
+        "set_code": "und",
+        "number": "35",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479428
+      },
+      {
+        "name": "Enter the Dungeon",
+        "set_code": "und",
+        "number": "36",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479429
+      },
+      {
+        "name": "Jack-in-the-Mox",
+        "set_code": "und",
+        "number": "78",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479466
+      },
+      {
+        "name": "Underdome",
+        "set_code": "und",
+        "number": "86",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479474
+      },
+      {
+        "name": "Swamp",
+        "set_code": "und",
+        "number": "91",
+        "foil": false,
+        "count": 12,
+        "multiverseid": 479477
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Blue",
+    "type": "Halfdeck",
+    "set_code": "und",
+    "set_name": "Unsanctioned",
+    "release_date": "2020-02-28",
+    "cards": [
+      {
+        "name": "B.O.B. (Bevy of Beebles)",
+        "set_code": "und",
+        "number": "18",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479414
+      },
+      {
+        "name": "Alexander Clamilton",
+        "set_code": "und",
+        "number": "16",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479412
+      },
+      {
+        "name": "Avatar of Me",
+        "set_code": "und",
+        "number": "17",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479413
+      },
+      {
+        "name": "Chicken à la King",
+        "set_code": "und",
+        "number": "21",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479417
+      },
+      {
+        "name": "Johnny, Combo Player",
+        "set_code": "und",
+        "number": "23",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479419
+      },
+      {
+        "name": "Richard Garfield, Ph.D.",
+        "set_code": "und",
+        "number": "26",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479421
+      },
+      {
+        "name": "Carnivorous Death-Parrot",
+        "set_code": "und",
+        "number": "19",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479415
+      },
+      {
+        "name": "Cheatyface",
+        "set_code": "und",
+        "number": "20",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479416
+      },
+      {
+        "name": "Mer Man",
+        "set_code": "und",
+        "number": "25",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479489
+      },
+      {
+        "name": "Rock Lobster",
+        "set_code": "und",
+        "number": "82",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479470
+      },
+      {
+        "name": "Wall of Fortune",
+        "set_code": "und",
+        "number": "30",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479425
+      },
+      {
+        "name": "Time Out",
+        "set_code": "und",
+        "number": "28",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479423
+      },
+      {
+        "name": "Common Courtesy",
+        "set_code": "und",
+        "number": "22",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479418
+      },
+      {
+        "name": "Magic Word",
+        "set_code": "und",
+        "number": "24",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479420
+      },
+      {
+        "name": "Rings a Bell",
+        "set_code": "und",
+        "number": "27",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479422
+      },
+      {
+        "name": "Topsy Turvy",
+        "set_code": "und",
+        "number": "29",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479424
+      },
+      {
+        "name": "Water Gun Balloon Game",
+        "set_code": "und",
+        "number": "85",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479473
+      },
+      {
+        "name": "Underdome",
+        "set_code": "und",
+        "number": "86",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479474
+      },
+      {
+        "name": "Island",
+        "set_code": "und",
+        "number": "89",
+        "foil": false,
+        "count": 12,
+        "multiverseid": 479476
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Green",
+    "type": "Halfdeck",
+    "set_code": "und",
+    "set_name": "Unsanctioned",
+    "release_date": "2020-02-28",
+    "cards": [
+      {
+        "name": "B-I-N-G-O",
+        "set_code": "und",
+        "number": "61",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479452
+      },
+      {
+        "name": "Old Fogey",
+        "set_code": "und",
+        "number": "67",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479456
+      },
+      {
+        "name": "Pippa, Duchess of Dice",
+        "set_code": "und",
+        "number": "68",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479457
+      },
+      {
+        "name": "Surgeon General Commander",
+        "set_code": "und",
+        "number": "72",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479461
+      },
+      {
+        "name": "Timmy, Power Gamer",
+        "set_code": "und",
+        "number": "73",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479462
+      },
+      {
+        "name": "Elvish Impersonators",
+        "set_code": "und",
+        "number": "62",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479453
+      },
+      {
+        "name": "Free-Range Chicken",
+        "set_code": "und",
+        "number": "63",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479454
+      },
+      {
+        "name": "Half-Squirrel, Half-",
+        "set_code": "und",
+        "number": "65",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479494
+      },
+      {
+        "name": "Mother Kangaroo",
+        "set_code": "und",
+        "number": "66",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479495
+      },
+      {
+        "name": "Slaying Mantis",
+        "set_code": "und",
+        "number": "69",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479458
+      },
+      {
+        "name": "Spirit of the Season",
+        "set_code": "und",
+        "number": "70",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479459
+      },
+      {
+        "name": "Wild Crocodile",
+        "set_code": "und",
+        "number": "74",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479496
+      },
+      {
+        "name": "Who // What // When // Where // Why",
+        "set_code": "und",
+        "number": "75a",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479463
+      },
+      {
+        "name": "Growth Spurt",
+        "set_code": "und",
+        "number": "64",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479455
+      },
+      {
+        "name": "Squirrel Farm",
+        "set_code": "und",
+        "number": "71",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479460
+      },
+      {
+        "name": "Bronze Calendar",
+        "set_code": "und",
+        "number": "76",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479464
+      },
+      {
+        "name": "Entirely Normal Armchair",
+        "set_code": "und",
+        "number": "77",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479465
+      },
+      {
+        "name": "Underdome",
+        "set_code": "und",
+        "number": "86",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479474
+      },
+      {
+        "name": "Forest",
+        "set_code": "und",
+        "number": "95",
+        "foil": false,
+        "count": 12,
+        "multiverseid": 479479
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "Red",
+    "type": "Halfdeck",
+    "set_code": "und",
+    "set_name": "Unsanctioned",
+    "release_date": "2020-02-28",
+    "cards": [
+      {
+        "name": "Boomstacker",
+        "set_code": "und",
+        "number": "49",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479441
+      },
+      {
+        "name": "Infinity Elemental",
+        "set_code": "und",
+        "number": "54",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479445
+      },
+      {
+        "name": "Stet, Draconic Proofreader",
+        "set_code": "und",
+        "number": "57",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479448
+      },
+      {
+        "name": "Abstract Iguanart",
+        "set_code": "und",
+        "number": "47",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479439
+      },
+      {
+        "name": "Common Iguana",
+        "set_code": "und",
+        "number": "50",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479493
+      },
+      {
+        "name": "Goblin Haberdasher",
+        "set_code": "und",
+        "number": "51",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479442
+      },
+      {
+        "name": "Goblin S.W.A.T. Team",
+        "set_code": "und",
+        "number": "52",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479443
+      },
+      {
+        "name": "Painiac",
+        "set_code": "und",
+        "number": "55",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479446
+      },
+      {
+        "name": "Scissors Lizard",
+        "set_code": "und",
+        "number": "83",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479471
+      },
+      {
+        "name": "Six-y Beast",
+        "set_code": "und",
+        "number": "56",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479447
+      },
+      {
+        "name": "Blast from the Past",
+        "set_code": "und",
+        "number": "48",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479440
+      },
+      {
+        "name": "Goblin Tutor",
+        "set_code": "und",
+        "number": "53",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479444
+      },
+      {
+        "name": "Super-Duper Death Ray",
+        "set_code": "und",
+        "number": "59",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479450
+      },
+      {
+        "name": "Strategy, Schmategy",
+        "set_code": "und",
+        "number": "58",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479449
+      },
+      {
+        "name": "Yet Another Aether Vortex",
+        "set_code": "und",
+        "number": "60",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479451
+      },
+      {
+        "name": "Pointy Finger of Doom",
+        "set_code": "und",
+        "number": "81",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479469
+      },
+      {
+        "name": "Krark's Other Thumb",
+        "set_code": "und",
+        "number": "79",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479467
+      },
+      {
+        "name": "Underdome",
+        "set_code": "und",
+        "number": "86",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479474
+      },
+      {
+        "name": "Mountain",
+        "set_code": "und",
+        "number": "93",
+        "foil": false,
+        "count": 12,
+        "multiverseid": 479478
+      }
+    ],
+    "sideboard": [
+
+    ]
+  },
+  {
+    "name": "White",
+    "type": "Halfdeck",
+    "set_code": "und",
+    "set_name": "Unsanctioned",
+    "release_date": "2020-02-28",
+    "cards": [
+      {
+        "name": "Flavor Judge",
+        "set_code": "und",
+        "number": "4",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479403
+      },
+      {
+        "name": "Frankie Peanuts",
+        "set_code": "und",
+        "number": "5",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479404
+      },
+      {
+        "name": "Syr Cadian, Knight Owl",
+        "set_code": "und",
+        "number": "15",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479411
+      },
+      {
+        "name": "Adorable Kitten",
+        "set_code": "und",
+        "number": "1",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479485
+      },
+      {
+        "name": "Humming-",
+        "set_code": "und",
+        "number": "7",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479486
+      },
+      {
+        "name": "Knight of the Hokey Pokey",
+        "set_code": "und",
+        "number": "8",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479406
+      },
+      {
+        "name": "Old Guard",
+        "set_code": "und",
+        "number": "11",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479409
+      },
+      {
+        "name": "Ordinary Pony",
+        "set_code": "und",
+        "number": "12",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479487
+      },
+      {
+        "name": "Paper Tiger",
+        "set_code": "und",
+        "number": "80",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479468
+      },
+      {
+        "name": "Strutting Turkey",
+        "set_code": "und",
+        "number": "14",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479488
+      },
+      {
+        "name": "Emcee",
+        "set_code": "und",
+        "number": "3",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479402
+      },
+      {
+        "name": "AWOL",
+        "set_code": "und",
+        "number": "2",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479401
+      },
+      {
+        "name": "Look at Me, I'm the DCI",
+        "set_code": "und",
+        "number": "10",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479408
+      },
+      {
+        "name": "Look at Me, I'm R&D",
+        "set_code": "und",
+        "number": "9",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479407
+      },
+      {
+        "name": "Staying Power",
+        "set_code": "und",
+        "number": "13",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479410
+      },
+      {
+        "name": "GO TO JAIL",
+        "set_code": "und",
+        "number": "6",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479405
+      },
+      {
+        "name": "Sword of Dungeons & Dragons",
+        "set_code": "und",
+        "number": "84",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479472
+      },
+      {
+        "name": "Underdome",
+        "set_code": "und",
+        "number": "86",
+        "foil": false,
+        "count": 1,
+        "multiverseid": 479474
+      },
+      {
+        "name": "Plains",
+        "set_code": "und",
+        "number": "87",
+        "foil": false,
+        "count": 12,
+        "multiverseid": 479475
       }
     ],
     "sideboard": [
