@@ -55991,7 +55991,7 @@
       {
         "name": "Island",
         "set_code": "dpa",
-        "number": "100",
+        "number": "98",
         "foil": false,
         "count": 25
       }
@@ -115720,10 +115720,10 @@
       {
         "name": "Wastes",
         "set_code": "ogw",
-        "number": "184a",
+        "number": "183",
         "foil": false,
         "count": 10,
-        "multiverseid": 407695
+        "multiverseid": 407694
       },
       {
         "name": "Island",
@@ -115964,10 +115964,10 @@
       {
         "name": "Wastes",
         "set_code": "ogw",
-        "number": "184a",
+        "number": "183",
         "foil": false,
         "count": 4,
-        "multiverseid": 407695
+        "multiverseid": 407694
       },
       {
         "name": "Swamp",
@@ -129747,18 +129747,18 @@
       {
         "name": "Swamp",
         "set_code": "e01",
-        "number": "104",
+        "number": "99",
         "foil": false,
         "count": 7,
-        "multiverseid": 430643
+        "multiverseid": 430638
       },
       {
         "name": "Island",
         "set_code": "e01",
-        "number": "103",
+        "number": "98",
         "foil": false,
         "count": 5,
-        "multiverseid": 430642
+        "multiverseid": 430637
       },
       {
         "name": "Submerged Boneyard",
@@ -130394,10 +130394,10 @@
       {
         "name": "Plains",
         "set_code": "e01",
-        "number": "102",
+        "number": "97",
         "foil": false,
         "count": 25,
-        "multiverseid": 430641
+        "multiverseid": 430636
       }
     ],
     "sideboard": [
@@ -130638,10 +130638,10 @@
       {
         "name": "Island",
         "set_code": "e01",
-        "number": "103",
+        "number": "98",
         "foil": false,
         "count": 7,
-        "multiverseid": 430642
+        "multiverseid": 430637
       },
       {
         "name": "Woodland Stream",
@@ -146286,10 +146286,10 @@
       {
         "name": "Mountain",
         "set_code": "gk1",
-        "number": "101",
+        "number": "49",
         "foil": false,
         "count": 8,
-        "multiverseid": 455778
+        "multiverseid": 456239
       },
       {
         "name": "Plains",
@@ -146902,10 +146902,10 @@
       {
         "name": "Forest",
         "set_code": "gk1",
-        "number": "127",
+        "number": "76",
         "foil": false,
         "count": 8,
-        "multiverseid": 456385
+        "multiverseid": 456080
       }
     ],
     "sideboard": [
@@ -147202,10 +147202,10 @@
       {
         "name": "Mountain",
         "set_code": "gk1",
-        "number": "101",
+        "number": "49",
         "foil": false,
         "count": 8,
-        "multiverseid": 455778
+        "multiverseid": 456239
       }
     ],
     "sideboard": [
@@ -147486,10 +147486,10 @@
       {
         "name": "Forest",
         "set_code": "gk1",
-        "number": "127",
+        "number": "76",
         "foil": false,
         "count": 8,
-        "multiverseid": 456385
+        "multiverseid": 456080
       }
     ],
     "sideboard": [
@@ -149166,10 +149166,10 @@
       {
         "name": "Island",
         "set_code": "gk2",
-        "number": "132",
+        "number": "27",
         "foil": false,
         "count": 8,
-        "multiverseid": 460791
+        "multiverseid": 460156
       }
     ],
     "sideboard": [
@@ -149466,10 +149466,10 @@
       {
         "name": "Mountain",
         "set_code": "gk2",
-        "number": "105",
+        "number": "79",
         "foil": false,
         "count": 8,
-        "multiverseid": 460317
+        "multiverseid": 460625
       },
       {
         "name": "Forest",
@@ -150090,10 +150090,10 @@
       {
         "name": "Mountain",
         "set_code": "gk2",
-        "number": "105",
+        "number": "79",
         "foil": false,
         "count": 8,
-        "multiverseid": 460317
+        "multiverseid": 460625
       }
     ],
     "sideboard": [
@@ -150374,10 +150374,10 @@
       {
         "name": "Island",
         "set_code": "gk2",
-        "number": "132",
+        "number": "27",
         "foil": false,
         "count": 8,
-        "multiverseid": 460791
+        "multiverseid": 460156
       },
       {
         "name": "Forest",
@@ -155214,9 +155214,10 @@
       {
         "name": "Animating Faerie // Bring to Life",
         "set_code": "eld",
-        "number": "280a",
+        "number": "38a",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 473000
       },
       {
         "name": "Winged Words",
@@ -155648,9 +155649,10 @@
       {
         "name": "Order of Midnight // Alter Fate",
         "set_code": "eld",
-        "number": "288a",
+        "number": "99a",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 473061
       },
       {
         "name": "Smitten Swordmaster // Curry Favor",
@@ -155679,9 +155681,10 @@
       {
         "name": "Foulmire Knight // Profane Insight",
         "set_code": "eld",
-        "number": "286a",
+        "number": "90a",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 473052
       },
       {
         "name": "Ob Nixilis's Cruelty",
@@ -156213,9 +156216,10 @@
       {
         "name": "Ardenvale Tactician // Dizzying Swoop",
         "set_code": "eld",
-        "number": "273a",
+        "number": "5a",
         "foil": false,
-        "count": 2
+        "count": 2,
+        "multiverseid": 472967
       },
       {
         "name": "Scorching Dragonfire",
@@ -157118,9 +157122,10 @@
       {
         "name": "Fae of Wishes // Granted",
         "set_code": "eld",
-        "number": "282a",
+        "number": "44a",
         "foil": false,
-        "count": 2
+        "count": 2,
+        "multiverseid": 473006
       },
       {
         "name": "Deafening Clarion",
@@ -157335,9 +157340,10 @@
       {
         "name": "Thirst for Meaning",
         "set_code": "thb",
-        "number": "354",
+        "number": "74",
         "foil": false,
-        "count": 3
+        "count": 3,
+        "multiverseid": 476325
       }
     ]
   },
@@ -157359,9 +157365,10 @@
       {
         "name": "Gravebreaker Lamia",
         "set_code": "thb",
-        "number": "314",
+        "number": "98",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 476349
       },
       {
         "name": "Tymaret, Chosen from Death",
@@ -157677,9 +157684,10 @@
       {
         "name": "Daxos, Blessed by the Sun",
         "set_code": "thb",
-        "number": "258",
+        "number": "9",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 476260
       },
       {
         "name": "Eidolon of Inspiration",
@@ -157692,9 +157700,10 @@
       {
         "name": "Taranika, Akroan Veteran",
         "set_code": "thb",
-        "number": "303",
+        "number": "39",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 476290
       },
       {
         "name": "Archon of Falling Stars",
@@ -157807,9 +157816,10 @@
       {
         "name": "Blacklance Paragon",
         "set_code": "eld",
-        "number": "351",
+        "number": "79",
         "foil": false,
-        "count": 2
+        "count": 2,
+        "multiverseid": 473041
       },
       {
         "name": "Knight of the Ebon Legion",
@@ -157838,9 +157848,10 @@
       {
         "name": "Murderous Rider // Swift End",
         "set_code": "eld",
-        "number": "287a",
+        "number": "97a",
         "foil": false,
-        "count": 2
+        "count": 2,
+        "multiverseid": 473059
       },
       {
         "name": "Edgewall Innkeeper",
@@ -157853,16 +157864,18 @@
       {
         "name": "Foulmire Knight // Profane Insight",
         "set_code": "eld",
-        "number": "286a",
+        "number": "90a",
         "foil": false,
-        "count": 4
+        "count": 4,
+        "multiverseid": 473052
       },
       {
         "name": "Order of Midnight // Alter Fate",
         "set_code": "eld",
-        "number": "288a",
+        "number": "99a",
         "foil": false,
-        "count": 4
+        "count": 4,
+        "multiverseid": 473061
       },
       {
         "name": "Smitten Swordmaster // Curry Favor",
@@ -158006,9 +158019,10 @@
       {
         "name": "Brazen Borrower // Petty Theft",
         "set_code": "eld",
-        "number": "281a",
+        "number": "39a",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 473001
       },
       {
         "name": "Nightpack Ambusher",
@@ -158021,9 +158035,10 @@
       {
         "name": "Wavebreak Hippocamp",
         "set_code": "thb",
-        "number": "310",
+        "number": "80",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 476331
       },
       {
         "name": "Wildborn Preserver",
@@ -158060,9 +158075,10 @@
       {
         "name": "Thassa's Intervention",
         "set_code": "thb",
-        "number": "307",
+        "number": "72",
         "foil": false,
-        "count": 2
+        "count": 2,
+        "multiverseid": 476323
       },
       {
         "name": "Opt",
@@ -159877,44 +159893,50 @@
       {
         "name": "Archipelagore",
         "set_code": "iko",
-        "number": "283",
+        "number": "41",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 479561
       },
       {
         "name": "Dreamtail Heron",
         "set_code": "iko",
-        "number": "284",
+        "number": "47",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 479567
       },
       {
         "name": "Pouncing Shoreshark",
         "set_code": "iko",
-        "number": "285",
+        "number": "64",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 479584
       },
       {
         "name": "Cavern Whisperer",
         "set_code": "iko",
-        "number": "287",
+        "number": "79",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 479599
       },
       {
         "name": "Chittering Harvester",
         "set_code": "iko",
-        "number": "288",
+        "number": "80",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 479600
       },
       {
         "name": "Insatiable Hemophage",
         "set_code": "iko",
-        "number": "290",
+        "number": "93",
         "foil": false,
-        "count": 1
+        "count": 1,
+        "multiverseid": 479613
       },
       {
         "name": "Auspicious Starrix",
