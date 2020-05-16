@@ -22443,14 +22443,28 @@
         "set_code": "dkm",
         "number": "6a",
         "foil": false,
-        "count": 2
+        "count": 1
+      },
+      {
+        "name": "Lim-Dûl's High Guard",
+        "set_code": "dkm",
+        "number": "6b",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Phantasmal Fiend",
         "set_code": "dkm",
         "number": "8a",
         "foil": false,
-        "count": 2
+        "count": 1
+      },
+      {
+        "name": "Phantasmal Fiend",
+        "set_code": "dkm",
+        "number": "8b",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Abyssal Specter",
@@ -22534,7 +22548,14 @@
         "set_code": "dkm",
         "number": "13a",
         "foil": false,
-        "count": 2
+        "count": 1
+      },
+      {
+        "name": "Guerrilla Tactics",
+        "set_code": "dkm",
+        "number": "13b",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Incinerate",
@@ -22561,14 +22582,14 @@
         "name": "Icy Manipulator",
         "set_code": "dkm",
         "number": "36",
-        "foil": true,
+        "foil": false,
         "count": 1
       },
       {
         "name": "Icy Manipulator",
         "set_code": "dkm",
         "number": "36s",
-        "foil": false,
+        "foil": true,
         "count": 1
       },
       {
@@ -22672,7 +22693,14 @@
         "set_code": "dkm",
         "number": "31a",
         "foil": false,
-        "count": 2
+        "count": 1
+      },
+      {
+        "name": "Yavimaya Ancients",
+        "set_code": "dkm",
+        "number": "31b",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Giant Trap Door Spider",
@@ -60417,7 +60445,7 @@
       {
         "name": "Chain Lightning",
         "set_code": "td0",
-        "number": "A55",
+        "number": "B14",
         "foil": false,
         "count": 4
       },
@@ -60452,7 +60480,7 @@
       {
         "name": "Lightning Bolt",
         "set_code": "td0",
-        "number": "A60",
+        "number": "B21",
         "foil": false,
         "count": 4
       },
@@ -60475,7 +60503,7 @@
       {
         "name": "Relic of Progenitus",
         "set_code": "td0",
-        "number": "A117",
+        "number": "B29",
         "foil": false,
         "count": 4
       },
@@ -61654,7 +61682,7 @@
       {
         "name": "Swords to Plowshares",
         "set_code": "td0",
-        "number": "A17",
+        "number": "B12",
         "foil": false,
         "count": 4
       },
@@ -61682,7 +61710,7 @@
       {
         "name": "Oblivion Ring",
         "set_code": "td0",
-        "number": "A12",
+        "number": "B8",
         "foil": false,
         "count": 3
       },
@@ -61726,7 +61754,7 @@
       {
         "name": "Oblivion Ring",
         "set_code": "td0",
-        "number": "A12",
+        "number": "B8",
         "foil": false,
         "count": 1
       },
@@ -61754,7 +61782,7 @@
       {
         "name": "Relic of Progenitus",
         "set_code": "td0",
-        "number": "A117",
+        "number": "B29",
         "foil": false,
         "count": 4
       }
