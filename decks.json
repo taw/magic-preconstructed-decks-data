@@ -3774,172 +3774,7 @@
     ]
   },
   {
-    "name": "Green Stompy",
-    "type": "World Championship Decks",
-    "set_code": "wc97",
-    "set_name": "World Championship Decks 1997",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Fyndhorn Elves",
-        "set_code": "wc97",
-        "number": "sg244",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Ghazbán Ogre",
-        "set_code": "wc97",
-        "number": "sg298",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Rogue Elephant",
-        "set_code": "wc97",
-        "number": "sg139",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Quirion Ranger",
-        "set_code": "wc97",
-        "number": "sg117",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Harvest Wurm",
-        "set_code": "wc97",
-        "number": "sg130",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Spectral Bears",
-        "set_code": "wc97",
-        "number": "sg98",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Whirling Dervish",
-        "set_code": "wc97",
-        "number": "sg341",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Uktabi Orangutan",
-        "set_code": "wc97",
-        "number": "sg123",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Jolrael's Centaur",
-        "set_code": "wc97",
-        "number": "sg222",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Lhurgoyf",
-        "set_code": "wc97",
-        "number": "sg309",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Giant Growth",
-        "set_code": "wc97",
-        "number": "sg299",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Bounty of the Hunt",
-        "set_code": "wc97",
-        "number": "sg85",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Winter Orb",
-        "set_code": "wc97",
-        "number": "sg408",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Forest",
-        "set_code": "wc97",
-        "number": "sg446",
-        "foil": false,
-        "count": 16
-      },
-      {
-        "name": "Heart of Yavimaya",
-        "set_code": "wc97",
-        "number": "sg138",
-        "foil": false,
-        "count": 2
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "River Boa",
-        "set_code": "wc97",
-        "number": "sg118sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Whirling Dervish",
-        "set_code": "wc97",
-        "number": "sg341sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Uktabi Orangutan",
-        "set_code": "wc97",
-        "number": "sg123sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Crumble",
-        "set_code": "wc97",
-        "number": "sg287sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Emerald Charm",
-        "set_code": "wc97",
-        "number": "sg106sb",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "City of Solitude",
-        "set_code": "wc97",
-        "number": "sg102sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Bounty of the Hunt",
-        "set_code": "wc97",
-        "number": "sg85sb",
-        "foil": false,
-        "count": 1
-      }
-    ]
-  },
-  {
-    "name": "Prismatic Black Aggro",
+    "name": "Jakub Slemr - Prismatic Black Aggro",
     "type": "World Championship Decks",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
@@ -4055,7 +3890,28 @@
         "set_code": "wc97",
         "number": "js438",
         "foil": false,
-        "count": 10
+        "count": 3
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc97",
+        "number": "js439",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc97",
+        "number": "js440",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc97",
+        "number": "js441",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Underground River",
@@ -4132,7 +3988,256 @@
     ]
   },
   {
-    "name": "Red-Blue Aggro Control",
+    "name": "Janosch Kuhn - Red-White-Blue Speed Control",
+    "type": "World Championship Decks",
+    "set_code": "wc97",
+    "set_name": "World Championship Decks 1997",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Frenetic Efreet",
+        "set_code": "wc97",
+        "number": "jk264",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Wildfire Emissary",
+        "set_code": "wc97",
+        "number": "jk203",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Abeyance",
+        "set_code": "wc97",
+        "number": "jk1",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Counterspell",
+        "set_code": "wc97",
+        "number": "jk77",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Disenchant",
+        "set_code": "wc97",
+        "number": "jk26",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Force of Will",
+        "set_code": "wc97",
+        "number": "jk28",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Impulse",
+        "set_code": "wc97",
+        "number": "jk34",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Incinerate",
+        "set_code": "wc97",
+        "number": "jk242",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Swords to Plowshares",
+        "set_code": "wc97",
+        "number": "jk54",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Disintegrate",
+        "set_code": "wc97",
+        "number": "jk219",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Hammer of Bogardan",
+        "set_code": "wc97",
+        "number": "jk181",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Pillage",
+        "set_code": "wc97",
+        "number": "jk76",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "City of Brass",
+        "set_code": "wc97",
+        "number": "jk413",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc97",
+        "number": "jk434",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc97",
+        "number": "jk435",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc97",
+        "number": "jk436",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc97",
+        "number": "jk437",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc97",
+        "number": "jk442",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc97",
+        "number": "jk443",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc97",
+        "number": "jk444",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc97",
+        "number": "jk445",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc97",
+        "number": "jk430",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc97",
+        "number": "jk431",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc97",
+        "number": "jk432",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc97",
+        "number": "jk433",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Thawing Glaciers",
+        "set_code": "wc97",
+        "number": "jk144",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Undiscovered Paradise",
+        "set_code": "wc97",
+        "number": "jk167",
+        "foil": false,
+        "count": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Circle of Protection: Black",
+        "set_code": "wc97",
+        "number": "jk17sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Circle of Protection: Red",
+        "set_code": "wc97",
+        "number": "jk20sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Disenchant",
+        "set_code": "wc97",
+        "number": "jk26sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Earthquake",
+        "set_code": "wc97",
+        "number": "jk223sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Kjeldoran Outpost",
+        "set_code": "wc97",
+        "number": "jk139sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Political Trickery",
+        "set_code": "wc97",
+        "number": "jk81sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Pyroblast",
+        "set_code": "wc97",
+        "number": "jk262sb",
+        "foil": false,
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Paul McCabe - Red-Blue Aggro Control",
     "type": "World Championship Decks",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
@@ -4239,16 +4344,58 @@
       {
         "name": "Island",
         "set_code": "wc97",
-        "number": "jk434",
+        "number": "pm434",
         "foil": false,
-        "count": 10
+        "count": 3
+      },
+      {
+        "name": "Island",
+        "set_code": "wc97",
+        "number": "pm435",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Island",
+        "set_code": "wc97",
+        "number": "pm436",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc97",
+        "number": "pm437",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Mountain",
         "set_code": "wc97",
-        "number": "jk442",
+        "number": "pm442",
         "foil": false,
-        "count": 6
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc97",
+        "number": "pm443",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc97",
+        "number": "pm444",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc97",
+        "number": "pm445",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "City of Brass",
@@ -4332,188 +4479,188 @@
     ]
   },
   {
-    "name": "Red-White-Blue Speed Control",
+    "name": "Svend Geertsen - Green Stompy",
     "type": "World Championship Decks",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
     "release_date": null,
     "cards": [
       {
-        "name": "Frenetic Efreet",
+        "name": "Fyndhorn Elves",
         "set_code": "wc97",
-        "number": "jk264",
+        "number": "sg244",
         "foil": false,
         "count": 4
       },
       {
-        "name": "Wildfire Emissary",
+        "name": "Ghazbán Ogre",
         "set_code": "wc97",
-        "number": "jk203",
+        "number": "sg298",
         "foil": false,
         "count": 4
       },
       {
-        "name": "Abeyance",
+        "name": "Rogue Elephant",
         "set_code": "wc97",
-        "number": "jk1",
+        "number": "sg139",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Quirion Ranger",
+        "set_code": "wc97",
+        "number": "sg117",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Harvest Wurm",
+        "set_code": "wc97",
+        "number": "sg130",
         "foil": false,
         "count": 3
       },
       {
-        "name": "Counterspell",
+        "name": "Spectral Bears",
         "set_code": "wc97",
-        "number": "jk77",
+        "number": "sg98",
         "foil": false,
         "count": 4
       },
       {
-        "name": "Disenchant",
+        "name": "Whirling Dervish",
         "set_code": "wc97",
-        "number": "jk26",
+        "number": "sg341",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Force of Will",
+        "name": "Uktabi Orangutan",
         "set_code": "wc97",
-        "number": "jk28",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Impulse",
-        "set_code": "wc97",
-        "number": "jk34",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Incinerate",
-        "set_code": "wc97",
-        "number": "jk242",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Swords to Plowshares",
-        "set_code": "wc97",
-        "number": "jk54",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Disintegrate",
-        "set_code": "wc97",
-        "number": "jk219",
+        "number": "sg123",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Hammer of Bogardan",
+        "name": "Jolrael's Centaur",
         "set_code": "wc97",
-        "number": "jk181",
+        "number": "sg222",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Pillage",
+        "name": "Lhurgoyf",
         "set_code": "wc97",
-        "number": "jk76",
+        "number": "sg309",
         "foil": false,
-        "count": 1
+        "count": 3
       },
       {
-        "name": "City of Brass",
+        "name": "Giant Growth",
         "set_code": "wc97",
-        "number": "jk413",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Island",
-        "set_code": "wc97",
-        "number": "jk434",
-        "foil": false,
-        "count": 6
-      },
-      {
-        "name": "Mountain",
-        "set_code": "wc97",
-        "number": "jk442",
-        "foil": false,
-        "count": 6
-      },
-      {
-        "name": "Plains",
-        "set_code": "wc97",
-        "number": "jk430",
+        "number": "sg299",
         "foil": false,
         "count": 4
       },
       {
-        "name": "Thawing Glaciers",
+        "name": "Bounty of the Hunt",
         "set_code": "wc97",
-        "number": "jk144",
+        "number": "sg85",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Winter Orb",
+        "set_code": "wc97",
+        "number": "sg408",
         "foil": false,
         "count": 4
       },
       {
-        "name": "Undiscovered Paradise",
+        "name": "Forest",
         "set_code": "wc97",
-        "number": "jk167",
+        "number": "sg446",
         "foil": false,
-        "count": 1
+        "count": 4
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc97",
+        "number": "sg447",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc97",
+        "number": "sg448",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc97",
+        "number": "sg449",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Heart of Yavimaya",
+        "set_code": "wc97",
+        "number": "sg138",
+        "foil": false,
+        "count": 2
       }
     ],
     "sideboard": [
       {
-        "name": "Circle of Protection: Black",
+        "name": "River Boa",
         "set_code": "wc97",
-        "number": "jk17sb",
+        "number": "sg118sb",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Circle of Protection: Red",
+        "name": "Whirling Dervish",
         "set_code": "wc97",
-        "number": "jk20sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Disenchant",
-        "set_code": "wc97",
-        "number": "jk26sb",
+        "number": "sg341sb",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Earthquake",
+        "name": "Uktabi Orangutan",
         "set_code": "wc97",
-        "number": "jk223sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Kjeldoran Outpost",
-        "set_code": "wc97",
-        "number": "jk139sb",
+        "number": "sg123sb",
         "foil": false,
         "count": 1
       },
       {
-        "name": "Political Trickery",
+        "name": "Crumble",
         "set_code": "wc97",
-        "number": "jk81sb",
+        "number": "sg287sb",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Pyroblast",
+        "name": "Emerald Charm",
         "set_code": "wc97",
-        "number": "jk262sb",
+        "number": "sg106sb",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "City of Solitude",
+        "set_code": "wc97",
+        "number": "sg102sb",
         "foil": false,
         "count": 3
+      },
+      {
+        "name": "Bounty of the Hunt",
+        "set_code": "wc97",
+        "number": "sg85sb",
+        "foil": false,
+        "count": 1
       }
     ]
   },
@@ -8798,7 +8945,358 @@
     ]
   },
   {
-    "name": "Cali Nightmare",
+    "name": "Ben Rubin - Sligh",
+    "type": "World Championship Decks",
+    "set_code": "wc98",
+    "set_name": "World Championship Decks 1998",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Ball Lightning",
+        "set_code": "wc98",
+        "number": "br210",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Goblin Vandal",
+        "set_code": "wc98",
+        "number": "br105",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Ironclaw Orcs",
+        "set_code": "wc98",
+        "number": "br245",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Jackal Pup",
+        "set_code": "wc98",
+        "number": "br183",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mogg Fanatic",
+        "set_code": "wc98",
+        "number": "br190",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mogg Flunkies",
+        "set_code": "wc98",
+        "number": "br92",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Viashino Sandstalker",
+        "set_code": "wc98",
+        "number": "br100",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Fireblast",
+        "set_code": "wc98",
+        "number": "br79",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Hammer of Bogardan",
+        "set_code": "wc98",
+        "number": "br181",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Incinerate",
+        "set_code": "wc98",
+        "number": "br184",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Shock",
+        "set_code": "wc98",
+        "number": "br98b",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Cursed Scroll",
+        "set_code": "wc98",
+        "number": "br281",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc98",
+        "number": "br343",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc98",
+        "number": "br344",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc98",
+        "number": "br345",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc98",
+        "number": "br346",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Wasteland",
+        "set_code": "wc98",
+        "number": "br330",
+        "foil": false,
+        "count": 4
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Bottle Gnomes",
+        "set_code": "wc98",
+        "number": "br278sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Dwarven Miner",
+        "set_code": "wc98",
+        "number": "br169sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Dwarven Thaumaturgist",
+        "set_code": "wc98",
+        "number": "br98sba",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Final Fortune",
+        "set_code": "wc98",
+        "number": "br174sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Firestorm",
+        "set_code": "wc98",
+        "number": "br101sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Pyroblast",
+        "set_code": "wc98",
+        "number": "br213sb",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Shattering Pulse",
+        "set_code": "wc98",
+        "number": "br102sb",
+        "foil": false,
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Brian Hacker - White Weenie",
+    "type": "World Championship Decks",
+    "set_code": "wc98",
+    "set_name": "World Championship Decks 1998",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Nomads en-Kor",
+        "set_code": "wc98",
+        "number": "bh9",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Paladin en-Vec",
+        "set_code": "wc98",
+        "number": "bh12",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Soltari Monk",
+        "set_code": "wc98",
+        "number": "bh45",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Soltari Priest",
+        "set_code": "wc98",
+        "number": "bh46",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Soltari Visionary",
+        "set_code": "wc98",
+        "number": "bh20",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Soul Warden",
+        "set_code": "wc98",
+        "number": "bh21",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Warrior en-Kor",
+        "set_code": "wc98",
+        "number": "bh23b",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "White Knight",
+        "set_code": "wc98",
+        "number": "bh68",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Aura of Silence",
+        "set_code": "wc98",
+        "number": "bh7b",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Empyrial Armor",
+        "set_code": "wc98",
+        "number": "bh13",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Cataclysm",
+        "set_code": "wc98",
+        "number": "bh3",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Disenchant",
+        "set_code": "wc98",
+        "number": "bh16",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Tithe",
+        "set_code": "wc98",
+        "number": "bh23a",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc98",
+        "number": "bh331",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc98",
+        "number": "bh332",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc98",
+        "number": "bh333",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc98",
+        "number": "bh334",
+        "foil": false,
+        "count": 4
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Abeyance",
+        "set_code": "wc98",
+        "number": "bh1sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Armageddon",
+        "set_code": "wc98",
+        "number": "bh7asb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Aura of Silence",
+        "set_code": "wc98",
+        "number": "bh7bsb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Cursed Scroll",
+        "set_code": "wc98",
+        "number": "bh281sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Disenchant",
+        "set_code": "wc98",
+        "number": "bh16sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Spirit Link",
+        "set_code": "wc98",
+        "number": "bh64sb",
+        "foil": false,
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "Brian Selden - Cali Nightmare",
     "type": "World Championship Decks",
     "set_code": "wc98",
     "set_name": "World Championship Decks 1998",
@@ -8949,7 +9447,28 @@
         "set_code": "wc98",
         "number": "bs347",
         "foil": false,
-        "count": 8
+        "count": 2
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc98",
+        "number": "bs348",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc98",
+        "number": "bs349",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc98",
+        "number": "bs350",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Gemstone Mine",
@@ -9054,7 +9573,7 @@
     ]
   },
   {
-    "name": "Draw, Go",
+    "name": "Randy Buehler - Draw, Go",
     "type": "World Championship Decks",
     "set_code": "wc98",
     "set_name": "World Championship Decks 1998",
@@ -9142,7 +9661,28 @@
         "set_code": "wc98",
         "number": "rb335",
         "foil": false,
-        "count": 18
+        "count": 5
+      },
+      {
+        "name": "Island",
+        "set_code": "wc98",
+        "number": "rb336",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Island",
+        "set_code": "wc98",
+        "number": "rb337",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Island",
+        "set_code": "wc98",
+        "number": "rb338",
+        "foil": false,
+        "count": 4
       },
       {
         "name": "Quicksand",
@@ -9194,315 +9734,6 @@
         "number": "rb330sb",
         "foil": false,
         "count": 4
-      }
-    ]
-  },
-  {
-    "name": "Sligh",
-    "type": "World Championship Decks",
-    "set_code": "wc98",
-    "set_name": "World Championship Decks 1998",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Ball Lightning",
-        "set_code": "wc98",
-        "number": "br210",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Goblin Vandal",
-        "set_code": "wc98",
-        "number": "br105",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Ironclaw Orcs",
-        "set_code": "wc98",
-        "number": "br245",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Jackal Pup",
-        "set_code": "wc98",
-        "number": "br183",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Mogg Fanatic",
-        "set_code": "wc98",
-        "number": "br190",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Mogg Flunkies",
-        "set_code": "wc98",
-        "number": "br92",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Viashino Sandstalker",
-        "set_code": "wc98",
-        "number": "br100",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Fireblast",
-        "set_code": "wc98",
-        "number": "br79",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Hammer of Bogardan",
-        "set_code": "wc98",
-        "number": "br181",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Incinerate",
-        "set_code": "wc98",
-        "number": "br184",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Shock",
-        "set_code": "wc98",
-        "number": "br98b",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Cursed Scroll",
-        "set_code": "wc98",
-        "number": "br281",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Mountain",
-        "set_code": "wc98",
-        "number": "br343",
-        "foil": false,
-        "count": 17
-      },
-      {
-        "name": "Wasteland",
-        "set_code": "wc98",
-        "number": "br330",
-        "foil": false,
-        "count": 4
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Bottle Gnomes",
-        "set_code": "wc98",
-        "number": "br278sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Dwarven Miner",
-        "set_code": "wc98",
-        "number": "br169sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Dwarven Thaumaturgist",
-        "set_code": "wc98",
-        "number": "br98sba",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Final Fortune",
-        "set_code": "wc98",
-        "number": "br174sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Firestorm",
-        "set_code": "wc98",
-        "number": "br101sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Pyroblast",
-        "set_code": "wc98",
-        "number": "br213sb",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Shattering Pulse",
-        "set_code": "wc98",
-        "number": "br102sb",
-        "foil": false,
-        "count": 2
-      }
-    ]
-  },
-  {
-    "name": "White Weenie",
-    "type": "World Championship Decks",
-    "set_code": "wc98",
-    "set_name": "World Championship Decks 1998",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Nomads en-Kor",
-        "set_code": "wc98",
-        "number": "bh9",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Paladin en-Vec",
-        "set_code": "wc98",
-        "number": "bh12",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Soltari Monk",
-        "set_code": "wc98",
-        "number": "bh45",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Soltari Priest",
-        "set_code": "wc98",
-        "number": "bh46",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Soltari Visionary",
-        "set_code": "wc98",
-        "number": "bh20",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Soul Warden",
-        "set_code": "wc98",
-        "number": "bh21",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Warrior en-Kor",
-        "set_code": "wc98",
-        "number": "bh23b",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "White Knight",
-        "set_code": "wc98",
-        "number": "bh68",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Aura of Silence",
-        "set_code": "wc98",
-        "number": "bh7b",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Empyrial Armor",
-        "set_code": "wc98",
-        "number": "bh13",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Cataclysm",
-        "set_code": "wc98",
-        "number": "bh3",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Disenchant",
-        "set_code": "wc98",
-        "number": "bh16",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Tithe",
-        "set_code": "wc98",
-        "number": "bh23a",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Plains",
-        "set_code": "wc98",
-        "number": "bh331",
-        "foil": false,
-        "count": 17
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Abeyance",
-        "set_code": "wc98",
-        "number": "bh1sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Armageddon",
-        "set_code": "wc98",
-        "number": "bh7asb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Aura of Silence",
-        "set_code": "wc98",
-        "number": "bh7bsb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Cursed Scroll",
-        "set_code": "wc98",
-        "number": "bh281sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Disenchant",
-        "set_code": "wc98",
-        "number": "bh16sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Spirit Link",
-        "set_code": "wc98",
-        "number": "bh64sb",
-        "foil": false,
-        "count": 3
       }
     ]
   },
@@ -14498,7 +14729,7 @@
     ]
   },
   {
-    "name": "Mono-Black Control",
+    "name": "Jakub Šlemr - Mono-Black Control",
     "type": "World Championship Decks",
     "set_code": "wc99",
     "set_name": "World Championship Decks 1999",
@@ -14621,7 +14852,21 @@
         "set_code": "wc99",
         "number": "js339",
         "foil": false,
-        "count": 15
+        "count": 5
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc99",
+        "number": "js340a",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc99",
+        "number": "js340b",
+        "foil": false,
+        "count": 5
       },
       {
         "name": "Volrath's Stronghold",
@@ -14712,158 +14957,7 @@
     ]
   },
   {
-    "name": "Mono-Green Stompy",
-    "type": "World Championship Decks",
-    "set_code": "wc99",
-    "set_name": "World Championship Decks 1999",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Albino Troll",
-        "set_code": "wc99",
-        "number": "ml231",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Elvish Lyrist",
-        "set_code": "wc99",
-        "number": "ml248",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Llanowar Elves",
-        "set_code": "wc99",
-        "number": "ml239",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Pouncing Jaguar",
-        "set_code": "wc99",
-        "number": "ml269",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "River Boa",
-        "set_code": "wc99",
-        "number": "ml249",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Uktabi Orangutan",
-        "set_code": "wc99",
-        "number": "ml260",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Wild Dogs",
-        "set_code": "wc99",
-        "number": "ml284",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Cursed Scroll",
-        "set_code": "wc99",
-        "number": "ml281",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Rancor",
-        "set_code": "wc99",
-        "number": "ml110",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Giant Growth",
-        "set_code": "wc99",
-        "number": "ml233",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Forest",
-        "set_code": "wc99",
-        "number": "ml347a",
-        "foil": false,
-        "count": 14
-      },
-      {
-        "name": "Gaea's Cradle",
-        "set_code": "wc99",
-        "number": "ml321",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Treetop Village",
-        "set_code": "wc99",
-        "number": "ml143",
-        "foil": false,
-        "count": 4
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Choke",
-        "set_code": "wc99",
-        "number": "ml219sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Constant Mists",
-        "set_code": "wc99",
-        "number": "ml104sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Hurricane",
-        "set_code": "wc99",
-        "number": "ml237sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Overrun",
-        "set_code": "wc99",
-        "number": "ml243sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Thran Foundry",
-        "set_code": "wc99",
-        "number": "ml140sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Uktabi Orangutan",
-        "set_code": "wc99",
-        "number": "ml260sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Weatherseed Treefolk",
-        "set_code": "wc99",
-        "number": "ml116sb",
-        "foil": false,
-        "count": 2
-      }
-    ]
-  },
-  {
-    "name": "Red-Artifact Wildfire",
+    "name": "Kai Budde - Red-Artifact Wildfire",
     "type": "World Championship Decks",
     "set_code": "wc99",
     "set_name": "World Championship Decks 1999",
@@ -14972,7 +15066,21 @@
         "set_code": "wc99",
         "number": "kb343",
         "foil": false,
-        "count": 13
+        "count": 5
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc99",
+        "number": "kb344",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc99",
+        "number": "kb346",
+        "foil": false,
+        "count": 4
       }
     ],
     "sideboard": [
@@ -15028,7 +15136,7 @@
     ]
   },
   {
-    "name": "Sped Red",
+    "name": "Mark Le Pine - Sped Red",
     "type": "World Championship Decks",
     "set_code": "wc99",
     "set_name": "World Championship Decks 1999",
@@ -15121,9 +15229,23 @@
       {
         "name": "Mountain",
         "set_code": "wc99",
-        "number": "kb343",
+        "number": "mlp344",
         "foil": false,
-        "count": 16
+        "count": 6
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc99",
+        "number": "mlp346a",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc99",
+        "number": "mlp346b",
+        "foil": false,
+        "count": 5
       },
       {
         "name": "Wasteland",
@@ -15182,6 +15304,171 @@
         "number": "mlp140sb",
         "foil": false,
         "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Matt Linde - Mono-Green Stompy",
+    "type": "World Championship Decks",
+    "set_code": "wc99",
+    "set_name": "World Championship Decks 1999",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Albino Troll",
+        "set_code": "wc99",
+        "number": "ml231",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Elvish Lyrist",
+        "set_code": "wc99",
+        "number": "ml248",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Llanowar Elves",
+        "set_code": "wc99",
+        "number": "ml239",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Pouncing Jaguar",
+        "set_code": "wc99",
+        "number": "ml269",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "River Boa",
+        "set_code": "wc99",
+        "number": "ml249",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Uktabi Orangutan",
+        "set_code": "wc99",
+        "number": "ml260",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Wild Dogs",
+        "set_code": "wc99",
+        "number": "ml284",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Cursed Scroll",
+        "set_code": "wc99",
+        "number": "ml281",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Rancor",
+        "set_code": "wc99",
+        "number": "ml110",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Giant Growth",
+        "set_code": "wc99",
+        "number": "ml233",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc99",
+        "number": "ml347a",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc99",
+        "number": "ml347b",
+        "foil": false,
+        "count": 5
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc99",
+        "number": "ml349",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Gaea's Cradle",
+        "set_code": "wc99",
+        "number": "ml321",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Treetop Village",
+        "set_code": "wc99",
+        "number": "ml143",
+        "foil": false,
+        "count": 4
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Choke",
+        "set_code": "wc99",
+        "number": "ml219sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Constant Mists",
+        "set_code": "wc99",
+        "number": "ml104sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Hurricane",
+        "set_code": "wc99",
+        "number": "ml237sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Overrun",
+        "set_code": "wc99",
+        "number": "ml243sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Thran Foundry",
+        "set_code": "wc99",
+        "number": "ml140sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Uktabi Orangutan",
+        "set_code": "wc99",
+        "number": "ml260sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Weatherseed Treefolk",
+        "set_code": "wc99",
+        "number": "ml116sb",
+        "foil": false,
+        "count": 2
       }
     ]
   },
@@ -19178,7 +19465,7 @@
     ]
   },
   {
-    "name": "Angry Non-Hermit",
+    "name": "Janosch Kühn - Angry Non-Hermit",
     "type": "World Championship Decks",
     "set_code": "wc00",
     "set_name": "World Championship Decks 2000",
@@ -19364,256 +19651,7 @@
     ]
   },
   {
-    "name": "Chimera",
-    "type": "World Championship Decks",
-    "set_code": "wc00",
-    "set_name": "World Championship Decks 2000",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Academy Rector",
-        "set_code": "wc00",
-        "number": "nl1",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Birds of Paradise",
-        "set_code": "wc00",
-        "number": "nl217",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Llanowar Elves",
-        "set_code": "wc00",
-        "number": "nl239",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Priest of Titania",
-        "set_code": "wc00",
-        "number": "nl270",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Serra Avatar",
-        "set_code": "wc00",
-        "number": "nl45",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Ashnod's Altar",
-        "set_code": "wc00",
-        "number": "nl274",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Snake Basket",
-        "set_code": "wc00",
-        "number": "nl312",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Whetstone",
-        "set_code": "wc00",
-        "number": "nl316",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Enlightened Tutor",
-        "set_code": "wc00",
-        "number": "nl19",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Confiscate",
-        "set_code": "wc00",
-        "number": "nl66",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Fecundity",
-        "set_code": "wc00",
-        "number": "nl251",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Pattern of Rebirth",
-        "set_code": "wc00",
-        "number": "nl115",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Saproling Cluster",
-        "set_code": "wc00",
-        "number": "nl114",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Yawgmoth's Bargain",
-        "set_code": "wc00",
-        "number": "nl75",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Yawgmoth's Will",
-        "set_code": "wc00",
-        "number": "nl171",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Brushland",
-        "set_code": "wc00",
-        "number": "nl320",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "City of Brass",
-        "set_code": "wc00",
-        "number": "nl321",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Forest",
-        "set_code": "wc00",
-        "number": "jk347",
-        "foil": false,
-        "count": 8
-      },
-      {
-        "name": "High Market",
-        "set_code": "wc00",
-        "number": "nl320b",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Phyrexian Tower",
-        "set_code": "wc00",
-        "number": "nl322",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Thran Quarry",
-        "set_code": "wc00",
-        "number": "nl329",
-        "foil": false,
-        "count": 2
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Absolute Law",
-        "set_code": "wc00",
-        "number": "nl2sba",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Armageddon",
-        "set_code": "wc00",
-        "number": "nl4sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Aura Fracture",
-        "set_code": "wc00",
-        "number": "nl2sbb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Blaze",
-        "set_code": "wc00",
-        "number": "nl168sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Defense Grid",
-        "set_code": "wc00",
-        "number": "nl125sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Energy Flux",
-        "set_code": "wc00",
-        "number": "nl78sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Heart of Ramos",
-        "set_code": "wc00",
-        "number": "nl296sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Light of Day",
-        "set_code": "wc00",
-        "number": "nl29sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Meekstone",
-        "set_code": "wc00",
-        "number": "nl299sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Parallax Wave",
-        "set_code": "wc00",
-        "number": "nl17sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Phyrexian Processor",
-        "set_code": "wc00",
-        "number": "nl306sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Seal of Cleansing",
-        "set_code": "wc00",
-        "number": "nl18sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Worship",
-        "set_code": "wc00",
-        "number": "nl57sb",
-        "foil": false,
-        "count": 1
-      }
-    ]
-  },
-  {
-    "name": "Mono-Blue Tinker",
+    "name": "Jon Finkel - Mono-Blue Tinker",
     "type": "World Championship Decks",
     "set_code": "wc00",
     "set_name": "World Championship Decks 2000",
@@ -19771,7 +19809,256 @@
     ]
   },
   {
-    "name": "Replenish",
+    "name": "Nicolas Labarre - Chimera",
+    "type": "World Championship Decks",
+    "set_code": "wc00",
+    "set_name": "World Championship Decks 2000",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Academy Rector",
+        "set_code": "wc00",
+        "number": "nl1",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Birds of Paradise",
+        "set_code": "wc00",
+        "number": "nl217",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Llanowar Elves",
+        "set_code": "wc00",
+        "number": "nl239",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Priest of Titania",
+        "set_code": "wc00",
+        "number": "nl270",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Serra Avatar",
+        "set_code": "wc00",
+        "number": "nl45",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ashnod's Altar",
+        "set_code": "wc00",
+        "number": "nl274",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Snake Basket",
+        "set_code": "wc00",
+        "number": "nl312",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Whetstone",
+        "set_code": "wc00",
+        "number": "nl316",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Enlightened Tutor",
+        "set_code": "wc00",
+        "number": "nl19",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Confiscate",
+        "set_code": "wc00",
+        "number": "nl66",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Fecundity",
+        "set_code": "wc00",
+        "number": "nl251",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Pattern of Rebirth",
+        "set_code": "wc00",
+        "number": "nl115",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Saproling Cluster",
+        "set_code": "wc00",
+        "number": "nl114",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Yawgmoth's Bargain",
+        "set_code": "wc00",
+        "number": "nl75",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Yawgmoth's Will",
+        "set_code": "wc00",
+        "number": "nl171",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Brushland",
+        "set_code": "wc00",
+        "number": "nl320",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "City of Brass",
+        "set_code": "wc00",
+        "number": "nl321",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc00",
+        "number": "nl347",
+        "foil": false,
+        "count": 8
+      },
+      {
+        "name": "High Market",
+        "set_code": "wc00",
+        "number": "nl320b",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Phyrexian Tower",
+        "set_code": "wc00",
+        "number": "nl322",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Thran Quarry",
+        "set_code": "wc00",
+        "number": "nl329",
+        "foil": false,
+        "count": 2
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Absolute Law",
+        "set_code": "wc00",
+        "number": "nl2sba",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Armageddon",
+        "set_code": "wc00",
+        "number": "nl4sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Aura Fracture",
+        "set_code": "wc00",
+        "number": "nl2sbb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Blaze",
+        "set_code": "wc00",
+        "number": "nl168sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Defense Grid",
+        "set_code": "wc00",
+        "number": "nl125sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Energy Flux",
+        "set_code": "wc00",
+        "number": "nl78sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Heart of Ramos",
+        "set_code": "wc00",
+        "number": "nl296sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Light of Day",
+        "set_code": "wc00",
+        "number": "nl29sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Meekstone",
+        "set_code": "wc00",
+        "number": "nl299sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Parallax Wave",
+        "set_code": "wc00",
+        "number": "nl17sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Phyrexian Processor",
+        "set_code": "wc00",
+        "number": "nl306sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Seal of Cleansing",
+        "set_code": "wc00",
+        "number": "nl18sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Worship",
+        "set_code": "wc00",
+        "number": "nl57sb",
+        "foil": false,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Tom van de Logt - Replenish",
     "type": "World Championship Decks",
     "set_code": "wc00",
     "set_name": "World Championship Decks 2000",
@@ -19878,7 +20165,7 @@
       {
         "name": "Island",
         "set_code": "wc00",
-        "number": "jf335",
+        "number": "tvdl335",
         "foil": false,
         "count": 9
       },
@@ -24455,7 +24742,235 @@
     ]
   },
   {
-    "name": "Blue-Black-Red Nether-Go",
+    "name": "Alex Borteh - Merfolk Opposition",
+    "type": "World Championship Decks",
+    "set_code": "wc01",
+    "set_name": "World Championship Decks 2001",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Static Orb",
+        "set_code": "wc01",
+        "number": "ab319",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Darting Merfolk",
+        "set_code": "wc01",
+        "number": "ab72",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Lord of Atlantis",
+        "set_code": "wc01",
+        "number": "ab83",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Merfolk Looter",
+        "set_code": "wc01",
+        "number": "ab89",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Merfolk of the Pearl Trident",
+        "set_code": "wc01",
+        "number": "ab90",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Vodalian Merchant",
+        "set_code": "wc01",
+        "number": "ab85",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Waterfront Bouncer",
+        "set_code": "wc01",
+        "number": "ab114",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Opposition",
+        "set_code": "wc01",
+        "number": "ab92",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Counterspell",
+        "set_code": "wc01",
+        "number": "ab67",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Counterspell",
+        "set_code": "wc01",
+        "number": "ab69",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Gush",
+        "set_code": "wc01",
+        "number": "ab82",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Thwart",
+        "set_code": "wc01",
+        "number": "ab108",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab332",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab333",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab334",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab335",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab335a",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab335b",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab336",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab336a",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab337",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab337a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab338",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ab338a",
+        "foil": false,
+        "count": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Hibernation",
+        "set_code": "wc01",
+        "number": "ab79sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Mana Maze",
+        "set_code": "wc01",
+        "number": "ab59sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Misdirection",
+        "set_code": "wc01",
+        "number": "ab87sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Prodigal Sorcerer",
+        "set_code": "wc01",
+        "number": "ab94sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Rushing River",
+        "set_code": "wc01",
+        "number": "ab30sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Teferi's Response",
+        "set_code": "wc01",
+        "number": "ab78sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Wash Out",
+        "set_code": "wc01",
+        "number": "ab87bsb",
+        "foil": false,
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Antoine Ruel - Blue-Black-Red Nether-Go",
     "type": "World Championship Decks",
     "set_code": "wc01",
     "set_name": "World Championship Decks 2001",
@@ -24562,9 +25077,58 @@
       {
         "name": "Island",
         "set_code": "wc01",
-        "number": "ab332",
+        "number": "ar334",
         "foil": false,
-        "count": 8
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ar335",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ar335a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ar335b",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ar336",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ar336a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ar337",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc01",
+        "number": "ar338",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Salt Marsh",
@@ -24655,7 +25219,7 @@
     ]
   },
   {
-    "name": "Dark Fires",
+    "name": "Jan Tomcani - Dark Fires",
     "type": "World Championship Decks",
     "set_code": "wc01",
     "set_name": "World Championship Decks 2001",
@@ -24743,14 +25307,77 @@
         "set_code": "wc01",
         "number": "jt328",
         "foil": false,
-        "count": 8
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc01",
+        "number": "jt329",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc01",
+        "number": "jt347",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc01",
+        "number": "jt347a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc01",
+        "number": "jt348",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc01",
+        "number": "jt348a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc01",
+        "number": "jt349",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc01",
+        "number": "jt349a",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Mountain",
         "set_code": "wc01",
         "number": "jt337",
         "foil": false,
-        "count": 3
+        "count": 1
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc01",
+        "number": "jt343",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc01",
+        "number": "jt343a",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "City of Brass",
@@ -24834,7 +25461,7 @@
     ]
   },
   {
-    "name": "Machine Head",
+    "name": "Tom van de Logt - Machine Head",
     "type": "World Championship Decks",
     "set_code": "wc01",
     "set_name": "World Championship Decks 2001",
@@ -24922,14 +25549,63 @@
         "set_code": "wc01",
         "number": "tvdl339",
         "foil": false,
-        "count": 6
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc01",
+        "number": "tvdl339a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc01",
+        "number": "tvdl341",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc01",
+        "number": "tvdl342",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc01",
+        "number": "tvdl347",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc01",
+        "number": "tvdl348",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Mountain",
         "set_code": "wc01",
-        "number": "jt337",
+        "number": "tvdl337",
         "foil": false,
-        "count": 6
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc01",
+        "number": "tvdl343",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc01",
+        "number": "tvdl343b",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Rishadan Port",
@@ -25002,157 +25678,6 @@
         "number": "tvdl97sb",
         "foil": false,
         "count": 1
-      }
-    ]
-  },
-  {
-    "name": "Merfolk Opposition",
-    "type": "World Championship Decks",
-    "set_code": "wc01",
-    "set_name": "World Championship Decks 2001",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Static Orb",
-        "set_code": "wc01",
-        "number": "ab319",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Darting Merfolk",
-        "set_code": "wc01",
-        "number": "ab72",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Lord of Atlantis",
-        "set_code": "wc01",
-        "number": "ab83",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Merfolk Looter",
-        "set_code": "wc01",
-        "number": "ab89",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Merfolk of the Pearl Trident",
-        "set_code": "wc01",
-        "number": "ab90",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Vodalian Merchant",
-        "set_code": "wc01",
-        "number": "ab85",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Waterfront Bouncer",
-        "set_code": "wc01",
-        "number": "ab114",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Opposition",
-        "set_code": "wc01",
-        "number": "ab92",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Counterspell",
-        "set_code": "wc01",
-        "number": "ab67",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Counterspell",
-        "set_code": "wc01",
-        "number": "ab69",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Gush",
-        "set_code": "wc01",
-        "number": "ab82",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Thwart",
-        "set_code": "wc01",
-        "number": "ab108",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Island",
-        "set_code": "wc01",
-        "number": "ab332",
-        "foil": false,
-        "count": 20
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Hibernation",
-        "set_code": "wc01",
-        "number": "ab79sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Mana Maze",
-        "set_code": "wc01",
-        "number": "ab59sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Misdirection",
-        "set_code": "wc01",
-        "number": "ab87sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Prodigal Sorcerer",
-        "set_code": "wc01",
-        "number": "ab94sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Rushing River",
-        "set_code": "wc01",
-        "number": "ab30sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Teferi's Response",
-        "set_code": "wc01",
-        "number": "ab78sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Wash Out",
-        "set_code": "wc01",
-        "number": "ab87bsb",
-        "foil": false,
-        "count": 2
       }
     ]
   },
@@ -28054,358 +28579,7 @@
     ]
   },
   {
-    "name": "Le Wonder Goose",
-    "type": "World Championship Decks",
-    "set_code": "wc02",
-    "set_name": "World Championship Decks 2002",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Genesis",
-        "set_code": "wc02",
-        "number": "rl117",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Nimble Mongoose",
-        "set_code": "wc02",
-        "number": "rl258",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Seton's Scout",
-        "set_code": "wc02",
-        "number": "rl138",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Werebear",
-        "set_code": "wc02",
-        "number": "rl282",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Wild Mongrel",
-        "set_code": "wc02",
-        "number": "rl283",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Wonder",
-        "set_code": "wc02",
-        "number": "rl54",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Mental Note",
-        "set_code": "wc02",
-        "number": "rl46",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Rushing River",
-        "set_code": "wc02",
-        "number": "rl30",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Breakthrough",
-        "set_code": "wc02",
-        "number": "rl26",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Careful Study",
-        "set_code": "wc02",
-        "number": "rl70",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Roar of the Wurm",
-        "set_code": "wc02",
-        "number": "rl266",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Forest",
-        "set_code": "wc02",
-        "number": "bk328",
-        "foil": false,
-        "count": 8
-      },
-      {
-        "name": "Island",
-        "set_code": "wc02",
-        "number": "cr332",
-        "foil": false,
-        "count": 10
-      },
-      {
-        "name": "Yavimaya Coast",
-        "set_code": "wc02",
-        "number": "rl143",
-        "foil": false,
-        "count": 4
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Compost",
-        "set_code": "wc02",
-        "number": "rl235sb",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Disrupt",
-        "set_code": "wc02",
-        "number": "rl51sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Phantom Centaur",
-        "set_code": "wc02",
-        "number": "rl127sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Ray of Revelation",
-        "set_code": "wc02",
-        "number": "rl20sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Repulse",
-        "set_code": "wc02",
-        "number": "rl70sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Rushing River",
-        "set_code": "wc02",
-        "number": "rl30sb",
-        "foil": false,
-        "count": 1
-      }
-    ]
-  },
-  {
-    "name": "Psychatog",
-    "type": "World Championship Decks",
-    "set_code": "wc02",
-    "set_name": "World Championship Decks 2002",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Nightscape Familiar",
-        "set_code": "wc02",
-        "number": "cr48",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Psychatog",
-        "set_code": "wc02",
-        "number": "cr292",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Circular Logic",
-        "set_code": "wc02",
-        "number": "cr33",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Counterspell",
-        "set_code": "wc02",
-        "number": "cr67",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Cunning Wish",
-        "set_code": "wc02",
-        "number": "cr37",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Fact or Fiction",
-        "set_code": "wc02",
-        "number": "cr57a",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Memory Lapse",
-        "set_code": "wc02",
-        "number": "cr88",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Repulse",
-        "set_code": "wc02",
-        "number": "cr70",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Chainer's Edict",
-        "set_code": "wc02",
-        "number": "cr57",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Deep Analysis",
-        "set_code": "wc02",
-        "number": "cr36",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Upheaval",
-        "set_code": "wc02",
-        "number": "cr113",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Island",
-        "set_code": "wc02",
-        "number": "cr332",
-        "foil": false,
-        "count": 10
-      },
-      {
-        "name": "Cephalid Coliseum",
-        "set_code": "wc02",
-        "number": "cr317",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Darkwater Catacombs",
-        "set_code": "wc02",
-        "number": "cr319",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Salt Marsh",
-        "set_code": "wc02",
-        "number": "cr326",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Swamp",
-        "set_code": "wc02",
-        "number": "cr340",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Underground River",
-        "set_code": "wc02",
-        "number": "cr350",
-        "foil": false,
-        "count": 4
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Coffin Purge",
-        "set_code": "wc02",
-        "number": "cr124sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Duress",
-        "set_code": "wc02",
-        "number": "cr131sb",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Fact or Fiction",
-        "set_code": "wc02",
-        "number": "cr57sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Gainsay",
-        "set_code": "wc02",
-        "number": "cr26sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Ghastly Demise",
-        "set_code": "wc02",
-        "number": "cr139sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Hibernation",
-        "set_code": "wc02",
-        "number": "cr79sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Mana Short",
-        "set_code": "wc02",
-        "number": "cr86sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Recoil",
-        "set_code": "wc02",
-        "number": "cr264sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Slay",
-        "set_code": "wc02",
-        "number": "cr55sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Teferi's Response",
-        "set_code": "wc02",
-        "number": "cr78sb",
-        "foil": false,
-        "count": 1
-      }
-    ]
-  },
-  {
-    "name": "Red Zone 2K2",
+    "name": "Brian Kibler - Red Zone 2K2",
     "type": "World Championship Decks",
     "set_code": "wc02",
     "set_name": "World Championship Decks 2002",
@@ -28493,7 +28667,49 @@
         "set_code": "wc02",
         "number": "bk328",
         "foil": false,
-        "count": 7
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "bk329",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "bk330",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "bk331",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "bk347",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "bk348",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "bk349",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Brushland",
@@ -28521,14 +28737,35 @@
         "set_code": "wc02",
         "number": "bk343",
         "foil": false,
-        "count": 2
+        "count": 1
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc02",
+        "number": "bk346",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Plains",
         "set_code": "wc02",
         "number": "bk331a",
         "foil": false,
-        "count": 3
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc02",
+        "number": "bk333",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc02",
+        "number": "bk341",
+        "foil": false,
+        "count": 1
       }
     ],
     "sideboard": [
@@ -28612,7 +28849,540 @@
     ]
   },
   {
-    "name": "Squirrel Opposition",
+    "name": "Carlos Romão - Psychatog",
+    "type": "World Championship Decks",
+    "set_code": "wc02",
+    "set_name": "World Championship Decks 2002",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Nightscape Familiar",
+        "set_code": "wc02",
+        "number": "cr48",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Psychatog",
+        "set_code": "wc02",
+        "number": "cr292",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Circular Logic",
+        "set_code": "wc02",
+        "number": "cr33",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Counterspell",
+        "set_code": "wc02",
+        "number": "cr67",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Cunning Wish",
+        "set_code": "wc02",
+        "number": "cr37",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Fact or Fiction",
+        "set_code": "wc02",
+        "number": "cr57a",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Memory Lapse",
+        "set_code": "wc02",
+        "number": "cr88",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Repulse",
+        "set_code": "wc02",
+        "number": "cr70",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Chainer's Edict",
+        "set_code": "wc02",
+        "number": "cr57",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Deep Analysis",
+        "set_code": "wc02",
+        "number": "cr36",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Upheaval",
+        "set_code": "wc02",
+        "number": "cr113",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr332",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr333",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr334",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr335",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr335a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr335b",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr336",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr337",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr337a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "cr338",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cephalid Coliseum",
+        "set_code": "wc02",
+        "number": "cr317",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Darkwater Catacombs",
+        "set_code": "wc02",
+        "number": "cr319",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Salt Marsh",
+        "set_code": "wc02",
+        "number": "cr326",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc02",
+        "number": "cr340",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc02",
+        "number": "cr341",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc02",
+        "number": "cr342",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Underground River",
+        "set_code": "wc02",
+        "number": "cr350",
+        "foil": false,
+        "count": 4
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Coffin Purge",
+        "set_code": "wc02",
+        "number": "cr124sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Duress",
+        "set_code": "wc02",
+        "number": "cr131sb",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Fact or Fiction",
+        "set_code": "wc02",
+        "number": "cr57sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Gainsay",
+        "set_code": "wc02",
+        "number": "cr26sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ghastly Demise",
+        "set_code": "wc02",
+        "number": "cr139sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Hibernation",
+        "set_code": "wc02",
+        "number": "cr79sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Mana Short",
+        "set_code": "wc02",
+        "number": "cr86sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Recoil",
+        "set_code": "wc02",
+        "number": "cr264sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Slay",
+        "set_code": "wc02",
+        "number": "cr55sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Teferi's Response",
+        "set_code": "wc02",
+        "number": "cr78sb",
+        "foil": false,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Raphael Levy - Le Wonder Goose",
+    "type": "World Championship Decks",
+    "set_code": "wc02",
+    "set_name": "World Championship Decks 2002",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Genesis",
+        "set_code": "wc02",
+        "number": "rl117",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Nimble Mongoose",
+        "set_code": "wc02",
+        "number": "rl258",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Seton's Scout",
+        "set_code": "wc02",
+        "number": "rl138",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Werebear",
+        "set_code": "wc02",
+        "number": "rl282",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Wild Mongrel",
+        "set_code": "wc02",
+        "number": "rl283",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Wonder",
+        "set_code": "wc02",
+        "number": "rl54",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mental Note",
+        "set_code": "wc02",
+        "number": "rl46",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Rushing River",
+        "set_code": "wc02",
+        "number": "rl30",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Breakthrough",
+        "set_code": "wc02",
+        "number": "rl26",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Careful Study",
+        "set_code": "wc02",
+        "number": "rl70",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Roar of the Wurm",
+        "set_code": "wc02",
+        "number": "rl266",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl328",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl329",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl330",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl331",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl347",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl348",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl349",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "rl350",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl332",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl333",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl334",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl335",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl336",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl336a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl337",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl337a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "rl338",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Yavimaya Coast",
+        "set_code": "wc02",
+        "number": "rl143",
+        "foil": false,
+        "count": 4
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Compost",
+        "set_code": "wc02",
+        "number": "rl235sb",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Disrupt",
+        "set_code": "wc02",
+        "number": "rl51sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Phantom Centaur",
+        "set_code": "wc02",
+        "number": "rl127sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Ray of Revelation",
+        "set_code": "wc02",
+        "number": "rl20sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Repulse",
+        "set_code": "wc02",
+        "number": "rl70sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Rushing River",
+        "set_code": "wc02",
+        "number": "rl30sb",
+        "foil": false,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Sim Han How - Squirrel Opposition",
     "type": "World Championship Decks",
     "set_code": "wc02",
     "set_name": "World Championship Decks 2002",
@@ -28698,16 +29468,93 @@
       {
         "name": "Forest",
         "set_code": "wc02",
-        "number": "bk328",
+        "number": "shh328",
         "foil": false,
-        "count": 8
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "shh329",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "shh330",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "shh331",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "shh347",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "shh348",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "shh349",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc02",
+        "number": "shh350",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Island",
         "set_code": "wc02",
-        "number": "cr332",
+        "number": "shh334",
         "foil": false,
-        "count": 5
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "shh335",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "shh336a",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "shh337",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc02",
+        "number": "shh338",
+        "foil": false,
+        "count": 1
       },
       {
         "name": "Karplusan Forest",
@@ -32005,7 +32852,263 @@
     ]
   },
   {
-    "name": "Blue-Green Madness",
+    "name": "Daniel Zink - White-Blue-Green Wake",
+    "type": "World Championship Decks",
+    "set_code": "wc03",
+    "set_name": "World Championship Decks 2003",
+    "release_date": null,
+    "cards": [
+      {
+        "name": "Mirari",
+        "set_code": "wc03",
+        "number": "dz303",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Compulsion",
+        "set_code": "wc03",
+        "number": "dz34",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Mirari's Wake",
+        "set_code": "wc03",
+        "number": "dz139",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Circular Logic",
+        "set_code": "wc03",
+        "number": "dz33",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Cunning Wish",
+        "set_code": "wc03",
+        "number": "dz37",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Mana Leak",
+        "set_code": "wc03",
+        "number": "dz89",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Moment's Peace",
+        "set_code": "wc03",
+        "number": "dz251",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Renewed Faith",
+        "set_code": "wc03",
+        "number": "dz50",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Vengeful Dreams",
+        "set_code": "wc03",
+        "number": "dz21",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Decree of Justice",
+        "set_code": "wc03",
+        "number": "dz8",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Deep Analysis",
+        "set_code": "wc03",
+        "number": "dz36",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Wrath of God",
+        "set_code": "wc03",
+        "number": "dz58",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Elfhame Palace",
+        "set_code": "wc03",
+        "number": "dz324",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Flooded Strand",
+        "set_code": "wc03",
+        "number": "dz316",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc03",
+        "number": "dz347",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc03",
+        "number": "dz348",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc03",
+        "number": "dz349",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Island",
+        "set_code": "wc03",
+        "number": "dz335",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Island",
+        "set_code": "wc03",
+        "number": "dz336",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc03",
+        "number": "dz337",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Krosan Verge",
+        "set_code": "wc03",
+        "number": "dz141",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc03",
+        "number": "dz331",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc03",
+        "number": "dz332",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc03",
+        "number": "dz333",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Skycloud Expanse",
+        "set_code": "wc03",
+        "number": "dz327",
+        "foil": false,
+        "count": 4
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Anurid Brushhopper",
+        "set_code": "wc03",
+        "number": "dz137sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Circular Logic",
+        "set_code": "wc03",
+        "number": "dz33sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Exalted Angel",
+        "set_code": "wc03",
+        "number": "dz28sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Hunting Pack",
+        "set_code": "wc03",
+        "number": "dz121sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Krosan Reclamation",
+        "set_code": "wc03",
+        "number": "dz122sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ray of Distortion",
+        "set_code": "wc03",
+        "number": "dz42sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Ray of Revelation",
+        "set_code": "wc03",
+        "number": "dz20sb",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Renewed Faith",
+        "set_code": "wc03",
+        "number": "dz50sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Vengeful Dreams",
+        "set_code": "wc03",
+        "number": "dz21sb",
+        "foil": false,
+        "count": 1
+      },
+      {
+        "name": "Wing Shards",
+        "set_code": "wc03",
+        "number": "dz25sb",
+        "foil": false,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Dave Humpherys - Blue-Green Madness",
     "type": "World Championship Decks",
     "set_code": "wc03",
     "set_name": "World Championship Decks 2003",
@@ -32121,14 +33224,42 @@
         "set_code": "wc03",
         "number": "dh348",
         "foil": false,
-        "count": 8
+        "count": 3
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc03",
+        "number": "dh349",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc03",
+        "number": "dh350",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Island",
         "set_code": "wc03",
         "number": "dh336",
         "foil": false,
-        "count": 11
+        "count": 4
+      },
+      {
+        "name": "Island",
+        "set_code": "wc03",
+        "number": "dh337",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Island",
+        "set_code": "wc03",
+        "number": "dh338",
+        "foil": false,
+        "count": 3
       }
     ],
     "sideboard": [
@@ -32205,179 +33336,7 @@
     ]
   },
   {
-    "name": "Goblin Bidding",
-    "type": "World Championship Decks",
-    "set_code": "wc03",
-    "set_name": "World Championship Decks 2003",
-    "release_date": null,
-    "cards": [
-      {
-        "name": "Gempalm Incinerator",
-        "set_code": "wc03",
-        "number": "we94",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Goblin Grappler",
-        "set_code": "wc03",
-        "number": "we100",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Goblin Piledriver",
-        "set_code": "wc03",
-        "number": "we205",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Goblin Sharpshooter",
-        "set_code": "wc03",
-        "number": "we207",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Goblin Sledder",
-        "set_code": "wc03",
-        "number": "we209",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Goblin Taskmaster",
-        "set_code": "wc03",
-        "number": "we210",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Goblin Warchief",
-        "set_code": "wc03",
-        "number": "we97",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Siege-Gang Commander",
-        "set_code": "wc03",
-        "number": "we103",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Skirk Prospector",
-        "set_code": "wc03",
-        "number": "we230",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Sparksmith",
-        "set_code": "wc03",
-        "number": "we235",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Smother",
-        "set_code": "wc03",
-        "number": "we170",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Patriarch's Bidding",
-        "set_code": "wc03",
-        "number": "we161",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Bloodstained Mire",
-        "set_code": "wc03",
-        "number": "we313",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "City of Brass",
-        "set_code": "wc03",
-        "number": "we322",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Mountain",
-        "set_code": "wc03",
-        "number": "pk344",
-        "foil": false,
-        "count": 10
-      },
-      {
-        "name": "Shadowblood Ridge",
-        "set_code": "wc03",
-        "number": "we326",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Swamp",
-        "set_code": "wc03",
-        "number": "pk339",
-        "foil": false,
-        "count": 4
-      }
-    ],
-    "sideboard": [
-      {
-        "name": "Cabal Therapy",
-        "set_code": "wc03",
-        "number": "we62sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Dark Banishing",
-        "set_code": "wc03",
-        "number": "we123sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Flaring Pain",
-        "set_code": "wc03",
-        "number": "we89sb",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Smother",
-        "set_code": "wc03",
-        "number": "we170sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Starstorm",
-        "set_code": "wc03",
-        "number": "we328sb",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Sulfuric Vortex",
-        "set_code": "wc03",
-        "number": "we106sb",
-        "foil": false,
-        "count": 4
-      }
-    ]
-  },
-  {
-    "name": "Reanimator",
+    "name": "Peer Kröger - Reanimator",
     "type": "World Championship Decks",
     "set_code": "wc03",
     "set_name": "World Championship Decks 2003",
@@ -32521,7 +33480,21 @@
         "set_code": "wc03",
         "number": "pk344",
         "foil": false,
-        "count": 6
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc03",
+        "number": "pk345",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc03",
+        "number": "pk346",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Shadowblood Ridge",
@@ -32535,7 +33508,21 @@
         "set_code": "wc03",
         "number": "pk339",
         "foil": false,
-        "count": 9
+        "count": 3
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc03",
+        "number": "pk340",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Swamp",
+        "set_code": "wc03",
+        "number": "pk341",
+        "foil": false,
+        "count": 3
       }
     ],
     "sideboard": [
@@ -32633,216 +33620,202 @@
     ]
   },
   {
-    "name": "White-Blue-Green Wake",
+    "name": "Wolfgang Eder - Goblin Bidding",
     "type": "World Championship Decks",
     "set_code": "wc03",
     "set_name": "World Championship Decks 2003",
     "release_date": null,
     "cards": [
       {
-        "name": "Mirari",
+        "name": "Gempalm Incinerator",
         "set_code": "wc03",
-        "number": "dz303",
+        "number": "we94",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Goblin Grappler",
+        "set_code": "wc03",
+        "number": "we100",
         "foil": false,
         "count": 1
       },
       {
-        "name": "Compulsion",
+        "name": "Goblin Piledriver",
         "set_code": "wc03",
-        "number": "dz34",
+        "number": "we205",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Goblin Sharpshooter",
+        "set_code": "wc03",
+        "number": "we207",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Goblin Sledder",
+        "set_code": "wc03",
+        "number": "we209",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Goblin Taskmaster",
+        "set_code": "wc03",
+        "number": "we210",
         "foil": false,
         "count": 3
       },
       {
-        "name": "Mirari's Wake",
+        "name": "Goblin Warchief",
         "set_code": "wc03",
-        "number": "dz139",
+        "number": "we97",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Siege-Gang Commander",
+        "set_code": "wc03",
+        "number": "we103",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Skirk Prospector",
+        "set_code": "wc03",
+        "number": "we230",
         "foil": false,
         "count": 3
       },
       {
-        "name": "Circular Logic",
+        "name": "Sparksmith",
         "set_code": "wc03",
-        "number": "dz33",
+        "number": "we235",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Smother",
+        "set_code": "wc03",
+        "number": "we170",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Patriarch's Bidding",
+        "set_code": "wc03",
+        "number": "we161",
+        "foil": false,
+        "count": 3
+      },
+      {
+        "name": "Bloodstained Mire",
+        "set_code": "wc03",
+        "number": "we313",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "City of Brass",
+        "set_code": "wc03",
+        "number": "we322",
         "foil": false,
         "count": 1
       },
       {
-        "name": "Cunning Wish",
+        "name": "Mountain",
         "set_code": "wc03",
-        "number": "dz37",
+        "number": "we343",
+        "foil": false,
+        "count": 4
+      },
+      {
+        "name": "Mountain",
+        "set_code": "wc03",
+        "number": "we344",
         "foil": false,
         "count": 3
       },
       {
-        "name": "Mana Leak",
+        "name": "Mountain",
         "set_code": "wc03",
-        "number": "dz89",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Moment's Peace",
-        "set_code": "wc03",
-        "number": "dz251",
+        "number": "we346",
         "foil": false,
         "count": 3
       },
       {
-        "name": "Renewed Faith",
+        "name": "Shadowblood Ridge",
         "set_code": "wc03",
-        "number": "dz50",
+        "number": "we326",
         "foil": false,
         "count": 3
       },
       {
-        "name": "Vengeful Dreams",
+        "name": "Swamp",
         "set_code": "wc03",
-        "number": "dz21",
+        "number": "we339",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Decree of Justice",
+        "name": "Swamp",
         "set_code": "wc03",
-        "number": "dz8",
+        "number": "we340",
         "foil": false,
-        "count": 2
+        "count": 1
       },
       {
-        "name": "Deep Analysis",
+        "name": "Swamp",
         "set_code": "wc03",
-        "number": "dz36",
+        "number": "we342",
         "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Wrath of God",
-        "set_code": "wc03",
-        "number": "dz58",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Elfhame Palace",
-        "set_code": "wc03",
-        "number": "dz324",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Flooded Strand",
-        "set_code": "wc03",
-        "number": "dz316",
-        "foil": false,
-        "count": 2
-      },
-      {
-        "name": "Forest",
-        "set_code": "wc03",
-        "number": "dh348",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Island",
-        "set_code": "wc03",
-        "number": "dh336",
-        "foil": false,
-        "count": 7
-      },
-      {
-        "name": "Krosan Verge",
-        "set_code": "wc03",
-        "number": "dz141",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Plains",
-        "set_code": "wc03",
-        "number": "dz331",
-        "foil": false,
-        "count": 4
-      },
-      {
-        "name": "Skycloud Expanse",
-        "set_code": "wc03",
-        "number": "dz327",
-        "foil": false,
-        "count": 4
+        "count": 1
       }
     ],
     "sideboard": [
       {
-        "name": "Anurid Brushhopper",
+        "name": "Cabal Therapy",
         "set_code": "wc03",
-        "number": "dz137sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Circular Logic",
-        "set_code": "wc03",
-        "number": "dz33sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Exalted Angel",
-        "set_code": "wc03",
-        "number": "dz28sb",
+        "number": "we62sb",
         "foil": false,
         "count": 2
       },
       {
-        "name": "Hunting Pack",
+        "name": "Dark Banishing",
         "set_code": "wc03",
-        "number": "dz121sb",
+        "number": "we123sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Flaring Pain",
+        "set_code": "wc03",
+        "number": "we89sb",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Smother",
+        "set_code": "wc03",
+        "number": "we170sb",
         "foil": false,
         "count": 1
       },
       {
-        "name": "Krosan Reclamation",
+        "name": "Starstorm",
         "set_code": "wc03",
-        "number": "dz122sb",
+        "number": "we328sb",
         "foil": false,
-        "count": 1
+        "count": 4
       },
       {
-        "name": "Ray of Distortion",
+        "name": "Sulfuric Vortex",
         "set_code": "wc03",
-        "number": "dz42sb",
+        "number": "we106sb",
         "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Ray of Revelation",
-        "set_code": "wc03",
-        "number": "dz20sb",
-        "foil": false,
-        "count": 3
-      },
-      {
-        "name": "Renewed Faith",
-        "set_code": "wc03",
-        "number": "dz50sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Vengeful Dreams",
-        "set_code": "wc03",
-        "number": "dz21sb",
-        "foil": false,
-        "count": 1
-      },
-      {
-        "name": "Wing Shards",
-        "set_code": "wc03",
-        "number": "dz25sb",
-        "foil": false,
-        "count": 1
+        "count": 4
       }
     ]
   },
@@ -35399,7 +36372,7 @@
     ]
   },
   {
-    "name": "Affinity",
+    "name": "Aeo Paquette - Affinity",
     "type": "World Championship Decks",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
@@ -35550,7 +36523,7 @@
     ]
   },
   {
-    "name": "Blue-White Anti-Affinity Control",
+    "name": "Gabriel Nassif - Blue-White Anti-Affinity Control",
     "type": "World Championship Decks",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
@@ -35652,14 +36625,42 @@
         "set_code": "wc04",
         "number": "gn335",
         "foil": false,
-        "count": 7
+        "count": 3
+      },
+      {
+        "name": "Island",
+        "set_code": "wc04",
+        "number": "gn336",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Island",
+        "set_code": "wc04",
+        "number": "gn337",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Plains",
         "set_code": "wc04",
         "number": "gn331",
         "foil": false,
-        "count": 7
+        "count": 3
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc04",
+        "number": "gn332",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc04",
+        "number": "gn333",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Temple of the False God",
@@ -35708,7 +36709,7 @@
     ]
   },
   {
-    "name": "Green-White Astral Slide",
+    "name": "Julien Nuijten - Green-White Astral Slide",
     "type": "World Championship Decks",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
@@ -35796,14 +36797,42 @@
         "set_code": "wc04",
         "number": "jn347",
         "foil": false,
-        "count": 7
+        "count": 3
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc04",
+        "number": "jn348",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Forest",
+        "set_code": "wc04",
+        "number": "jn350",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Plains",
         "set_code": "wc04",
-        "number": "gn331",
+        "number": "jn332",
         "foil": false,
-        "count": 6
+        "count": 2
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc04",
+        "number": "jn333",
+        "foil": false,
+        "count": 2
+      },
+      {
+        "name": "Plains",
+        "set_code": "wc04",
+        "number": "jn334",
+        "foil": false,
+        "count": 2
       },
       {
         "name": "Secluded Steppe",
@@ -35866,7 +36895,7 @@
     ]
   },
   {
-    "name": "Myr Incubator Combo",
+    "name": "Manuel Bevand - Myr Incubator Combo",
     "type": "World Championship Decks",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
