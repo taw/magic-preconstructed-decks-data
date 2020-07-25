@@ -3774,7 +3774,7 @@
     ]
   },
   {
-    "name": "Jakub Slemr - Prismatic Black Aggro",
+    "name": "Jakub Šlemr - Prismatic Black Aggro",
     "type": "World Championship Decks",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
@@ -3988,7 +3988,7 @@
     ]
   },
   {
-    "name": "Janosch Kuhn - Red-White-Blue Speed Control",
+    "name": "Janosch Kühn - Red-White-Blue Speed Control",
     "type": "World Championship Decks",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
@@ -33231,7 +33231,7 @@
         "set_code": "wc03",
         "number": "dh349",
         "foil": false,
-        "count": 2
+        "count": 3
       },
       {
         "name": "Forest",
