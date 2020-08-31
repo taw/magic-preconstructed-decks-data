@@ -31,7 +31,8 @@ Each card is:
 * number - card collector number
 * foil - is this a foil version
 * count - how many of given card
-* multiverseid - Gatherer multiverseid of card if cards is on Gatherer
+* mtgjson_uuid - mtgjson uuid
+* multiverseid - Gatherer multiverseid of card if cards is on Gatherer (optional field)
 
 ### Data Limitations
 
