@@ -5,9 +5,9 @@ This repository contains machine readable decklist data generated from:
 
 ### Files
 
-`decks.json` has traditional cards + sideboard structure, with commanders reusing sideboard.
+`decks.json` has traditional cards + sideboard structure, with all extra sections reusing sideboard.
 
-`decks_v2.json` has cards + sideboard + commander structure. You should use this one.
+`decks_v2.json` has cards + sideboard + commander + displayCommander + planarDeck + schemeDeck structure. You should use this one.
 
 ### Data format
 
@@ -23,6 +23,9 @@ Fields for each deck:
 * cards - list of cards in the deck's mainboard
 * sideboard - list of cards in the deck's sideboard
 * commander - any commanders deck has (can be multiple for partners)
+* displayCommander - non-playable (usually oversized) commander card
+* planarDeck - planar deck for Planechase and Commander Planechase
+* schemeDeck - scheme deck for Archenemy
 
 Each card is:
 
