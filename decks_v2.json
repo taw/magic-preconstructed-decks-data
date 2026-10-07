@@ -358040,6 +358040,82 @@
     "source": "https://magic.wizards.com/en/content/duel-decks-venser-vs-koth"
   },
   {
+    "name": "The Helvault Promo Box",
+    "type": "Box Set",
+    "category": "box",
+    "format": null,
+    "set_code": "phel",
+    "set_name": "Open the Helvault",
+    "release_date": "2012-04-28",
+    "cards": [
+      {
+        "name": "Avacyn, Angel of Hope",
+        "set_code": "phel",
+        "number": "6",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "8904fd5b-295f-557d-9d48-d70471c59df0"
+      },
+      {
+        "name": "Griselbrand",
+        "set_code": "phel",
+        "number": "106",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "4a33389f-4930-5112-86d7-2e235b18302e"
+      },
+      {
+        "name": "Bruna, Light of Alabaster",
+        "set_code": "phel",
+        "number": "208",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7757c96c-3123-5d24-b99b-4981bee0f3fe"
+      },
+      {
+        "name": "Gisela, Blade of Goldnight",
+        "set_code": "phel",
+        "number": "209",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "57c36a49-032c-5e2e-af4a-b230ff6ae234"
+      },
+      {
+        "name": "Sigarda, Host of Herons",
+        "set_code": "phel",
+        "number": "210",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6365039b-36cf-5062-a6a7-51739f83cbf1"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [
+      {
+        "name": "Angel // Demon",
+        "set_code": "PHEL",
+        "number": "1★a",
+        "back_set_code": "PHEL",
+        "back_number": "1★b",
+        "foil": false,
+        "count": 108,
+        "mtgjson_uuid": "8d1a9e3a-ecec-5a87-8168-c92b7abfcf04",
+        "back_mtgjson_uuid": "c9f511f7-6427-5a07-a528-5927acce53ce"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "phel"
+    ],
+    "source": "https://www.magiclibrarities.net/830-rarities-helvault-oversized-promos-english-cards-index.html"
+  },
+  {
     "name": "Angelic Might",
     "type": "Intro Pack",
     "category": "deck",
@@ -500823,7 +500899,7 @@
       "bfz",
       "ogw"
     ],
-    "source": "https://mtg.fandom.com/wiki/Oath_of_the_Gatewatch"
+    "source": "https://www.youtube.com/watch?v=JpL2OmzxHXk&t=214s"
   },
   {
     "name": "Oath of the Gatewatch Foil Redemption",
@@ -612806,7 +612882,7 @@
     "format": null,
     "set_code": "grn",
     "set_name": "Guilds of Ravnica",
-    "release_date": "2018-11-02",
+    "release_date": "2018-10-03",
     "cards": [
       {
         "name": "Elspeth, Knight-Errant",
@@ -612888,68 +612964,68 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Angel",
-        "set_code": "TGRN",
-        "number": "T1",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
-      },
-      {
         "name": "Soldier",
-        "set_code": "TGRN",
-        "number": "T2",
+        "set_code": "TMED",
+        "number": "G1",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "43a0cc67-dbd9-57a1-b684-04f62cc9331d"
       },
       {
-        "name": "Bird Illusion",
-        "set_code": "TGRN",
-        "number": "T3",
+        "name": "Zombie",
+        "set_code": "TMED",
+        "number": "G2",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "2e2c8ae0-0340-58ef-8661-19e6412d5e4c"
       },
       {
-        "name": "Goblin",
-        "set_code": "TGRN",
-        "number": "T4",
+        "name": "Construct",
+        "set_code": "TMED",
+        "number": "G3",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "6549d606-ded2-5c18-9057-c511e0e0d75a"
       },
       {
-        "name": "Insect",
-        "set_code": "TGRN",
-        "number": "T5",
+        "name": "Elspeth, Knight-Errant Emblem",
+        "set_code": "TMED",
+        "number": "G4",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "2d73487d-aa7b-596b-a401-662f7d02fad5"
       },
       {
-        "name": "Elf Knight",
-        "set_code": "TGRN",
-        "number": "T6",
+        "name": "Liliana, the Last Hope Emblem",
+        "set_code": "TMED",
+        "number": "G5",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "4d187678-232d-5252-bcdb-0ccfb04ac478"
       },
       {
         "name": "Ral, Izzet Viceroy Emblem",
-        "set_code": "TGRN",
-        "number": "T7",
+        "set_code": "TMED",
+        "number": "G6",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "2bcf14e3-ff8f-58b7-acbd-9f96dd49ee6d"
+      },
+      {
+        "name": "Teferi, Hero of Dominaria Emblem",
+        "set_code": "TMED",
+        "number": "G7",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f88ae6e0-e2ee-5e93-9e3a-8046902285ce"
       },
       {
         "name": "Vraska, Golgari Queen Emblem",
-        "set_code": "TGRN",
-        "number": "T8",
+        "set_code": "TMED",
+        "number": "G8",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "2a145b0a-3b3b-525c-b206-faefa98b03f4"
       }
     ],
     "languages": [
@@ -612966,10 +613042,9 @@
       "sp"
     ],
     "sourceSetCodes": [
-      "grn",
       "med"
     ],
-    "source": "https://mtg.wiki/wiki/Guilds_of_Ravnica/Mythic_Edition"
+    "source": "https://magic.wizards.com/en/news/card-preview/guilds-ravnica-packaging-promos-and-more-2018-09-04"
   },
   {
     "name": "Guilds of Ravnica Redemption",
@@ -623222,7 +623297,7 @@
     "format": null,
     "set_code": "rna",
     "set_name": "Ravnica Allegiance",
-    "release_date": "2019-05-03",
+    "release_date": "2019-01-24",
     "cards": [
       {
         "name": "Karn, Scion of Urza",
@@ -623308,7 +623383,7 @@
         "set_code": "TMED",
         "number": "R1",
         "foil": false,
-        "count": 1,
+        "count": 2,
         "mtgjson_uuid": "81a34470-d981-5e87-a440-e5c8550d4de4"
       },
       {
@@ -623342,6 +623417,14 @@
         "foil": false,
         "count": 1,
         "mtgjson_uuid": "dff6bee1-47b6-5976-94ed-2e10fa1e9118"
+      },
+      {
+        "name": "Beast",
+        "set_code": "TRNA",
+        "number": "8",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "888e284a-6bfa-5d0c-b01f-410a813bddf6"
       }
     ],
     "languages": [
@@ -623358,9 +623441,10 @@
       "sp"
     ],
     "sourceSetCodes": [
-      "med"
+      "med",
+      "rna"
     ],
-    "source": "https://mtg.wiki/wiki/Ravnica_Allegiance/Mythic_Edition"
+    "source": "https://magic.wizards.com/en/news/announcements/ravnica-allegiance-mythic-edition-2019-01-10"
   },
   {
     "name": "Ravnica Allegiance Redemption",
@@ -631593,7 +631677,7 @@
     "format": null,
     "set_code": "war",
     "set_name": "War of the Spark",
-    "release_date": "2019-05-03",
+    "release_date": "2019-05-01",
     "cards": [
       {
         "name": "Ugin, the Spirit Dragon",
@@ -631679,7 +631763,7 @@
         "set_code": "TMED",
         "number": "W1",
         "foil": false,
-        "count": 1,
+        "count": 3,
         "mtgjson_uuid": "84ecd3c1-7f96-5664-918b-4c56b9a780b6"
       },
       {
@@ -631687,7 +631771,7 @@
         "set_code": "TMED",
         "number": "W2",
         "foil": false,
-        "count": 1,
+        "count": 4,
         "mtgjson_uuid": "a24467f9-396f-54df-a623-71736a701b84"
       },
       {
@@ -631715,7 +631799,7 @@
     "sourceSetCodes": [
       "med"
     ],
-    "source": "https://mtg.wiki/wiki/War_of_the_Spark/Mythic_Edition"
+    "source": "https://magic.wizards.com/en/news/announcements/war-spark-mythic-edition-2019-04-18"
   },
   {
     "name": "War of the Spark Redemption",
@@ -1006598,43 +1006682,58 @@
     "tokens": [
       {
         "name": "Angel // Clue",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "2",
+        "back_set_code": "TFDC",
+        "back_number": "13",
         "foil": false,
         "count": 4,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "11d95378-83e4-59a0-95fa-0029d75ab6ff",
+        "back_mtgjson_uuid": "98e50d1a-10e5-558f-8c11-78ff144f8c6b"
       },
       {
         "name": "Clue // Spirit",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "13",
+        "back_set_code": "TFDC",
+        "back_number": "3",
         "foil": false,
         "count": 3,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "98e50d1a-10e5-558f-8c11-78ff144f8c6b",
+        "back_mtgjson_uuid": "82e4297d-b153-50b8-bd2a-7984050d9ac7"
       },
       {
-        "name": "Angel // Angel (3/3)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Angel // Angel",
+        "set_code": "TFDC",
+        "number": "2",
+        "back_set_code": "TFDC",
+        "back_number": "1",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "11d95378-83e4-59a0-95fa-0029d75ab6ff",
+        "back_mtgjson_uuid": "7c3e9afb-35ab-5604-9fa6-ed3e740110e0"
       },
       {
         "name": "Angel // Spirit",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "2",
+        "back_set_code": "TFDC",
+        "back_number": "3",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "11d95378-83e4-59a0-95fa-0029d75ab6ff",
+        "back_mtgjson_uuid": "82e4297d-b153-50b8-bd2a-7984050d9ac7"
       },
       {
-        "name": "Angel // The Monarch (helper)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Angel // The Monarch",
+        "set_code": "TFDC",
+        "number": "2",
+        "back_set_code": "TFDC",
+        "back_number": "17",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "11d95378-83e4-59a0-95fa-0029d75ab6ff",
+        "back_mtgjson_uuid": "de0515e3-ac67-51cc-a9f1-362fa1d882c8"
       }
     ],
     "languages": [
@@ -1007211,27 +1007310,36 @@
     "tokens": [
       {
         "name": "Thopter // Myr",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "15",
+        "back_set_code": "TFDC",
+        "back_number": "14",
         "foil": false,
         "count": 8,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "74a8ea63-91e1-5cb6-b851-b0d333a5ba80",
+        "back_mtgjson_uuid": "7a2e1064-95a1-5bc7-8723-e75792067dad"
       },
       {
         "name": "Thopter // Phyrexian Germ",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "15",
+        "back_set_code": "TFDC",
+        "back_number": "4",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "74a8ea63-91e1-5cb6-b851-b0d333a5ba80",
+        "back_mtgjson_uuid": "c949cdeb-84a4-564f-b8a0-7f0c8d97cf41"
       },
       {
-        "name": "Thopter // The Monarch (helper)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Thopter // The Monarch",
+        "set_code": "TFDC",
+        "number": "15",
+        "back_set_code": "TFDC",
+        "back_number": "17",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "74a8ea63-91e1-5cb6-b851-b0d333a5ba80",
+        "back_mtgjson_uuid": "de0515e3-ac67-51cc-a9f1-362fa1d882c8"
       }
     ],
     "languages": [
@@ -1007823,44 +1007931,59 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Treasure // Dragon (5/5)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Treasure // Dragon",
+        "set_code": "TFDC",
+        "number": "16",
+        "back_set_code": "TFDC",
+        "back_number": "8",
         "foil": false,
         "count": 5,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "33137d92-df8c-5b58-986c-ecc8b24dbf94",
+        "back_mtgjson_uuid": "7e1f83bc-1fb5-569a-aea0-b2ce5b365568"
       },
       {
-        "name": "Treasure // Dragon (6/6)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Treasure // Dragon",
+        "set_code": "TFDC",
+        "number": "16",
+        "back_set_code": "TFDC",
+        "back_number": "9",
         "foil": false,
         "count": 2,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "33137d92-df8c-5b58-986c-ecc8b24dbf94",
+        "back_mtgjson_uuid": "1774b872-3a0d-539c-a55a-5fc1034e7068"
       },
       {
-        "name": "Treasure // Dragon (4/4)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Treasure // Dragon",
+        "set_code": "TFDC",
+        "number": "16",
+        "back_set_code": "TFDC",
+        "back_number": "7",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "33137d92-df8c-5b58-986c-ecc8b24dbf94",
+        "back_mtgjson_uuid": "ee966606-98ef-58e7-87cc-5d59cc051683"
       },
       {
-        "name": "Dragon (6/6) // Dragon (5/5)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Dragon // Dragon",
+        "set_code": "TFDC",
+        "number": "9",
+        "back_set_code": "TFDC",
+        "back_number": "8",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "1774b872-3a0d-539c-a55a-5fc1034e7068",
+        "back_mtgjson_uuid": "7e1f83bc-1fb5-569a-aea0-b2ce5b365568"
       },
       {
-        "name": "Treasure // The Monarch (helper)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Treasure // The Monarch",
+        "set_code": "TFDC",
+        "number": "16",
+        "back_set_code": "TFDC",
+        "back_number": "17",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "33137d92-df8c-5b58-986c-ecc8b24dbf94",
+        "back_mtgjson_uuid": "de0515e3-ac67-51cc-a9f1-362fa1d882c8"
       }
     ],
     "languages": [
@@ -1008453,35 +1008576,47 @@
     "tokens": [
       {
         "name": "Beast // Spider",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "10",
+        "back_set_code": "TFDC",
+        "back_number": "12",
         "foil": false,
         "count": 4,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "1d8ecdac-1b22-5aac-9969-80ad2e3ae582",
+        "back_mtgjson_uuid": "1513ab44-5c07-5320-9ecb-3857a22a0753"
       },
       {
         "name": "Phyrexian Beast // Spider",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "11",
+        "back_set_code": "TFDC",
+        "back_number": "12",
         "foil": false,
         "count": 3,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "f045f6be-16cb-5db5-af54-2c0e9d9e11a5",
+        "back_mtgjson_uuid": "1513ab44-5c07-5320-9ecb-3857a22a0753"
       },
       {
         "name": "Phyrexian Beast // Beast",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "11",
+        "back_set_code": "TFDC",
+        "back_number": "10",
         "foil": false,
         "count": 2,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "f045f6be-16cb-5db5-af54-2c0e9d9e11a5",
+        "back_mtgjson_uuid": "1d8ecdac-1b22-5aac-9969-80ad2e3ae582"
       },
       {
         "name": "Phyrexian Beast // Phyrexian Germ",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "11",
+        "back_set_code": "TFDC",
+        "back_number": "4",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "f045f6be-16cb-5db5-af54-2c0e9d9e11a5",
+        "back_mtgjson_uuid": "c949cdeb-84a4-564f-b8a0-7f0c8d97cf41"
       }
     ],
     "languages": [
@@ -1009066,19 +1009201,25 @@
     "tokens": [
       {
         "name": "Zombie // Zombie Knight",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFDC",
+        "number": "5",
+        "back_set_code": "TFDC",
+        "back_number": "6",
         "foil": false,
         "count": 8,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "05d9cd8a-966d-5502-a296-62da2690493d",
+        "back_mtgjson_uuid": "f377b0b5-82a2-5686-9f31-5f00d215e701"
       },
       {
-        "name": "Zombie // The Monarch (helper)",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Zombie // The Monarch",
+        "set_code": "TFDC",
+        "number": "5",
+        "back_set_code": "TFDC",
+        "back_number": "17",
         "foil": false,
         "count": 2,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "05d9cd8a-966d-5502-a296-62da2690493d",
+        "back_mtgjson_uuid": "de0515e3-ac67-51cc-a9f1-362fa1d882c8"
       }
     ],
     "languages": [
@@ -1105538,51 +1105679,69 @@
     "tokens": [
       {
         "name": "Kobolds of Kher Keep // Phyrexian Mite",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFRC",
+        "number": "10",
+        "back_set_code": "TFRC",
+        "back_number": "16",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "1fbedc1d-a3cd-5948-a8d0-78702cc81820",
+        "back_mtgjson_uuid": "344aec1a-35dd-5742-b53d-00f6ed2300d8"
       },
       {
         "name": "Soldier // Map",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFRC",
+        "number": "3",
+        "back_set_code": "TFRC",
+        "back_number": "14",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "69b34ffc-28e4-54b9-a815-d54517c8afa9",
+        "back_mtgjson_uuid": "f1222d29-6361-5636-9c92-09be5f84fcd0"
       },
       {
         "name": "Spirit // Jace",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFRC",
+        "number": "4",
+        "back_set_code": "TFRA",
+        "back_number": "5",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "8de210ad-ccfa-5af6-95b0-2c4fcfb287bf",
+        "back_mtgjson_uuid": "635f825d-d6fb-59ac-a807-af08713a3794"
       },
       {
         "name": "Warrior // Shark",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFRC",
+        "number": "5",
+        "back_set_code": "TFRC",
+        "back_number": "6",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "a7d2dc8c-7a12-5f6f-bd6e-e5ecd4c56eb9",
+        "back_mtgjson_uuid": "57ecd736-caab-593c-8ab6-f5de65439312"
       },
       {
         "name": "Zombie Army // Goblin",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFRC",
+        "number": "8",
+        "back_set_code": "TFRC",
+        "back_number": "9",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "37ac6522-5659-51e5-95d4-d41812a98843",
+        "back_mtgjson_uuid": "4103cee6-f37f-5554-a28d-2c0fe10acb3e"
       },
       {
         "name": "Insect // Rogue",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFRC",
+        "number": "2",
+        "back_set_code": "TFRC",
+        "back_number": "7",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "7db8e2a5-7f1f-5d61-a0fd-9f842d9cc8d9",
+        "back_mtgjson_uuid": "911a497e-63a8-5ce5-b25b-be42446ed5df"
       },
       {
         "name": "Angel // Treasure",
@@ -1105593,28 +1105752,37 @@
         "mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Gingerbrute // Myr",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "Gingerbrute Token // Myr",
+        "set_code": "TFRC",
+        "number": "12",
+        "back_set_code": "TFRC",
+        "back_number": "15",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "c770e27a-6846-59be-82f0-b2b61dd95d9f",
+        "back_mtgjson_uuid": "c0b05951-068f-59bb-a368-db54ef7c7e12"
       },
       {
-        "name": "The Monarch (helper) // Citizen",
-        "set_code": "unknown",
-        "number": "unknown",
+        "name": "The Monarch // Citizen",
+        "set_code": "TFRC",
+        "number": "17",
+        "back_set_code": "TFRC",
+        "back_number": "11",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "241fdcff-2f3c-533c-954d-14900d82ff4d",
+        "back_mtgjson_uuid": "d0237757-8e22-55f0-8137-f66f87792269"
       },
       {
         "name": "Incubator // Phyrexian",
-        "set_code": "unknown",
-        "number": "unknown",
+        "set_code": "TFRC",
+        "number": "13a",
+        "back_set_code": "TFRC",
+        "back_number": "13b",
         "foil": false,
         "count": 1,
-        "mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "8e938e0e-390c-50ea-ad96-fac4ad190fe2",
+        "back_mtgjson_uuid": "7ccdd9e7-6060-5cf2-849d-15da2fb3dc94"
       }
     ],
     "languages": [
