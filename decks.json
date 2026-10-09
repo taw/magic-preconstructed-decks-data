@@ -8464,6 +8464,66 @@
     "source": "https://mtg.wiki/wiki/Rivals_Quick_Start_Set"
   },
   {
+    "name": "Arena League 1996 Basic Land Pack",
+    "type": "Bundle Land Pack",
+    "category": "deck",
+    "format": null,
+    "set_code": "parl",
+    "set_name": "Arena League 1996",
+    "release_date": "1996-08-02",
+    "cards": [
+      {
+        "name": "Plains",
+        "set_code": "parl",
+        "number": "1",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "65d74c71-6b8e-500f-97a5-3de14617ff4a"
+      },
+      {
+        "name": "Island",
+        "set_code": "parl",
+        "number": "2",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "3c9c9282-83a5-5f86-ad3c-c644f9db7bfd"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "parl",
+        "number": "3",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "cb919742-d567-5d19-b798-721ea71dd27d"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "parl",
+        "number": "4",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "a5242d04-838a-572d-95e0-a4686cca01e2"
+      },
+      {
+        "name": "Forest",
+        "set_code": "parl",
+        "number": "5",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "d8a8d5a5-9a2f-5fd9-a14a-c8dd8c9f720b"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "parl"
+    ],
+    "source": "https://www.magiclibrarities.net/1-rarities-arena-league-promos-english-english-cards-1996.html"
+  },
+  {
     "name": "Burning Sky",
     "type": "MTGO Theme Deck",
     "category": "deck",
@@ -26858,7 +26918,7 @@
     "format": "standard",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
-    "release_date": "1997-08-13",
+    "release_date": "1997-09-01",
     "cards": [
       {
         "name": "Black Knight",
@@ -27136,7 +27196,7 @@
     "format": "standard",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
-    "release_date": "1997-08-13",
+    "release_date": "1997-09-01",
     "cards": [
       {
         "name": "Frenetic Efreet",
@@ -27462,7 +27522,7 @@
     "format": "standard",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
-    "release_date": "1997-08-13",
+    "release_date": "1997-09-01",
     "cards": [
       {
         "name": "Cloud Elemental",
@@ -27780,7 +27840,7 @@
     "format": "standard",
     "set_code": "wc97",
     "set_name": "World Championship Decks 1997",
-    "release_date": "1997-08-13",
+    "release_date": "1997-09-01",
     "cards": [
       {
         "name": "Fyndhorn Elves",
@@ -37157,7 +37217,7 @@
     "format": "standard",
     "set_code": "wc98",
     "set_name": "World Championship Decks 1998",
-    "release_date": "1998-08-12",
+    "release_date": "1998-09-01",
     "cards": [
       {
         "name": "Ball Lightning",
@@ -37403,7 +37463,7 @@
     "format": "standard",
     "set_code": "wc98",
     "set_name": "World Championship Decks 1998",
-    "release_date": "1998-08-12",
+    "release_date": "1998-09-01",
     "cards": [
       {
         "name": "Nomads en-Kor",
@@ -37641,7 +37701,7 @@
     "format": "standard",
     "set_code": "wc98",
     "set_name": "World Championship Decks 1998",
-    "release_date": "1998-08-12",
+    "release_date": "1998-09-01",
     "cards": [
       {
         "name": "Birds of Paradise",
@@ -37999,7 +38059,7 @@
     "format": "standard",
     "set_code": "wc98",
     "set_name": "World Championship Decks 1998",
-    "release_date": "1998-08-12",
+    "release_date": "1998-09-01",
     "cards": [
       {
         "name": "Rainbow Efreet",
@@ -38221,6 +38281,186 @@
       "wc98"
     ],
     "source": "https://mtg.wiki/wiki/World_Championship_Decks/1998"
+  },
+  {
+    "name": "APAC Lands Blue Pack",
+    "type": "Bundle Land Pack",
+    "category": "deck",
+    "format": null,
+    "set_code": "palp",
+    "set_name": "Asia Pacific Land Program",
+    "release_date": "1998-10-01",
+    "cards": [
+      {
+        "name": "Forest",
+        "set_code": "palp",
+        "number": "6",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d097db3c-19d4-583f-83d4-842dc5b70e97"
+      },
+      {
+        "name": "Island",
+        "set_code": "palp",
+        "number": "7",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d5fdb50b-19e9-5713-9e08-c1c8fe45debc"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "palp",
+        "number": "8",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ba86d61b-17d6-5a00-8a14-c0aa60fa268d"
+      },
+      {
+        "name": "Plains",
+        "set_code": "palp",
+        "number": "9",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "be122dd5-4d87-5f55-b302-9b70863f2267"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "palp",
+        "number": "10",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "900b270c-8246-5dd5-9336-336205f1aa16"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "palp"
+    ],
+    "source": "https://www.magiclibrarities.net/44-rarities-apac-lands-english-cards-index.html"
+  },
+  {
+    "name": "APAC Lands Clear Pack",
+    "type": "Bundle Land Pack",
+    "category": "deck",
+    "format": null,
+    "set_code": "palp",
+    "set_name": "Asia Pacific Land Program",
+    "release_date": "1998-11-01",
+    "cards": [
+      {
+        "name": "Forest",
+        "set_code": "palp",
+        "number": "11",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "8765359f-f0d0-56eb-870d-49f6a2f6c78b"
+      },
+      {
+        "name": "Island",
+        "set_code": "palp",
+        "number": "12",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "79a48c42-d606-58dc-ae06-c625cca041dc"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "palp",
+        "number": "13",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6fc67c10-8390-5dd3-9adb-55bf3c76e0ac"
+      },
+      {
+        "name": "Plains",
+        "set_code": "palp",
+        "number": "14",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "16d4122e-a611-56f5-8843-85ec2448ab2b"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "palp",
+        "number": "15",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "1958b369-d24a-52b6-91e7-be3e1b9198cb"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "palp"
+    ],
+    "source": "https://www.magiclibrarities.net/44-rarities-apac-lands-english-cards-index.html"
+  },
+  {
+    "name": "APAC Lands Red Pack",
+    "type": "Bundle Land Pack",
+    "category": "deck",
+    "format": null,
+    "set_code": "palp",
+    "set_name": "Asia Pacific Land Program",
+    "release_date": "1998-09-01",
+    "cards": [
+      {
+        "name": "Forest",
+        "set_code": "palp",
+        "number": "1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a6e7bc06-ea7d-5186-8dd4-d95086e4e8d2"
+      },
+      {
+        "name": "Island",
+        "set_code": "palp",
+        "number": "2",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "e25d18a7-588d-50bf-a3d3-e0d04aaa7401"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "palp",
+        "number": "3",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "4587a725-c3d4-5722-ace5-9860469e39a1"
+      },
+      {
+        "name": "Plains",
+        "set_code": "palp",
+        "number": "4",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9010a316-7711-55a2-8bd4-65275071064d"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "palp",
+        "number": "5",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9ea4bb3b-65c5-5a9f-993b-d472d36f8062"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "palp"
+    ],
+    "source": "https://www.magiclibrarities.net/44-rarities-apac-lands-english-cards-index.html"
   },
   {
     "name": "Sleeper",
@@ -50442,7 +50682,7 @@
     "format": "standard",
     "set_code": "wc99",
     "set_name": "World Championship Decks 1999",
-    "release_date": "1999-08-04",
+    "release_date": "1999-09-27",
     "cards": [
       {
         "name": "Bottle Gnomes",
@@ -50744,7 +50984,7 @@
     "format": "standard",
     "set_code": "wc99",
     "set_name": "World Championship Decks 1999",
-    "release_date": "1999-08-04",
+    "release_date": "1999-09-27",
     "cards": [
       {
         "name": "Covetous Dragon",
@@ -50998,7 +51238,7 @@
     "format": "standard",
     "set_code": "wc99",
     "set_name": "World Championship Decks 1999",
-    "release_date": "1999-08-04",
+    "release_date": "1999-09-27",
     "cards": [
       {
         "name": "Avalanche Riders",
@@ -51236,7 +51476,7 @@
     "format": "standard",
     "set_code": "wc99",
     "set_name": "World Championship Decks 1999",
-    "release_date": "1999-08-04",
+    "release_date": "1999-09-27",
     "cards": [
       {
         "name": "Albino Troll",
@@ -55124,6 +55364,186 @@
       "brb"
     ],
     "source": "https://magic.wizards.com/en/products/battle-royale"
+  },
+  {
+    "name": "Euro Lands Blue Pack",
+    "type": "Bundle Land Pack",
+    "category": "deck",
+    "format": null,
+    "set_code": "pelp",
+    "set_name": "European Land Program",
+    "release_date": "2000-02-05",
+    "cards": [
+      {
+        "name": "Forest",
+        "set_code": "pelp",
+        "number": "1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "e4710932-be3b-5dfd-82b5-e5b601a106ea"
+      },
+      {
+        "name": "Island",
+        "set_code": "pelp",
+        "number": "2",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "8579dcd4-a6f7-54f7-8f39-d9f34e8a5f58"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "pelp",
+        "number": "3",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7bd9a4d7-7e1f-5d95-abf8-f3a376d21906"
+      },
+      {
+        "name": "Plains",
+        "set_code": "pelp",
+        "number": "4",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0837a65b-a464-598c-96ce-8851bed03730"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "pelp",
+        "number": "5",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "28723e2c-5639-5625-a0a8-e686893f753f"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "pelp"
+    ],
+    "source": "https://www.magiclibrarities.net/46-rarities-euro-lands-english-cards-index.html"
+  },
+  {
+    "name": "Euro Lands Purple Pack",
+    "type": "Bundle Land Pack",
+    "category": "deck",
+    "format": null,
+    "set_code": "pelp",
+    "set_name": "European Land Program",
+    "release_date": "2000-09-25",
+    "cards": [
+      {
+        "name": "Forest",
+        "set_code": "pelp",
+        "number": "11",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "185c4d0f-f17f-55fd-8924-c9fe5d877f5e"
+      },
+      {
+        "name": "Island",
+        "set_code": "pelp",
+        "number": "12",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d3c3065b-5754-5791-8b7f-19929545640f"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "pelp",
+        "number": "13",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "fd3732ff-f92b-5592-be8a-6fbec176275c"
+      },
+      {
+        "name": "Plains",
+        "set_code": "pelp",
+        "number": "14",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7760d40f-2afd-5552-b59f-7d395ed4b7be"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "pelp",
+        "number": "15",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "abd32379-9bc4-5990-82c0-ffb9432c29f6"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "pelp"
+    ],
+    "source": "https://www.magiclibrarities.net/46-rarities-euro-lands-english-cards-index.html"
+  },
+  {
+    "name": "Euro Lands Red Pack",
+    "type": "Bundle Land Pack",
+    "category": "deck",
+    "format": null,
+    "set_code": "pelp",
+    "set_name": "European Land Program",
+    "release_date": "2000-06-15",
+    "cards": [
+      {
+        "name": "Forest",
+        "set_code": "pelp",
+        "number": "6",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "8e2e8fcb-53c2-501a-9ac3-a0f9b0fb1b6c"
+      },
+      {
+        "name": "Island",
+        "set_code": "pelp",
+        "number": "7",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "44c98b84-1a4b-5101-912a-c26a87463cc5"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "pelp",
+        "number": "8",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "1fa3c536-aca4-5afa-895e-7190d2f70f6c"
+      },
+      {
+        "name": "Plains",
+        "set_code": "pelp",
+        "number": "9",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "e9b60eaf-773b-5851-8960-53a5964a8f06"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "pelp",
+        "number": "10",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "bb3980b9-84e8-5acd-8b16-f1fb1cefad82"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "pelp"
+    ],
+    "source": "https://www.magiclibrarities.net/46-rarities-euro-lands-english-cards-index.html"
   },
   {
     "name": "Breakdown",
@@ -59483,7 +59903,7 @@
     "format": "standard",
     "set_code": "wc00",
     "set_name": "World Championship Decks 2000",
-    "release_date": "2000-08-02",
+    "release_date": "2000-10-01",
     "cards": [
       {
         "name": "Avalanche Riders",
@@ -59737,7 +60157,7 @@
     "format": "standard",
     "set_code": "wc00",
     "set_name": "World Championship Decks 2000",
-    "release_date": "2000-08-02",
+    "release_date": "2000-10-01",
     "cards": [
       {
         "name": "Masticore",
@@ -59959,7 +60379,7 @@
     "format": "standard",
     "set_code": "wc00",
     "set_name": "World Championship Decks 2000",
-    "release_date": "2000-08-02",
+    "release_date": "2000-10-01",
     "cards": [
       {
         "name": "Academy Rector",
@@ -60285,7 +60705,7 @@
     "format": "standard",
     "set_code": "wc00",
     "set_name": "World Championship Decks 2000",
-    "release_date": "2000-08-02",
+    "release_date": "2000-10-01",
     "cards": [
       {
         "name": "Attunement",
@@ -85163,7 +85583,7 @@
     "format": "standard",
     "set_code": "wc01",
     "set_name": "World Championship Decks 2001",
-    "release_date": "2001-08-08",
+    "release_date": "2001-10-29",
     "cards": [
       {
         "name": "Static Orb",
@@ -85465,7 +85885,7 @@
     "format": "standard",
     "set_code": "wc01",
     "set_name": "World Championship Decks 2001",
-    "release_date": "2001-08-08",
+    "release_date": "2001-10-29",
     "cards": [
       {
         "name": "Tsabo's Web",
@@ -85791,7 +86211,7 @@
     "format": "standard",
     "set_code": "wc01",
     "set_name": "World Championship Decks 2001",
-    "release_date": "2001-08-08",
+    "release_date": "2001-10-29",
     "cards": [
       {
         "name": "Llanowar Elves",
@@ -86109,7 +86529,7 @@
     "format": "standard",
     "set_code": "wc01",
     "set_name": "World Championship Decks 2001",
-    "release_date": "2001-08-08",
+    "release_date": "2001-10-29",
     "cards": [
       {
         "name": "Plague Spitter",
@@ -109792,7 +110212,7 @@
     "format": "standard",
     "set_code": "wc02",
     "set_name": "World Championship Decks 2002",
-    "release_date": "2002-08-14",
+    "release_date": "2002-11-05",
     "cards": [
       {
         "name": "Anurid Brushhopper",
@@ -110142,7 +110562,7 @@
     "format": "standard",
     "set_code": "wc02",
     "set_name": "World Championship Decks 2002",
-    "release_date": "2002-08-14",
+    "release_date": "2002-11-05",
     "cards": [
       {
         "name": "Nightscape Familiar",
@@ -110500,7 +110920,7 @@
     "format": "standard",
     "set_code": "wc02",
     "set_name": "World Championship Decks 2002",
-    "release_date": "2002-08-14",
+    "release_date": "2002-11-05",
     "cards": [
       {
         "name": "Genesis",
@@ -110834,7 +111254,7 @@
     "format": "standard",
     "set_code": "wc02",
     "set_name": "World Championship Decks 2002",
-    "release_date": "2002-08-14",
+    "release_date": "2002-11-05",
     "cards": [
       {
         "name": "Birds of Paradise",
@@ -126706,7 +127126,7 @@
     "format": "standard",
     "set_code": "wc03",
     "set_name": "World Championship Decks 2003",
-    "release_date": "2003-08-06",
+    "release_date": "2003-10-27",
     "cards": [
       {
         "name": "Mirari",
@@ -127040,7 +127460,7 @@
     "format": "standard",
     "set_code": "wc03",
     "set_name": "World Championship Decks 2003",
-    "release_date": "2003-08-06",
+    "release_date": "2003-10-27",
     "cards": [
       {
         "name": "Aquamoeba",
@@ -127342,7 +127762,7 @@
     "format": "standard",
     "set_code": "wc03",
     "set_name": "World Championship Decks 2003",
-    "release_date": "2003-08-06",
+    "release_date": "2003-10-27",
     "cards": [
       {
         "name": "Anger",
@@ -127708,7 +128128,7 @@
     "format": "standard",
     "set_code": "wc03",
     "set_name": "World Championship Decks 2003",
-    "release_date": "2003-08-06",
+    "release_date": "2003-10-27",
     "cards": [
       {
         "name": "Gempalm Incinerator",
@@ -143188,7 +143608,7 @@
     "format": "standard",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
-    "release_date": "2004-09-01",
+    "release_date": "2004-11-26",
     "cards": [
       {
         "name": "Arcbound Ravager",
@@ -143402,7 +143822,7 @@
     "format": "standard",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
-    "release_date": "2004-09-01",
+    "release_date": "2004-11-26",
     "cards": [
       {
         "name": "Wayfarer's Bauble",
@@ -143656,7 +144076,7 @@
     "format": "standard",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
-    "release_date": "2004-09-01",
+    "release_date": "2004-11-26",
     "cards": [
       {
         "name": "Viridian Shaman",
@@ -143910,7 +144330,7 @@
     "format": "standard",
     "set_code": "wc04",
     "set_name": "World Championship Decks 2004",
-    "release_date": "2004-09-01",
+    "release_date": "2004-11-26",
     "cards": [
       {
         "name": "Chrome Mox",
