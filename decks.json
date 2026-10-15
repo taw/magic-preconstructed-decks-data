@@ -660219,6 +660219,116 @@
     "source": "https://secretlair.wizards.com/us/product/762467"
   },
   {
+    "name": "Artist Series: Véronique Meignaud",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Bloodsoaked Champion",
+        "set_code": "sld",
+        "number": "1440",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f9cc613e-914c-575e-8031-00bf9c1e39f6"
+      },
+      {
+        "name": "Voldaren Pariah",
+        "set_code": "sld",
+        "number": "1441a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "71da3856-26c2-5759-8159-cd409c5166ae"
+      },
+      {
+        "name": "Ashnod's Altar",
+        "set_code": "sld",
+        "number": "1442",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ebd0cd75-8f57-57cb-9173-90900f3b8279"
+      },
+      {
+        "name": "Cabal Stronghold",
+        "set_code": "sld",
+        "number": "1443",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "5ad03bd6-a31e-5b04-aba1-880b53f46761"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253730"
+  },
+  {
+    "name": "Artist Series: Véronique Meignaud Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Bloodsoaked Champion",
+        "set_code": "sld",
+        "number": "1440",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "f9cc613e-914c-575e-8031-00bf9c1e39f6"
+      },
+      {
+        "name": "Voldaren Pariah",
+        "set_code": "sld",
+        "number": "1441a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "71da3856-26c2-5759-8159-cd409c5166ae"
+      },
+      {
+        "name": "Ashnod's Altar",
+        "set_code": "sld",
+        "number": "1442",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "ebd0cd75-8f57-57cb-9173-90900f3b8279"
+      },
+      {
+        "name": "Cabal Stronghold",
+        "set_code": "sld",
+        "number": "1443",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "5ad03bd6-a31e-5b04-aba1-880b53f46761"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253729"
+  },
+  {
     "name": "Artist Series: Wayne Reynolds",
     "type": "Secret Lair Drop",
     "category": "box",
@@ -681280,6 +681390,448 @@
     "source": "https://secretlair.wizards.com/us/product/1247710"
   },
   {
+    "name": "Jim Henson's Labyrinth: Fear Me, Love Me",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Muxus, Goblin Grandee",
+        "set_code": "sld",
+        "number": "2833",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f004a5fa-0b74-5a54-b6d2-06933666efa9"
+      },
+      {
+        "name": "Boggart Shenanigans",
+        "set_code": "sld",
+        "number": "2834",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7ae76053-49c9-55cd-b4cd-4669340192a1"
+      },
+      {
+        "name": "Dance with Calamity",
+        "set_code": "sld",
+        "number": "2835",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "4b19ad76-c8b7-57a0-a7d1-2f7c664bb952"
+      },
+      {
+        "name": "Goblin Rabblemaster",
+        "set_code": "sld",
+        "number": "2836",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "017af16c-331e-5c29-a02f-aaf7e1e17ec2"
+      },
+      {
+        "name": "Claim the Firstborn",
+        "set_code": "sld",
+        "number": "2837",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "74194b92-3ec7-5b9b-bb68-fb7aea8eb45d"
+      },
+      {
+        "name": "Trinisphere",
+        "set_code": "sld",
+        "number": "2838",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c179ef7b-f538-539e-9556-00a0be2fd285"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253724"
+  },
+  {
+    "name": "Jim Henson's Labyrinth: Fear Me, Love Me Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Muxus, Goblin Grandee",
+        "set_code": "sld",
+        "number": "2833",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "f004a5fa-0b74-5a54-b6d2-06933666efa9"
+      },
+      {
+        "name": "Boggart Shenanigans",
+        "set_code": "sld",
+        "number": "2834",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "7ae76053-49c9-55cd-b4cd-4669340192a1"
+      },
+      {
+        "name": "Dance with Calamity",
+        "set_code": "sld",
+        "number": "2835",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "4b19ad76-c8b7-57a0-a7d1-2f7c664bb952"
+      },
+      {
+        "name": "Goblin Rabblemaster",
+        "set_code": "sld",
+        "number": "2836",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "017af16c-331e-5c29-a02f-aaf7e1e17ec2"
+      },
+      {
+        "name": "Claim the Firstborn",
+        "set_code": "sld",
+        "number": "2837",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "74194b92-3ec7-5b9b-bb68-fb7aea8eb45d"
+      },
+      {
+        "name": "Trinisphere",
+        "set_code": "sld",
+        "number": "2838",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "c179ef7b-f538-539e-9556-00a0be2fd285"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253723"
+  },
+  {
+    "name": "Jim Henson's Labyrinth: Should You Need Us",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Jodah, the Unifier",
+        "set_code": "sld",
+        "number": "2839",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c788ecaf-ebf6-5ad6-a1bb-f66d6c5dcfd5"
+      },
+      {
+        "name": "Lu Xun, Scholar General",
+        "set_code": "sld",
+        "number": "2840a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "3fe13c4d-9c9d-58be-9a58-4b3b2cd41573"
+      },
+      {
+        "name": "Kami of the Crescent Moon",
+        "set_code": "sld",
+        "number": "2841",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9eba83fa-2c81-5a79-8103-d6be11e9f748"
+      },
+      {
+        "name": "Kogla, the Titan Ape",
+        "set_code": "sld",
+        "number": "2842",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b746978f-1726-52ac-bc55-6df3f816d2d5"
+      },
+      {
+        "name": "Shigeki, Jukai Visionary",
+        "set_code": "sld",
+        "number": "2843",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "744764e6-83c2-5749-9794-ce32f332081c"
+      },
+      {
+        "name": "Wort, Boggart Auntie",
+        "set_code": "sld",
+        "number": "2844",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "79f4fd8f-9ccc-51e6-8ab2-b37a50d6d2ba"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253726"
+  },
+  {
+    "name": "Jim Henson's Labyrinth: Should You Need Us Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Jodah, the Unifier",
+        "set_code": "sld",
+        "number": "2839",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "c788ecaf-ebf6-5ad6-a1bb-f66d6c5dcfd5"
+      },
+      {
+        "name": "Lu Xun, Scholar General",
+        "set_code": "sld",
+        "number": "2840a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "3fe13c4d-9c9d-58be-9a58-4b3b2cd41573"
+      },
+      {
+        "name": "Kami of the Crescent Moon",
+        "set_code": "sld",
+        "number": "2841",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "9eba83fa-2c81-5a79-8103-d6be11e9f748"
+      },
+      {
+        "name": "Kogla, the Titan Ape",
+        "set_code": "sld",
+        "number": "2842",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "b746978f-1726-52ac-bc55-6df3f816d2d5"
+      },
+      {
+        "name": "Shigeki, Jukai Visionary",
+        "set_code": "sld",
+        "number": "2843",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "744764e6-83c2-5749-9794-ce32f332081c"
+      },
+      {
+        "name": "Wort, Boggart Auntie",
+        "set_code": "sld",
+        "number": "2844",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "79f4fd8f-9ccc-51e6-8ab2-b37a50d6d2ba"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253725"
+  },
+  {
+    "name": "Jim Henson's Labyrinth: Through the Labyrinth",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Timely Ward",
+        "set_code": "sld",
+        "number": "2845",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "910013f7-0794-585b-8976-261ed1e7d49a"
+      },
+      {
+        "name": "Chronomantic Escape",
+        "set_code": "sld",
+        "number": "2846",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f407f7a0-5180-5e02-96d2-96179b790287"
+      },
+      {
+        "name": "Delayed Blast Fireball",
+        "set_code": "sld",
+        "number": "2847",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9b2516fe-9693-512d-8f5f-b5f4aa86e511"
+      },
+      {
+        "name": "Tempt with Discovery",
+        "set_code": "sld",
+        "number": "2848",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d827ce8d-832f-52eb-a439-e2489688f340"
+      },
+      {
+        "name": "Leveler",
+        "set_code": "sld",
+        "number": "2849",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ddfdeefc-6de8-5242-b7dd-1745e4ff34d5"
+      },
+      {
+        "name": "Thran Temporal Gateway",
+        "set_code": "sld",
+        "number": "2850",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "5accfa4f-b114-5d2a-b8d9-f12b6e72e467"
+      },
+      {
+        "name": "Rogue's Passage",
+        "set_code": "sld",
+        "number": "2851",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0968840c-4d6e-5ddb-9d63-6e7e9db11ca7"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253728"
+  },
+  {
+    "name": "Jim Henson's Labyrinth: Through the Labyrinth Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Timely Ward",
+        "set_code": "sld",
+        "number": "2845",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "910013f7-0794-585b-8976-261ed1e7d49a"
+      },
+      {
+        "name": "Chronomantic Escape",
+        "set_code": "sld",
+        "number": "2846",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "f407f7a0-5180-5e02-96d2-96179b790287"
+      },
+      {
+        "name": "Delayed Blast Fireball",
+        "set_code": "sld",
+        "number": "2847",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "9b2516fe-9693-512d-8f5f-b5f4aa86e511"
+      },
+      {
+        "name": "Tempt with Discovery",
+        "set_code": "sld",
+        "number": "2848",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "d827ce8d-832f-52eb-a439-e2489688f340"
+      },
+      {
+        "name": "Leveler",
+        "set_code": "sld",
+        "number": "2849",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "ddfdeefc-6de8-5242-b7dd-1745e4ff34d5"
+      },
+      {
+        "name": "Thran Temporal Gateway",
+        "set_code": "sld",
+        "number": "2850",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "5accfa4f-b114-5d2a-b8d9-f12b6e72e467"
+      },
+      {
+        "name": "Rogue's Passage",
+        "set_code": "sld",
+        "number": "2851",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "0968840c-4d6e-5ddb-9d63-6e7e9db11ca7"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253727"
+  },
+  {
     "name": "Jurassic World: Dr. Ian Malcolm",
     "type": "Secret Lair Drop",
     "category": "box",
@@ -682098,6 +682650,164 @@
       "sld"
     ],
     "source": "https://secretlair.wizards.com/us/product/1161301"
+  },
+  {
+    "name": "KPop Demon Hunters: How It's Done",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Dawn's Truce",
+        "set_code": "sld",
+        "number": "2826",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6cb4d7e3-625f-5421-b686-88dec32ae5ae"
+      },
+      {
+        "name": "Unbreakable Formation",
+        "set_code": "sld",
+        "number": "2827",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "efca8522-e0d1-53ff-ba64-c5660cc8b1df"
+      },
+      {
+        "name": "Freed from the Real",
+        "set_code": "sld",
+        "number": "2828",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7ef5d5e9-5414-5f10-9aa8-27ea5390375f"
+      },
+      {
+        "name": "Swan Song",
+        "set_code": "sld",
+        "number": "2829",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ab00d074-d03f-5ee0-8d89-b5578f23596e"
+      },
+      {
+        "name": "Demonic Counsel",
+        "set_code": "sld",
+        "number": "2830",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a0017c34-0fff-5bb7-bb6c-2927c526e209"
+      },
+      {
+        "name": "Tempt with Immortality",
+        "set_code": "sld",
+        "number": "2831",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "1bf2d9c7-3f1b-5134-ae2c-b9caee0287ec"
+      },
+      {
+        "name": "Underworld Breach",
+        "set_code": "sld",
+        "number": "2832",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "aaab8e30-7a92-530f-ba4d-d78b68e7dbfe"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253722"
+  },
+  {
+    "name": "KPop Demon Hunters: How It's Done Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Dawn's Truce",
+        "set_code": "sld",
+        "number": "2826",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "6cb4d7e3-625f-5421-b686-88dec32ae5ae"
+      },
+      {
+        "name": "Unbreakable Formation",
+        "set_code": "sld",
+        "number": "2827",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "efca8522-e0d1-53ff-ba64-c5660cc8b1df"
+      },
+      {
+        "name": "Freed from the Real",
+        "set_code": "sld",
+        "number": "2828",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "7ef5d5e9-5414-5f10-9aa8-27ea5390375f"
+      },
+      {
+        "name": "Swan Song",
+        "set_code": "sld",
+        "number": "2829",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "ab00d074-d03f-5ee0-8d89-b5578f23596e"
+      },
+      {
+        "name": "Demonic Counsel",
+        "set_code": "sld",
+        "number": "2830",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "a0017c34-0fff-5bb7-bb6c-2927c526e209"
+      },
+      {
+        "name": "Tempt with Immortality",
+        "set_code": "sld",
+        "number": "2831",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "1bf2d9c7-3f1b-5134-ae2c-b9caee0287ec"
+      },
+      {
+        "name": "Underworld Breach",
+        "set_code": "sld",
+        "number": "2832",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "aaab8e30-7a92-530f-ba4d-d78b68e7dbfe"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253721"
   },
   {
     "name": "Kaleidoscope Killers",
@@ -683749,6 +684459,132 @@
       "sld"
     ],
     "source": "https://secretlair.wizards.com/us/product/1250410"
+  },
+  {
+    "name": "Manufactured Grounds by See Machine",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Ancient Den",
+        "set_code": "sld",
+        "number": "2883",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "4c83d579-6d0a-5e53-96ee-0b043b61dd76"
+      },
+      {
+        "name": "Seat of the Synod",
+        "set_code": "sld",
+        "number": "2884",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "bfee9b60-594e-5d90-8299-3934ef6807c7"
+      },
+      {
+        "name": "Vault of Whispers",
+        "set_code": "sld",
+        "number": "2885",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b8174cbc-8e0e-51c5-b58b-7fc0564569fc"
+      },
+      {
+        "name": "Great Furnace",
+        "set_code": "sld",
+        "number": "2886",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "db22b9e3-a483-5fec-914b-12763029c77f"
+      },
+      {
+        "name": "Tree of Tales",
+        "set_code": "sld",
+        "number": "2887",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "fde64ea1-fa96-55f4-8517-9812d9565d44"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253734"
+  },
+  {
+    "name": "Manufactured Grounds by See Machine Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Ancient Den",
+        "set_code": "sld",
+        "number": "2883",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "4c83d579-6d0a-5e53-96ee-0b043b61dd76"
+      },
+      {
+        "name": "Seat of the Synod",
+        "set_code": "sld",
+        "number": "2884",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "bfee9b60-594e-5d90-8299-3934ef6807c7"
+      },
+      {
+        "name": "Vault of Whispers",
+        "set_code": "sld",
+        "number": "2885",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "b8174cbc-8e0e-51c5-b58b-7fc0564569fc"
+      },
+      {
+        "name": "Great Furnace",
+        "set_code": "sld",
+        "number": "2886",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "db22b9e3-a483-5fec-914b-12763029c77f"
+      },
+      {
+        "name": "Tree of Tales",
+        "set_code": "sld",
+        "number": "2887",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "fde64ea1-fa96-55f4-8517-9812d9565d44"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253733"
   },
   {
     "name": "Marvel's Black Panther",
@@ -686085,6 +686921,148 @@
       "sld"
     ],
     "source": "https://secretlair.wizards.com/us/product/1252788"
+  },
+  {
+    "name": "Marvel: Zombies",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Unstoppable Slasher",
+        "set_code": "sld",
+        "number": "2589",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "576eabe9-8ca7-5cd9-be95-ce3657492b2d"
+      },
+      {
+        "name": "Zombie Apocalypse",
+        "set_code": "sld",
+        "number": "2590",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "28a99521-b113-5bf7-af0d-8ccec025d17f"
+      },
+      {
+        "name": "Vogar, Necropolis Tyrant",
+        "set_code": "sld",
+        "number": "2591",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c0b9c9b8-1144-5f41-beb7-9e3764104d48"
+      },
+      {
+        "name": "God-Eternal Bontu",
+        "set_code": "sld",
+        "number": "2592",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "896ce60d-58ea-5af0-8ab5-bb25d78d2523"
+      },
+      {
+        "name": "Wilhelt, the Rotcleaver",
+        "set_code": "sld",
+        "number": "2593",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "41664c75-71f7-533c-b0a4-ee2a340f49be"
+      },
+      {
+        "name": "Varina, Lich Queen",
+        "set_code": "sld",
+        "number": "2594",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "fdcfba8d-055f-59b9-9bd8-2636f73890e4"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253720"
+  },
+  {
+    "name": "Marvel: Zombies Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Unstoppable Slasher",
+        "set_code": "sld",
+        "number": "2589",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "576eabe9-8ca7-5cd9-be95-ce3657492b2d"
+      },
+      {
+        "name": "Zombie Apocalypse",
+        "set_code": "sld",
+        "number": "2590",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "28a99521-b113-5bf7-af0d-8ccec025d17f"
+      },
+      {
+        "name": "Vogar, Necropolis Tyrant",
+        "set_code": "sld",
+        "number": "2591",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "c0b9c9b8-1144-5f41-beb7-9e3764104d48"
+      },
+      {
+        "name": "God-Eternal Bontu",
+        "set_code": "sld",
+        "number": "2592",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "896ce60d-58ea-5af0-8ab5-bb25d78d2523"
+      },
+      {
+        "name": "Wilhelt, the Rotcleaver",
+        "set_code": "sld",
+        "number": "2593",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "41664c75-71f7-533c-b0a4-ee2a340f49be"
+      },
+      {
+        "name": "Varina, Lich Queen",
+        "set_code": "sld",
+        "number": "2594",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "fdcfba8d-055f-59b9-9bd8-2636f73890e4"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253719"
   },
   {
     "name": "Masters of the Universe: Allies and Enemies of Eternia",
@@ -689035,6 +690013,856 @@
     "source": "https://secretlair.wizards.com/us/product/594789"
   },
   {
+    "name": "Odds and Ends",
+    "type": "Commander Deck",
+    "category": "deck",
+    "format": "commander",
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-09-28",
+    "cards": [
+      {
+        "name": "Void Winnower",
+        "set_code": "sld",
+        "number": "2122",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "5c89b4a3-e540-5529-a700-9b3908d11937"
+      },
+      {
+        "name": "Esper Sentinel",
+        "set_code": "sld",
+        "number": "2123",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "0e65f973-7510-5359-9a10-8102475bdb74"
+      },
+      {
+        "name": "Reconnaissance",
+        "set_code": "sld",
+        "number": "2124",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "19f63909-b640-5367-a435-02e40de6de62"
+      },
+      {
+        "name": "Swords to Plowshares",
+        "set_code": "sld",
+        "number": "2125",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "389b2635-ce46-547f-99b5-8c00fe447b50"
+      },
+      {
+        "name": "Weathered Wayfarer",
+        "set_code": "sld",
+        "number": "2126",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "5a71d2c0-90d6-5392-b61f-b375e2dca659"
+      },
+      {
+        "name": "Misleading Signpost",
+        "set_code": "sld",
+        "number": "2127",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "f186b80f-f476-51e4-aa3d-a201f26b1caa"
+      },
+      {
+        "name": "Breach the Multiverse",
+        "set_code": "sld",
+        "number": "2128",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "c70f0389-cc6d-584f-9ece-c4887b9f1c65"
+      },
+      {
+        "name": "Virtue of Persistence // Locthwain Scorn",
+        "set_code": "sld",
+        "number": "2129a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "70606f48-60ee-5556-8983-4438ce484afa"
+      },
+      {
+        "name": "Shadrix Silverquill",
+        "set_code": "sld",
+        "number": "2130",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "5337ce73-2749-5fe1-b42d-045211be2290"
+      },
+      {
+        "name": "Sensei's Divining Top",
+        "set_code": "sld",
+        "number": "2131",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "4fc5f94a-c61d-5577-bd64-b77d359f2f7e"
+      },
+      {
+        "name": "Sol Ring",
+        "set_code": "sld",
+        "number": "2132",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "411b3ca9-6915-568a-a4b9-2d20f4c61deb"
+      },
+      {
+        "name": "Aboleth Spawn",
+        "set_code": "plst",
+        "number": "CLB-662",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9a649be3-f1e3-5da5-9d7c-bd08520116b1"
+      },
+      {
+        "name": "Adarkar Wastes",
+        "set_code": "plst",
+        "number": "DMU-243",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "df026d7b-379a-558c-a1b8-d39ef37a8ace"
+      },
+      {
+        "name": "Aeon Engine",
+        "set_code": "plst",
+        "number": "C19-52",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "52132750-00b4-5e6d-9c82-529078698e3e"
+      },
+      {
+        "name": "Aerial Extortionist",
+        "set_code": "plst",
+        "number": "NCC-11",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "754f90a6-4476-51ba-8c9d-62bf61817bca"
+      },
+      {
+        "name": "Aminatou, the Fateshifter",
+        "set_code": "plst",
+        "number": "2X2-169",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9daf86a5-e328-5d09-8947-792b150128c1"
+      },
+      {
+        "name": "Approach of the Second Sun",
+        "set_code": "plst",
+        "number": "Q06-1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ad2e1d3b-0add-501d-a214-0dc4945b3f7c"
+      },
+      {
+        "name": "Arcane Sanctum",
+        "set_code": "plst",
+        "number": "DSC-259",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7b714e38-185f-5717-b0fc-914895418d76"
+      },
+      {
+        "name": "Arcane Signet",
+        "set_code": "plst",
+        "number": "BLC-127",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "af42f1c6-5648-5c83-a3b6-84a5f60f13e4"
+      },
+      {
+        "name": "Brainstorm",
+        "set_code": "plst",
+        "number": "MKC-96",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "e15678b9-5cd4-5fc2-974e-8f45db26f6a1"
+      },
+      {
+        "name": "Breena, the Demagogue",
+        "set_code": "plst",
+        "number": "OTC-217",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2ef2219b-f70f-554b-aa50-e6c9c3a3f9c9"
+      },
+      {
+        "name": "Caves of Koilos",
+        "set_code": "plst",
+        "number": "DMU-244",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ded393d6-ce2d-56e0-ba53-361dafcc7e8b"
+      },
+      {
+        "name": "Chaos Wand",
+        "set_code": "plst",
+        "number": "M19-228",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c905980d-3531-57fa-8927-20ccdc947daf"
+      },
+      {
+        "name": "Claim Jumper",
+        "set_code": "plst",
+        "number": "OTJ-8",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2161f1d6-72b8-5e08-a00c-9aa5becb5bfd"
+      },
+      {
+        "name": "Coalition Relic",
+        "set_code": "plst",
+        "number": "M3C-286",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "5c742312-e49a-535a-854a-d75460d758e0"
+      },
+      {
+        "name": "Command Beacon",
+        "set_code": "plst",
+        "number": "OTC-279",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "52e12993-194a-56e9-87ca-95bfb4086874"
+      },
+      {
+        "name": "Command Tower",
+        "set_code": "plst",
+        "number": "BLC-130",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "63b03fab-b421-50d3-a095-12e71e3064af"
+      },
+      {
+        "name": "Commander's Sphere",
+        "set_code": "plst",
+        "number": "DSC-244",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2405b709-b470-5553-83fb-fcc8c4483bdb"
+      },
+      {
+        "name": "Contaminated Landscape",
+        "set_code": "plst",
+        "number": "MH3-218",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "de6f56cd-7451-5d61-b171-b270c224c387"
+      },
+      {
+        "name": "Dazzling Sphinx",
+        "set_code": "plst",
+        "number": "OTC-93",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "e669979f-7741-5ac5-a22c-7c727998f49a"
+      },
+      {
+        "name": "Doom Whisperer",
+        "set_code": "plst",
+        "number": "MKC-128",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "4e5cd30a-636a-5c63-ac0c-8262edfd45d2"
+      },
+      {
+        "name": "Drowned Catacomb",
+        "set_code": "plst",
+        "number": "OTC-290",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9e98ff2f-7d61-5484-accd-d2ed1961e879"
+      },
+      {
+        "name": "Enigma Sphinx",
+        "set_code": "plst",
+        "number": "C18-178",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2a63637e-30ba-5f12-894a-eee1c59f2229"
+      },
+      {
+        "name": "Ethersworn Sphinx",
+        "set_code": "plst",
+        "number": "MH2-195",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "49b16a55-2fef-511d-9ca2-934713b7c813"
+      },
+      {
+        "name": "Evolving Wilds",
+        "set_code": "plst",
+        "number": "LCC-328",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9cc9ea1e-c1fd-5bc2-8205-119eed966954"
+      },
+      {
+        "name": "Exchange of Words",
+        "set_code": "plst",
+        "number": "UNF-45",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "1f007c4f-1152-54b2-938e-a4f129295abc"
+      },
+      {
+        "name": "Exotic Orchard",
+        "set_code": "plst",
+        "number": "BLC-131",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2f4545f8-45eb-5955-bc14-656d884e36c7"
+      },
+      {
+        "name": "Extinction Event",
+        "set_code": "plst",
+        "number": "IKO-88",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "36a5faf8-2556-5713-8be5-c17484103dd0"
+      },
+      {
+        "name": "Fabled Passage",
+        "set_code": "plst",
+        "number": "BLB-252",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "fbf01fee-3eed-5189-8886-d81fc53b268e"
+      },
+      {
+        "name": "Fatespinner",
+        "set_code": "plst",
+        "number": "MRD-36",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "1e7757a5-33fb-5efb-b2db-2abf7670be69"
+      },
+      {
+        "name": "Fractured Identity",
+        "set_code": "plst",
+        "number": "C17-37",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7acba392-82bc-533e-b4eb-c86c7e636778"
+      },
+      {
+        "name": "Glacial Fortress",
+        "set_code": "plst",
+        "number": "BLC-307",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ccd3bea1-22e9-5647-9b60-969ce42decd5"
+      },
+      {
+        "name": "Imprisoned in the Moon",
+        "set_code": "plst",
+        "number": "INR-69",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b5f66d06-cef2-525b-b3d7-51b03acb1333"
+      },
+      {
+        "name": "Inniaz, the Gale Force",
+        "set_code": "plst",
+        "number": "JMP-12",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "e5a96c36-c45b-53ae-b536-68c50eff14df"
+      },
+      {
+        "name": "Isolated Chapel",
+        "set_code": "plst",
+        "number": "OTC-301",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "99cf9dda-6a88-5882-9d92-d0ce18c99da5"
+      },
+      {
+        "name": "Jeskai Infiltrator",
+        "set_code": "plst",
+        "number": "FRF-36",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "597e1da9-886d-52d1-bb71-7080b17dd57d"
+      },
+      {
+        "name": "Leadership Vacuum",
+        "set_code": "plst",
+        "number": "C19-9",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b4fe732c-d483-5ad8-a1e5-409877b772d2"
+      },
+      {
+        "name": "Loran of the Third Path",
+        "set_code": "plst",
+        "number": "BLC-143",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f9ef2af6-2368-519b-b205-31dcc2471362"
+      },
+      {
+        "name": "Marvo, Deep Operative",
+        "set_code": "plst",
+        "number": "MKC-7",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0feb6411-d6f6-5254-8bde-c98a7445a4eb"
+      },
+      {
+        "name": "Master of Predicaments",
+        "set_code": "plst",
+        "number": "M15-67",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f8ac3874-98da-57af-a8cd-db627f28c2cc"
+      },
+      {
+        "name": "Mirage Mirror",
+        "set_code": "plst",
+        "number": "M3C-300",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "bfc2fcc3-7ff2-55c0-abd0-58a10c220f45"
+      },
+      {
+        "name": "Myriad Landscape",
+        "set_code": "plst",
+        "number": "DSC-289",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a1727b83-a910-5f10-ba9d-204219cffbf7"
+      },
+      {
+        "name": "Mystic Gate",
+        "set_code": "plst",
+        "number": "M3C-359",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "bbf0955e-60e5-59c3-ae42-32f1858c57d6"
+      },
+      {
+        "name": "Nadir Kraken",
+        "set_code": "plst",
+        "number": "MKC-112",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "8b1d8b3f-521d-5263-b783-b3f7f358072f"
+      },
+      {
+        "name": "Oubliette",
+        "set_code": "plst",
+        "number": "2XM-100",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "86cc1800-2bf2-5843-9ee9-1a58353d779e"
+      },
+      {
+        "name": "Path of Ancestry",
+        "set_code": "plst",
+        "number": "BLC-322",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "748a5092-b06e-59b9-9a03-564e04282c9a"
+      },
+      {
+        "name": "Planeswalker's Mischief",
+        "set_code": "plst",
+        "number": "PLS-29",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "936c9cc4-4489-5139-94f2-b3aebafbcb77"
+      },
+      {
+        "name": "Ponder",
+        "set_code": "plst",
+        "number": "DSC-73",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ba18c632-d0d1-5ee1-8538-bea8f485a0f6"
+      },
+      {
+        "name": "Prairie Stream",
+        "set_code": "plst",
+        "number": "MKC-281",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "906af1de-95b2-5cc6-ada7-aaf9a23a8d0c"
+      },
+      {
+        "name": "Profane Transfusion",
+        "set_code": "plst",
+        "number": "CMR-145",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "5ef7d9fb-2aae-53f0-a3ab-a80f886d00ed"
+      },
+      {
+        "name": "Promise of Loyalty",
+        "set_code": "plst",
+        "number": "BLC-148",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "658a123e-0321-54db-bd2a-9bf2c3ce346b"
+      },
+      {
+        "name": "Psychic Battle",
+        "set_code": "plst",
+        "number": "INV-68",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "189baf71-4725-5f26-bff1-c2eb3480484f"
+      },
+      {
+        "name": "Rapid Hybridization",
+        "set_code": "plst",
+        "number": "CLU-93",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9abb1048-c69d-5a15-93a7-bcca7347b1ce"
+      },
+      {
+        "name": "Reliquary Tower",
+        "set_code": "plst",
+        "number": "DSC-295",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0158c3f8-167c-5841-b7d7-deacf2113109"
+      },
+      {
+        "name": "Shared Fate",
+        "set_code": "plst",
+        "number": "MRD-49",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d45d513a-bd40-5065-afdb-756bd7fe12d8"
+      },
+      {
+        "name": "Silent Clearing",
+        "set_code": "plst",
+        "number": "MH1-246",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0c91c77c-1751-5d30-b7a0-9c3a93b60f40"
+      },
+      {
+        "name": "Skyclave Apparition",
+        "set_code": "plst",
+        "number": "BLC-154",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b29607f7-1842-5384-ba8b-3bb88e0feddf"
+      },
+      {
+        "name": "Skyclave Relic",
+        "set_code": "plst",
+        "number": "MOC-380",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ed184b24-7150-5e31-ae94-8a5d46c0ee05"
+      },
+      {
+        "name": "Smuggler's Share",
+        "set_code": "plst",
+        "number": "NCC-21",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "837fc0e4-def4-59d1-8571-d16551e5bbf8"
+      },
+      {
+        "name": "Soothsaying",
+        "set_code": "plst",
+        "number": "MMQ-104",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "74a01522-ae87-59b8-8939-fc6834327016"
+      },
+      {
+        "name": "Space Beleren",
+        "set_code": "plst",
+        "number": "UNF-178",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c9fb0a7d-70a1-5fc8-8008-d46f92c5d77c"
+      },
+      {
+        "name": "Sunken Hollow",
+        "set_code": "plst",
+        "number": "OTC-325",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b3e393c8-308d-5069-a737-605e8c3d5503"
+      },
+      {
+        "name": "Swift Reconfiguration",
+        "set_code": "plst",
+        "number": "NEC-10",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "23a06d59-8b03-5a25-8ecb-a32a9469ad3f"
+      },
+      {
+        "name": "Talisman of Progress",
+        "set_code": "plst",
+        "number": "M3C-313",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a40f571c-d613-51fb-accb-a2569ba6968e"
+      },
+      {
+        "name": "Temple of Deceit",
+        "set_code": "plst",
+        "number": "DSC-307",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d19b454f-b134-5a79-a7ea-1e38249d1c6b"
+      },
+      {
+        "name": "Temple of Enlightenment",
+        "set_code": "plst",
+        "number": "DSC-308",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c9a6334b-2a74-5566-bfe4-b738896306dc"
+      },
+      {
+        "name": "Temple of Silence",
+        "set_code": "plst",
+        "number": "DSC-312",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "5ce72954-6260-53c8-9bbc-ef035261d9db"
+      },
+      {
+        "name": "Terramorphic Expanse",
+        "set_code": "plst",
+        "number": "BLC-345",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "515c7530-07a3-5fc3-9c37-fe1b97e965ba"
+      },
+      {
+        "name": "Thief of Sanity",
+        "set_code": "plst",
+        "number": "OTC-243",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "18e08eb6-8aa7-5400-b598-8e960d1731e6"
+      },
+      {
+        "name": "Time Stop",
+        "set_code": "plst",
+        "number": "FDN-166",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "8641c228-b43e-549f-a5cd-61b1fbf6b6a6"
+      },
+      {
+        "name": "Toxrill, the Corrosive",
+        "set_code": "plst",
+        "number": "VOW-132",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f492c90c-8f1d-5033-963a-b63179a10b5d"
+      },
+      {
+        "name": "Underground River",
+        "set_code": "plst",
+        "number": "BRO-267",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "19ac52e9-2003-5c33-9be3-329cac241a40"
+      },
+      {
+        "name": "Vega, the Watcher",
+        "set_code": "plst",
+        "number": "KHM-233",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "fdd3f816-9323-59b6-a12a-49a358686031"
+      },
+      {
+        "name": "Venser's Journal",
+        "set_code": "plst",
+        "number": "C21-273",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d6072363-012b-546e-bcf0-4e7a4d5b6e2d"
+      },
+      {
+        "name": "Vesuvan Drifter",
+        "set_code": "plst",
+        "number": "MAT-10",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7e99246c-2ee6-5400-8d1c-8da08f5fc75f"
+      },
+      {
+        "name": "Wayfarer's Bauble",
+        "set_code": "plst",
+        "number": "M3C-315",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f8970a7c-264d-522c-ba9e-dd8fe05e4ea5"
+      },
+      {
+        "name": "Yavimaya, Cradle of Growth",
+        "set_code": "plst",
+        "number": "M3C-409",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c3dea965-e5b5-5d37-ba5f-4ff33b0b7ba2"
+      },
+      {
+        "name": "Plains",
+        "set_code": "sld",
+        "number": "2116",
+        "foil": true,
+        "count": 4,
+        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
+      },
+      {
+        "name": "Island",
+        "set_code": "sld",
+        "number": "2117",
+        "foil": true,
+        "count": 4,
+        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "sld",
+        "number": "2118",
+        "foil": true,
+        "count": 4,
+        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Yennett, Cryptic Sovereign",
+        "set_code": "sld",
+        "number": "2121",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "544d653e-e296-5b78-a8e7-90e7e6a265a7"
+      }
+    ],
+    "tokens": [
+      {
+        "name": "Slug // Copy",
+        "set_code": "tvow",
+        "number": "6",
+        "back_set_code": "tblc",
+        "back_number": "1",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "5c80ec44-74e2-5bfc-824f-275b73753026",
+        "back_mtgjson_uuid": "aae03160-19d3-5edd-9d4a-db5572ed77d3"
+      },
+      {
+        "name": "Inkling // Treasure",
+        "set_code": "tstx",
+        "number": "4",
+        "back_set_code": "tsnc",
+        "back_number": "13",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "aca46592-54ab-50f2-90ae-7dabf972573e",
+        "back_mtgjson_uuid": "923ecdbd-0175-575b-b374-fc5fd6cd1397"
+      },
+      {
+        "name": "Tentacle // Illusion",
+        "set_code": "tmkc",
+        "number": "9",
+        "back_set_code": "tm3c",
+        "back_number": "6",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "3147108d-d36b-59d9-8e53-b4bea3241cc9",
+        "back_mtgjson_uuid": "7836eecb-7d19-5cb3-bce6-677cf23367b7"
+      },
+      {
+        "name": "Tentacle // Frog Lizard",
+        "set_code": "tmkc",
+        "number": "9",
+        "back_set_code": "tlcc",
+        "back_number": "13",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "3147108d-d36b-59d9-8e53-b4bea3241cc9",
+        "back_mtgjson_uuid": "5b3f064a-1d67-5cac-81d7-092a714c7631"
+      },
+      {
+        "name": "Tentacle // Copy",
+        "set_code": "tmkc",
+        "number": "9",
+        "back_set_code": "tblc",
+        "back_number": "1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "3147108d-d36b-59d9-8e53-b4bea3241cc9",
+        "back_mtgjson_uuid": "aae03160-19d3-5edd-9d4a-db5572ed77d3"
+      },
+      {
+        "name": "Slug // Tentacle",
+        "set_code": "tvow",
+        "number": "6",
+        "back_set_code": "tmkc",
+        "back_number": "9",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "5c80ec44-74e2-5bfc-824f-275b73753026",
+        "back_mtgjson_uuid": "3147108d-d36b-59d9-8e53-b4bea3241cc9"
+      },
+      {
+        "name": "Slug // Inkling",
+        "set_code": "tvow",
+        "number": "6",
+        "back_set_code": "tstx",
+        "back_number": "4",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "5c80ec44-74e2-5bfc-824f-275b73753026",
+        "back_mtgjson_uuid": "aca46592-54ab-50f2-90ae-7dabf972573e"
+      },
+      {
+        "name": "Inkling // Horror",
+        "set_code": "tstx",
+        "number": "4",
+        "back_set_code": "tc18",
+        "back_number": "22",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "aca46592-54ab-50f2-90ae-7dabf972573e",
+        "back_mtgjson_uuid": "ce807f9d-ef00-5936-a725-b4c9011d2edb"
+      }
+    ],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "blc",
+      "c18",
+      "lcc",
+      "m3c",
+      "mkc",
+      "plst",
+      "sld",
+      "snc",
+      "stx",
+      "vow"
+    ],
+    "source": "https://magic.wizards.com/en/news/announcements/secret-lair-commander-deck-odds-and-ends-decklist"
+  },
+  {
     "name": "Oishii! Tokens オイシイ！ トークン",
     "type": "Secret Lair Drop",
     "category": "box",
@@ -689809,6 +691637,132 @@
       "sld"
     ],
     "source": "https://secretlair.wizards.com/us/product/615001"
+  },
+  {
+    "name": "Peace, Love, & Treefolk",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Dauntless Dourbark",
+        "set_code": "sld",
+        "number": "2763",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c2942616-baf4-585d-8949-73f6df83d376"
+      },
+      {
+        "name": "Leaf-Crowned Elder",
+        "set_code": "sld",
+        "number": "2764",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "76fed0ea-780d-51b6-ba66-0398a0479b63"
+      },
+      {
+        "name": "Timber Protector",
+        "set_code": "sld",
+        "number": "2765",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6c3604f6-dd27-5c64-88ca-d4bfea19b10a"
+      },
+      {
+        "name": "Treefolk Harbinger",
+        "set_code": "sld",
+        "number": "2766",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "18a38f2e-0640-57be-964b-d961ee57dcdd"
+      },
+      {
+        "name": "Doran, the Siege Tower",
+        "set_code": "sld",
+        "number": "2767",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "719ba0e6-d4d7-56cd-9083-1daa57abe1cd"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253732"
+  },
+  {
+    "name": "Peace, Love, & Treefolk Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-14",
+    "cards": [
+      {
+        "name": "Dauntless Dourbark",
+        "set_code": "sld",
+        "number": "2763",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "c2942616-baf4-585d-8949-73f6df83d376"
+      },
+      {
+        "name": "Leaf-Crowned Elder",
+        "set_code": "sld",
+        "number": "2764",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "76fed0ea-780d-51b6-ba66-0398a0479b63"
+      },
+      {
+        "name": "Timber Protector",
+        "set_code": "sld",
+        "number": "2765",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "6c3604f6-dd27-5c64-88ca-d4bfea19b10a"
+      },
+      {
+        "name": "Treefolk Harbinger",
+        "set_code": "sld",
+        "number": "2766",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "18a38f2e-0640-57be-964b-d961ee57dcdd"
+      },
+      {
+        "name": "Doran, the Siege Tower",
+        "set_code": "sld",
+        "number": "2767",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "719ba0e6-d4d7-56cd-9083-1daa57abe1cd"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1253731"
   },
   {
     "name": "Phyrexian Faves",
