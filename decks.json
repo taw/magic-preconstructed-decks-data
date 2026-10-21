@@ -690337,7 +690337,7 @@
         "name": "Fatespinner",
         "set_code": "plst",
         "number": "MRD-36",
-        "foil": true,
+        "foil": false,
         "count": 1,
         "mtgjson_uuid": "1e7757a5-33fb-5efb-b2db-2abf7670be69"
       },
@@ -990859,7 +990859,96 @@
         "mtgjson_uuid": "b0e040ca-1925-5132-a287-3c833146352f"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Insect // Shapeshifter",
+        "set_code": "tdsc",
+        "number": "11",
+        "back_set_code": "tdsc",
+        "back_number": "1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d0174949-c2b2-537a-8e5e-51298d3f97bc",
+        "back_mtgjson_uuid": "ff412d57-76eb-5464-8c64-9f0cc7a03cdd"
+      },
+      {
+        "name": "Insect // Ooze",
+        "set_code": "tdsc",
+        "number": "11",
+        "back_set_code": "tdsc",
+        "back_number": "14",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d0174949-c2b2-537a-8e5e-51298d3f97bc",
+        "back_mtgjson_uuid": "2cc424c9-f4f3-52ff-b664-514643531691"
+      },
+      {
+        "name": "Insect // Spider",
+        "set_code": "tdsc",
+        "number": "12",
+        "back_set_code": "tdsc",
+        "back_number": "16",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0fcd76eb-6019-51f6-b7c0-437939d5ebbf",
+        "back_mtgjson_uuid": "a023a74b-91fb-5ba6-9d19-5346bd9593f9"
+      },
+      {
+        "name": "Treefolk // Spider",
+        "set_code": "tdsc",
+        "number": "17",
+        "back_set_code": "tdsc",
+        "back_number": "16",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "4b2d5b53-2f7c-5085-8d6e-cd92e9faf092",
+        "back_mtgjson_uuid": "a023a74b-91fb-5ba6-9d19-5346bd9593f9"
+      },
+      {
+        "name": "Insect // Shapeshifter",
+        "set_code": "tdsc",
+        "number": "22",
+        "back_set_code": "tdsc",
+        "back_number": "1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c56604f8-e6e8-5b1c-b3a3-01bb6e6401b8",
+        "back_mtgjson_uuid": "ff412d57-76eb-5464-8c64-9f0cc7a03cdd"
+      },
+      {
+        "name": "Ooze // Insect",
+        "set_code": "tdsc",
+        "number": "13",
+        "back_set_code": "tdsc",
+        "back_number": "12",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "25b62fd5-b036-5c64-88fd-8f50d0675e4d",
+        "back_mtgjson_uuid": "0fcd76eb-6019-51f6-b7c0-437939d5ebbf"
+      },
+      {
+        "name": "Elemental // Bird",
+        "set_code": "tdsc",
+        "number": "9",
+        "back_set_code": "tdsc",
+        "back_number": "5",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "7eeed7aa-46a4-5268-a469-344f2736d3fb",
+        "back_mtgjson_uuid": "a1763625-3bcb-5447-8333-286e0b5d9f0d"
+      },
+      {
+        "name": "Demon // Bird",
+        "set_code": "tdsc",
+        "number": "6",
+        "back_set_code": "tdsc",
+        "back_number": "5",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "2132c6a1-42c2-506b-ac0a-ac432018f271",
+        "back_mtgjson_uuid": "a1763625-3bcb-5447-8333-286e0b5d9f0d"
+      }
+    ],
     "languages": [
       "de",
       "en",
@@ -991768,7 +991857,30 @@
         "mtgjson_uuid": "6be1fff0-d2cc-553f-9887-7c0b45dd794d"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Human Soldier // Scarecrow",
+        "set_code": "tdsc",
+        "number": "3",
+        "back_set_code": "tdsc",
+        "back_number": "23",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d6d7f718-bdec-5b02-9e25-d8030b614934",
+        "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
+      },
+      {
+        "name": "Devil // Scarecrow",
+        "set_code": "tdsc",
+        "number": "7",
+        "back_set_code": "tdsc",
+        "back_number": "23",
+        "foil": false,
+        "count": 9,
+        "mtgjson_uuid": "db939e9b-b7c1-5084-9880-1856f29766c5",
+        "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
+      }
+    ],
     "languages": [
       "de",
       "en",
@@ -992659,7 +992771,85 @@
         "mtgjson_uuid": "88ae650a-1109-5825-8862-529a382c210d"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Insect // Manifest",
+        "set_code": "tdsc",
+        "number": "10",
+        "back_set_code": "tdsk",
+        "back_number": "18",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a7394601-bdd2-573a-a7b4-e38f74f74730",
+        "back_mtgjson_uuid": "34b761d0-6e4d-5706-9a21-5dbb4073d7f4"
+      },
+      {
+        "name": "Wurm // Fractal",
+        "set_code": "tdsc",
+        "number": "18",
+        "back_set_code": "tdsc",
+        "back_number": "20",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "17b040e2-eee6-529d-8a17-bbbf94758adb",
+        "back_mtgjson_uuid": "cf9d8cf5-80c9-5720-aa4c-e788ba3e23ed"
+      },
+      {
+        "name": "Phyrexian Beast // Manifest",
+        "set_code": "tdsc",
+        "number": "15",
+        "back_set_code": "tdsk",
+        "back_number": "18",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "f5164925-8923-547d-998d-a0f163e238e7",
+        "back_mtgjson_uuid": "34b761d0-6e4d-5706-9a21-5dbb4073d7f4"
+      },
+      {
+        "name": "Wurm // Manifest",
+        "set_code": "tdsc",
+        "number": "19",
+        "back_set_code": "tdsk",
+        "back_number": "18",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "638ffbaf-df14-540d-be7a-79c3360e8486",
+        "back_mtgjson_uuid": "34b761d0-6e4d-5706-9a21-5dbb4073d7f4"
+      },
+      {
+        "name": "Wurm // Insect",
+        "set_code": "tdsc",
+        "number": "19",
+        "back_set_code": "tdsc",
+        "back_number": "10",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "638ffbaf-df14-540d-be7a-79c3360e8486",
+        "back_mtgjson_uuid": "a7394601-bdd2-573a-a7b4-e38f74f74730"
+      },
+      {
+        "name": "Fractal // Scarecrow",
+        "set_code": "tdsc",
+        "number": "20",
+        "back_set_code": "tdsc",
+        "back_number": "23",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "cf9d8cf5-80c9-5720-aa4c-e788ba3e23ed",
+        "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
+      },
+      {
+        "name": "Beast // Scarecrow",
+        "set_code": "tdsc",
+        "number": "8",
+        "back_set_code": "tdsc",
+        "back_number": "23",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9fb4f18c-b040-54be-ac23-fc462a06be2a",
+        "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
+      }
+    ],
     "languages": [
       "de",
       "en",
@@ -993604,7 +993794,85 @@
         "mtgjson_uuid": "38223445-a6c7-545f-8c2a-d054b22f08ee"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Angel // Treasure",
+        "set_code": "tdsc",
+        "number": "2",
+        "back_set_code": "tdsk",
+        "back_number": "15",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "246e378d-598c-5f2e-8129-2b3a1fc185bc",
+        "back_mtgjson_uuid": "bcc85e6e-80b5-537b-98fe-8b96243cd68e"
+      },
+      {
+        "name": "Angel // Glimmer",
+        "set_code": "tdsc",
+        "number": "2",
+        "back_set_code": "tdsk",
+        "back_number": "4",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "246e378d-598c-5f2e-8129-2b3a1fc185bc",
+        "back_mtgjson_uuid": "7918eafc-a710-5e80-9b59-bdfe07067a46"
+      },
+      {
+        "name": "Horror // Glimmer",
+        "set_code": "tdsk",
+        "number": "10",
+        "back_set_code": "tdsk",
+        "back_number": "4",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a5e74906-fe74-5db5-bb64-26b4472f3a57",
+        "back_mtgjson_uuid": "7918eafc-a710-5e80-9b59-bdfe07067a46"
+      },
+      {
+        "name": "Shark // Copy",
+        "set_code": "tdsc",
+        "number": "4",
+        "back_set_code": "tdsk",
+        "back_number": "1",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "ec55a15c-5829-512f-92c9-f574dab901c7",
+        "back_mtgjson_uuid": "3bbbe9b2-6a32-575f-90af-6b419debf932"
+      },
+      {
+        "name": "Horror // Copy",
+        "set_code": "tdsk",
+        "number": "10",
+        "back_set_code": "tdsk",
+        "back_number": "1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a5e74906-fe74-5db5-bb64-26b4472f3a57",
+        "back_mtgjson_uuid": "3bbbe9b2-6a32-575f-90af-6b419debf932"
+      },
+      {
+        "name": "Inkling // Scarecrow",
+        "set_code": "tdsc",
+        "number": "21",
+        "back_set_code": "tdsc",
+        "back_number": "23",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "02c1d955-0c8a-5185-8cdd-b2b85c1d1244",
+        "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
+      },
+      {
+        "name": "Glimmer // Scarecrow",
+        "set_code": "tdsk",
+        "number": "4",
+        "back_set_code": "tdsc",
+        "back_number": "23",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7918eafc-a710-5e80-9b59-bdfe07067a46",
+        "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
+      }
+    ],
     "languages": [
       "de",
       "en",
@@ -1029733,7 +1030001,96 @@
         "mtgjson_uuid": "7951798a-e96d-5268-ac82-0998279f4377"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Zombie // Angel of Sanctions",
+        "set_code": "tdrc",
+        "number": "3",
+        "back_set_code": "tdrc",
+        "back_number": "1",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "73f14d30-d18b-51d4-83df-eb8ecab05ce8",
+        "back_mtgjson_uuid": "1823ec1e-db02-58dd-a613-b4f55385f1f1"
+      },
+      {
+        "name": "Zombie // Champion of Wits",
+        "set_code": "tdrc",
+        "number": "3",
+        "back_set_code": "tdrc",
+        "back_number": "5",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "73f14d30-d18b-51d4-83df-eb8ecab05ce8",
+        "back_mtgjson_uuid": "aee15eef-bfdf-5d72-80b1-87527824b5fe"
+      },
+      {
+        "name": "Zombie // Timeless Dragon",
+        "set_code": "tdrc",
+        "number": "3",
+        "back_set_code": "tdrc",
+        "back_number": "6",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "73f14d30-d18b-51d4-83df-eb8ecab05ce8",
+        "back_mtgjson_uuid": "1e3ff66e-bc55-5213-9253-49efd411c574"
+      },
+      {
+        "name": "Zombie // Vizier of Many Faces",
+        "set_code": "tdrc",
+        "number": "3",
+        "back_set_code": "tdrc",
+        "back_number": "2",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "73f14d30-d18b-51d4-83df-eb8ecab05ce8",
+        "back_mtgjson_uuid": "1a5f4c2e-513b-5fd0-8ddf-2a7a70c098c8"
+      },
+      {
+        "name": "Zombie // Shapeshifter",
+        "set_code": "tdrc",
+        "number": "3",
+        "back_set_code": "tdrc",
+        "back_number": "4",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "73f14d30-d18b-51d4-83df-eb8ecab05ce8",
+        "back_mtgjson_uuid": "ac1d46eb-68b2-56ab-9f3e-b142cdc2fa33"
+      },
+      {
+        "name": "Zombie Army // Shapeshifter",
+        "set_code": "tdrc",
+        "number": "8",
+        "back_set_code": "tdrc",
+        "back_number": "4",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "984fef88-c3f0-5edb-bd4a-4dcccf2accb3",
+        "back_mtgjson_uuid": "ac1d46eb-68b2-56ab-9f3e-b142cdc2fa33"
+      },
+      {
+        "name": "Zombie // Zombie Warrior",
+        "set_code": "tdft",
+        "number": "3",
+        "back_set_code": "tdrc",
+        "back_number": "9",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "80e85df7-9984-55a2-a99c-245a54b062df",
+        "back_mtgjson_uuid": "eb928710-694c-50d6-9d62-6b709467962c"
+      },
+      {
+        "name": "Zombie // Zombie",
+        "set_code": "tdft",
+        "number": "3",
+        "back_set_code": "tdrc",
+        "back_number": "7",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "80e85df7-9984-55a2-a99c-245a54b062df",
+        "back_mtgjson_uuid": "bd116918-6d56-5a5c-916a-635447f11def"
+      }
+    ],
     "languages": [
       "de",
       "en",
@@ -1030543,7 +1030900,85 @@
         "mtgjson_uuid": "ab40c1aa-cbe9-5e9e-851d-5bb4d4b6c1a1"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Energy Reserve // Energy Reserve",
+        "set_code": "tdrc",
+        "number": "17",
+        "back_set_code": "tdrc",
+        "back_number": "17",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "8088ff7f-cb4c-5dbe-a0e6-d26399bdb831",
+        "back_mtgjson_uuid": "8088ff7f-cb4c-5dbe-a0e6-d26399bdb831"
+      },
+      {
+        "name": "Thopter // Golem",
+        "set_code": "tdft",
+        "number": "9",
+        "back_set_code": "tdrc",
+        "back_number": "15",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c2d963e3-a4f2-52be-b254-d7ebbfdc4244",
+        "back_mtgjson_uuid": "d21afaa3-ac25-5266-aa20-1a33333433a9"
+      },
+      {
+        "name": "Thopter // Golem",
+        "set_code": "tdft",
+        "number": "10",
+        "back_set_code": "tdrc",
+        "back_number": "14",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d0ddfd70-ed9e-56db-8424-5a30af6d2425",
+        "back_mtgjson_uuid": "8350f090-968d-5ae0-8a64-fc3c33fc6572"
+      },
+      {
+        "name": "Nalaar Aetherjet // Golem",
+        "set_code": "tdrc",
+        "number": "16",
+        "back_set_code": "tdrc",
+        "back_number": "13",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "03a955d0-1644-5dd1-a1ea-4a03d3e2944a",
+        "back_mtgjson_uuid": "3a1e706f-4145-5ebd-8c70-de38256db8b6"
+      },
+      {
+        "name": "Nalaar Aetherjet // Treasure",
+        "set_code": "tdrc",
+        "number": "16",
+        "back_set_code": "tdft",
+        "back_number": "11",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "03a955d0-1644-5dd1-a1ea-4a03d3e2944a",
+        "back_mtgjson_uuid": "79b7a1b8-532b-580f-ad16-5a2dcd304e35"
+      },
+      {
+        "name": "Servo // Beast",
+        "set_code": "tdft",
+        "number": "8",
+        "back_set_code": "tdrc",
+        "back_number": "10",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "cc281264-7f00-5567-bb0e-c14f40c41490",
+        "back_mtgjson_uuid": "7c8e1ce7-0f05-5659-9d64-239c52bb42e1"
+      },
+      {
+        "name": "Construct // Beast",
+        "set_code": "tdrc",
+        "number": "12",
+        "back_set_code": "tdrc",
+        "back_number": "11",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "a0285222-6de2-5c6c-8f17-7070f70d69c8",
+        "back_mtgjson_uuid": "c8d950ae-8dcd-56ee-b46d-068935587008"
+      }
+    ],
     "languages": [
       "de",
       "en",
@@ -1045930,7 +1046365,74 @@
         "mtgjson_uuid": "60b7bac2-f123-5487-b128-13146410e8cc"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Punchcard // Punchcard",
+        "set_code": "teoe",
+        "number": "12",
+        "back_set_code": "teoe",
+        "back_number": "12",
+        "foil": false,
+        "count": 4,
+        "mtgjson_uuid": "not_in_mtgjson",
+        "back_mtgjson_uuid": "not_in_mtgjson"
+      },
+      {
+        "name": "Incubator // Phyrexian",
+        "set_code": "teoc",
+        "number": "15",
+        "back_set_code": "teoc",
+        "back_number": "15",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "not_in_mtgjson",
+        "back_mtgjson_uuid": "not_in_mtgjson"
+      },
+      {
+        "name": "Golem // Bird",
+        "set_code": "teoc",
+        "number": "12",
+        "back_set_code": "teoc",
+        "back_number": "3",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b5af056b-6809-5ca1-914d-780e9b0fbcc3",
+        "back_mtgjson_uuid": "d7c271ee-3327-51a9-a3a9-8a5d8685b39a"
+      },
+      {
+        "name": "Golem // Golem",
+        "set_code": "teoc",
+        "number": "12",
+        "back_set_code": "teoc",
+        "back_number": "14",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b5af056b-6809-5ca1-914d-780e9b0fbcc3",
+        "back_mtgjson_uuid": "c40a64e4-a1f5-5d0e-b017-5d55910bf606"
+      },
+      {
+        "name": "Gnome // Thopter",
+        "set_code": "teoc",
+        "number": "11",
+        "back_set_code": "teoc",
+        "back_number": "16",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "56c9dc66-4e58-5b27-a91f-a3847399c416",
+        "back_mtgjson_uuid": "9afed1c1-def8-5173-b9db-740daede6def"
+      },
+      {
+        "name": "Golem // Gnome",
+        "set_code": "teoc",
+        "number": "14",
+        "back_set_code": "teoc",
+        "back_number": "11",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c40a64e4-a1f5-5d0e-b017-5d55910bf606",
+        "back_mtgjson_uuid": "56c9dc66-4e58-5b27-a91f-a3847399c416"
+      }
+    ],
     "languages": [
       "de",
       "en",
@@ -1046677,7 +1047179,118 @@
         "mtgjson_uuid": "da20b718-d520-5be2-a544-fc7e82d841d5"
       }
     ],
-    "tokens": [],
+    "tokens": [
+      {
+        "name": "Beast // Lander",
+        "set_code": "teoc",
+        "number": "6",
+        "back_set_code": "teoe",
+        "back_number": "8",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6521a65d-34d3-5406-8565-08c159d30e01",
+        "back_mtgjson_uuid": "7b3e5486-632b-5245-8026-3222282173bc"
+      },
+      {
+        "name": "Beast // Pest",
+        "set_code": "teoc",
+        "number": "6",
+        "back_set_code": "teoc",
+        "back_number": "9",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6521a65d-34d3-5406-8565-08c159d30e01",
+        "back_mtgjson_uuid": "be7c7de8-06e4-5ea4-8faf-18881dbcee45"
+      },
+      {
+        "name": "Beast // Elemental",
+        "set_code": "teoc",
+        "number": "6",
+        "back_set_code": "teoc",
+        "back_number": "7",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6521a65d-34d3-5406-8565-08c159d30e01",
+        "back_mtgjson_uuid": "19d08c2a-56af-5df8-9353-a3e1404ef022"
+      },
+      {
+        "name": "Beast // Elemental",
+        "set_code": "teoc",
+        "number": "6",
+        "back_set_code": "teoc",
+        "back_number": "8",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6521a65d-34d3-5406-8565-08c159d30e01",
+        "back_mtgjson_uuid": "e6461e1e-243c-5391-83d9-1ab5adf6a0ab"
+      },
+      {
+        "name": "Insect // Elemental",
+        "set_code": "teoc",
+        "number": "4",
+        "back_set_code": "teoc",
+        "back_number": "8",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0f28e829-7077-5af0-822e-8117bceb1c04",
+        "back_mtgjson_uuid": "e6461e1e-243c-5391-83d9-1ab5adf6a0ab"
+      },
+      {
+        "name": "Insect // Elemental",
+        "set_code": "teoc",
+        "number": "4",
+        "back_set_code": "teoc",
+        "back_number": "7",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0f28e829-7077-5af0-822e-8117bceb1c04",
+        "back_mtgjson_uuid": "19d08c2a-56af-5df8-9353-a3e1404ef022"
+      },
+      {
+        "name": "Insect // Beast",
+        "set_code": "teoc",
+        "number": "4",
+        "back_set_code": "teoc",
+        "back_number": "5",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0f28e829-7077-5af0-822e-8117bceb1c04",
+        "back_mtgjson_uuid": "9c1f05f1-f7cb-57ac-a296-9cb007aa0779"
+      },
+      {
+        "name": "Insect // Golem",
+        "set_code": "teoc",
+        "number": "4",
+        "back_set_code": "teoc",
+        "back_number": "13",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0f28e829-7077-5af0-822e-8117bceb1c04",
+        "back_mtgjson_uuid": "fdca4948-3d94-581e-ac4a-665f4ffb1b00"
+      },
+      {
+        "name": "Copy // Clue",
+        "set_code": "teoc",
+        "number": "1",
+        "back_set_code": "teoc",
+        "back_number": "10",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9ea975db-7b14-56c7-a865-4fbc5de6bb4b",
+        "back_mtgjson_uuid": "9003ec81-9a0c-5f92-b39b-636c9fe9b8b9"
+      },
+      {
+        "name": "Copy // Pest",
+        "set_code": "teoc",
+        "number": "1",
+        "back_set_code": "teoc",
+        "back_number": "9",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9ea975db-7b14-56c7-a865-4fbc5de6bb4b",
+        "back_mtgjson_uuid": "be7c7de8-06e4-5ea4-8faf-18881dbcee45"
+      }
+    ],
     "languages": [
       "de",
       "en",
