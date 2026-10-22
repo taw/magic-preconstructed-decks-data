@@ -358544,7 +358544,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Angel // Demon",
+        "name": "Angel",
         "set_code": "PHEL",
         "number": "1★a",
         "back_set_code": "PHEL",
@@ -532008,7 +532008,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Germ // Spirit",
+        "name": "Germ",
         "set_code": "tc16",
         "number": "10",
         "back_set_code": "tc16",
@@ -532019,7 +532019,7 @@
         "back_mtgjson_uuid": "05306b3c-7628-5aa0-9206-badfea6bd69c"
       },
       {
-        "name": "Bird // Saproling",
+        "name": "Bird",
         "set_code": "tc16",
         "number": "2",
         "back_set_code": "tc16",
@@ -532030,7 +532030,7 @@
         "back_mtgjson_uuid": "408570d9-1f4e-52ce-8d17-4edcbedff9fa"
       },
       {
-        "name": "Bird // Spirit",
+        "name": "Bird",
         "set_code": "tc16",
         "number": "2",
         "back_set_code": "tc16",
@@ -532041,7 +532041,7 @@
         "back_mtgjson_uuid": "05306b3c-7628-5aa0-9206-badfea6bd69c"
       },
       {
-        "name": "Saproling // Spirit",
+        "name": "Saproling",
         "set_code": "tc16",
         "number": "16",
         "back_set_code": "tc16",
@@ -532923,7 +532923,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Zombie // Elf Warrior",
+        "name": "Zombie",
         "set_code": "tc16",
         "number": "11",
         "back_set_code": "tc16",
@@ -532934,7 +532934,7 @@
         "back_mtgjson_uuid": "18ab1a33-f901-5fb4-92b1-58985e370ea7"
       },
       {
-        "name": "Zombie // Goblin",
+        "name": "Zombie",
         "set_code": "tc16",
         "number": "11",
         "back_set_code": "tc16",
@@ -532945,7 +532945,7 @@
         "back_mtgjson_uuid": "f331e3c2-5083-5f0a-8ba1-77718fe905a4"
       },
       {
-        "name": "Zombie // Worm",
+        "name": "Zombie",
         "set_code": "tc16",
         "number": "11",
         "back_set_code": "tc16",
@@ -533845,7 +533845,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Thopter // Horror",
+        "name": "Thopter",
         "set_code": "tc16",
         "number": "9",
         "back_set_code": "tc16",
@@ -533856,7 +533856,7 @@
         "back_mtgjson_uuid": "85e62787-3770-5070-aa29-28ff06cd8bf2"
       },
       {
-        "name": "Bird // Myr",
+        "name": "Bird",
         "set_code": "tc16",
         "number": "2",
         "back_set_code": "tc16",
@@ -533867,7 +533867,7 @@
         "back_mtgjson_uuid": "8934c39f-95b1-56d3-8304-12d6583884e4"
       },
       {
-        "name": "Thopter // Goat",
+        "name": "Thopter",
         "set_code": "tc16",
         "number": "9",
         "back_set_code": "tc16",
@@ -533878,7 +533878,7 @@
         "back_mtgjson_uuid": "6c0f04ce-10b5-5788-8169-c79b84a8dde9"
       },
       {
-        "name": "Thopter // Germ",
+        "name": "Thopter",
         "set_code": "tc16",
         "number": "9",
         "back_set_code": "tc16",
@@ -533889,7 +533889,7 @@
         "back_mtgjson_uuid": "00a3b3ce-e6be-5a96-becf-0357fa089f7c"
       },
       {
-        "name": "Thopter // Daretti, Scrap Savant Emblem",
+        "name": "Thopter",
         "set_code": "tc16",
         "number": "9",
         "back_set_code": "tc16",
@@ -534807,7 +534807,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Saproling // Saproling",
+        "name": "Saproling",
         "set_code": "tc16",
         "number": "16",
         "back_set_code": "tc16",
@@ -535689,7 +535689,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Soldier // Elemental",
+        "name": "Soldier",
         "set_code": "tc16",
         "number": "5",
         "back_set_code": "tc16",
@@ -535700,7 +535700,7 @@
         "back_mtgjson_uuid": "58820708-72a1-5c66-a942-b99dd08b1e04"
       },
       {
-        "name": "Soldier // Squid",
+        "name": "Soldier",
         "set_code": "tc16",
         "number": "5",
         "back_set_code": "tc16",
@@ -535711,7 +535711,7 @@
         "back_mtgjson_uuid": "bfdd1275-acd2-5382-b259-1e050d43015f"
       },
       {
-        "name": "Spirit // Spirit",
+        "name": "Spirit",
         "set_code": "tc16",
         "number": "1",
         "back_set_code": "tc16",
@@ -535722,7 +535722,7 @@
         "back_mtgjson_uuid": "05306b3c-7628-5aa0-9206-badfea6bd69c"
       },
       {
-        "name": "Bird // Ogre",
+        "name": "Bird",
         "set_code": "tc16",
         "number": "7",
         "back_set_code": "tc16",
@@ -535733,7 +535733,7 @@
         "back_mtgjson_uuid": "4f90474a-d3c2-5f4d-95e8-94b1715d825a"
       },
       {
-        "name": "Beast // Ogre",
+        "name": "Beast",
         "set_code": "tc16",
         "number": "14",
         "back_set_code": "tc16",
@@ -537454,7 +537454,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Eldrazi // Eldrazi Spawn",
+        "name": "Eldrazi",
         "set_code": "tpca",
         "number": "1",
         "back_set_code": "tpca",
@@ -537465,7 +537465,7 @@
         "back_mtgjson_uuid": "89c709c6-2fa7-5408-a5bf-5762b82d5477"
       },
       {
-        "name": "Eldrazi // Eldrazi Spawn",
+        "name": "Eldrazi",
         "set_code": "tpca",
         "number": "1",
         "back_set_code": "tpca",
@@ -537476,7 +537476,7 @@
         "back_mtgjson_uuid": "df20ddbd-d52e-5a26-9f0e-3d6367b60378"
       },
       {
-        "name": "Eldrazi // Eldrazi Spawn",
+        "name": "Eldrazi",
         "set_code": "tpca",
         "number": "1",
         "back_set_code": "tpca",
@@ -537487,7 +537487,7 @@
         "back_mtgjson_uuid": "b8344681-32bd-5558-b94a-2b9b37919ba1"
       },
       {
-        "name": "Angel // Saproling",
+        "name": "Angel",
         "set_code": "tpca",
         "number": "5",
         "back_set_code": "tpca",
@@ -537498,7 +537498,7 @@
         "back_mtgjson_uuid": "ba1d8604-e466-5949-a156-abf0d3bbb33e"
       },
       {
-        "name": "Goat // Insect",
+        "name": "Goat",
         "set_code": "tpca",
         "number": "6",
         "back_set_code": "tpca",
@@ -537509,7 +537509,7 @@
         "back_mtgjson_uuid": "a2b7eba4-1589-5f59-8f49-c5c1efea9d3d"
       },
       {
-        "name": "Germ // Goblin",
+        "name": "Germ",
         "set_code": "tpca",
         "number": "7",
         "back_set_code": "tpca",
@@ -537520,7 +537520,7 @@
         "back_mtgjson_uuid": "b58da93a-bc8e-538a-9f15-357547dc6b53"
       },
       {
-        "name": "Spider // Saproling",
+        "name": "Spider",
         "set_code": "tpca",
         "number": "8",
         "back_set_code": "tpca",
@@ -537531,7 +537531,7 @@
         "back_mtgjson_uuid": "ba1d8604-e466-5949-a156-abf0d3bbb33e"
       },
       {
-        "name": "Zombie // Hellion",
+        "name": "Zombie",
         "set_code": "tpca",
         "number": "9",
         "back_set_code": "tpca",
@@ -537542,7 +537542,7 @@
         "back_mtgjson_uuid": "8828db9d-8c5c-5d17-b2fe-a1f39510fb6c"
       },
       {
-        "name": "Dragon // Saproling",
+        "name": "Dragon",
         "set_code": "tpca",
         "number": "10",
         "back_set_code": "tpca",
@@ -537553,7 +537553,7 @@
         "back_mtgjson_uuid": "ba1d8604-e466-5949-a156-abf0d3bbb33e"
       },
       {
-        "name": "Goblin // Boar",
+        "name": "Goblin",
         "set_code": "tpca",
         "number": "11",
         "back_set_code": "tpca",
@@ -537564,7 +537564,7 @@
         "back_mtgjson_uuid": "dcbed46f-3dd8-5755-b535-48f61bd5a95f"
       },
       {
-        "name": "Goblin // Saproling",
+        "name": "Goblin",
         "set_code": "tpca",
         "number": "11",
         "back_set_code": "tpca",
@@ -537575,7 +537575,7 @@
         "back_mtgjson_uuid": "ba1d8604-e466-5949-a156-abf0d3bbb33e"
       },
       {
-        "name": "Beast // Saproling",
+        "name": "Beast",
         "set_code": "tpca",
         "number": "13",
         "back_set_code": "tpca",
@@ -537586,7 +537586,7 @@
         "back_mtgjson_uuid": "ba1d8604-e466-5949-a156-abf0d3bbb33e"
       },
       {
-        "name": "Ooze // Ooze",
+        "name": "Ooze",
         "set_code": "tpca",
         "number": "16",
         "back_set_code": "tpca",
@@ -537597,7 +537597,7 @@
         "back_mtgjson_uuid": "9be0770a-6e79-5062-9b3f-31e38253cf09"
       },
       {
-        "name": "Ooze // Plant",
+        "name": "Ooze",
         "set_code": "tpca",
         "number": "16",
         "back_set_code": "tpca",
@@ -685212,7 +685212,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Phyrexian Minion // Angel",
+        "name": "Phyrexian Minion",
         "set_code": "SLD",
         "number": "2446",
         "back_set_code": "PLST",
@@ -685223,7 +685223,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Phyrexian Minion // Pegasus",
+        "name": "Phyrexian Minion",
         "set_code": "SLD",
         "number": "2446",
         "back_set_code": "PLST",
@@ -685234,7 +685234,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Citizen // Angel",
+        "name": "Citizen",
         "set_code": "PLST",
         "number": "TSNC-12",
         "back_set_code": "PLST",
@@ -685245,7 +685245,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Citizen // Dinosaur",
+        "name": "Citizen",
         "set_code": "PLST",
         "number": "TSNC-12",
         "back_set_code": "PLST",
@@ -685256,7 +685256,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Eldrazi // Elf Warrior",
+        "name": "Eldrazi",
         "set_code": "PLST",
         "number": "TM3C-1",
         "back_set_code": "PLST",
@@ -685267,7 +685267,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Vampire // Horse",
+        "name": "Vampire",
         "set_code": "PLST",
         "number": "TMOM-3",
         "back_set_code": "PLST",
@@ -685278,7 +685278,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Vampire // Elemental",
+        "name": "Vampire",
         "set_code": "PLST",
         "number": "TMOM-3",
         "back_set_code": "PLST",
@@ -685289,7 +685289,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Treasure // Spider",
+        "name": "Treasure",
         "set_code": "PLST",
         "number": "TBLB-29",
         "back_set_code": "PLST",
@@ -685300,7 +685300,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Fanatic of Rhonas // Elemental",
+        "name": "Fanatic of Rhonas",
         "set_code": "PLST",
         "number": "TMH3-15",
         "back_set_code": "PLST",
@@ -685311,7 +685311,7 @@
         "back_mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Pest // Angel",
+        "name": "Pest",
         "set_code": "PLST",
         "number": "TBLC-34",
         "back_set_code": "PLST",
@@ -697953,7 +697953,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Slug // Copy",
+        "name": "Slug",
         "set_code": "tvow",
         "number": "6",
         "back_set_code": "tblc",
@@ -697964,7 +697964,7 @@
         "back_mtgjson_uuid": "aae03160-19d3-5edd-9d4a-db5572ed77d3"
       },
       {
-        "name": "Inkling // Treasure",
+        "name": "Inkling",
         "set_code": "tstx",
         "number": "4",
         "back_set_code": "tsnc",
@@ -697975,7 +697975,7 @@
         "back_mtgjson_uuid": "923ecdbd-0175-575b-b374-fc5fd6cd1397"
       },
       {
-        "name": "Tentacle // Illusion",
+        "name": "Tentacle",
         "set_code": "tmkc",
         "number": "9",
         "back_set_code": "tm3c",
@@ -697986,7 +697986,7 @@
         "back_mtgjson_uuid": "7836eecb-7d19-5cb3-bce6-677cf23367b7"
       },
       {
-        "name": "Tentacle // Frog Lizard",
+        "name": "Tentacle",
         "set_code": "tmkc",
         "number": "9",
         "back_set_code": "tlcc",
@@ -697997,7 +697997,7 @@
         "back_mtgjson_uuid": "5b3f064a-1d67-5cac-81d7-092a714c7631"
       },
       {
-        "name": "Tentacle // Copy",
+        "name": "Tentacle",
         "set_code": "tmkc",
         "number": "9",
         "back_set_code": "tblc",
@@ -698008,7 +698008,7 @@
         "back_mtgjson_uuid": "aae03160-19d3-5edd-9d4a-db5572ed77d3"
       },
       {
-        "name": "Slug // Tentacle",
+        "name": "Slug",
         "set_code": "tvow",
         "number": "6",
         "back_set_code": "tmkc",
@@ -698019,7 +698019,7 @@
         "back_mtgjson_uuid": "3147108d-d36b-59d9-8e53-b4bea3241cc9"
       },
       {
-        "name": "Slug // Inkling",
+        "name": "Slug",
         "set_code": "tvow",
         "number": "6",
         "back_set_code": "tstx",
@@ -698030,7 +698030,7 @@
         "back_mtgjson_uuid": "aca46592-54ab-50f2-90ae-7dabf972573e"
       },
       {
-        "name": "Inkling // Horror",
+        "name": "Inkling",
         "set_code": "tstx",
         "number": "4",
         "back_set_code": "tc18",
@@ -702993,6 +702993,65 @@
       "sld"
     ],
     "source": "https://mtg.wiki/wiki/Secret_Lair_Drop_Series:_All-Natural,_Totally_Refreshing_Superdrop"
+  },
+  {
+    "name": "Secret Gallery: Atlanta Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-10-19",
+    "cards": [
+      {
+        "name": "Parallax Tide",
+        "set_code": "sld",
+        "number": "2888",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "122d0be8-f80f-5b3f-8cbb-e3b7068ae940"
+      },
+      {
+        "name": "Regrowth",
+        "set_code": "sld",
+        "number": "2889",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "d7be976a-011e-5d57-9424-4a1f4df2d562"
+      },
+      {
+        "name": "Viridian Revel",
+        "set_code": "sld",
+        "number": "2890",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "f71d0ece-78d1-5232-a982-665b1bd95459"
+      },
+      {
+        "name": "Assassin's Trophy",
+        "set_code": "sld",
+        "number": "2891",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "21fce2ab-77f4-5bac-b75f-58d4be8990ed"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition"
   },
   {
     "name": "Secret Lair High: Class of '87",
@@ -727586,7 +727645,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Drake // Goblin Warrior",
+        "name": "Drake",
         "set_code": "tc20",
         "number": "8",
         "back_set_code": "tc20",
@@ -727597,7 +727656,7 @@
         "back_mtgjson_uuid": "a8ca3d69-47b9-5c17-92bd-52dd3199cb3b"
       },
       {
-        "name": "Bird Illusion // Beast",
+        "name": "Bird Illusion",
         "set_code": "tc20",
         "number": "7",
         "back_set_code": "tc20",
@@ -727608,7 +727667,7 @@
         "back_mtgjson_uuid": "a43adc76-9522-58e6-a30e-06f638646b87"
       },
       {
-        "name": "Beast // Snake",
+        "name": "Beast",
         "set_code": "tiko",
         "number": "10",
         "back_set_code": "tc20",
@@ -727619,7 +727678,7 @@
         "back_mtgjson_uuid": "b7eba89c-a4db-545e-b00a-464ad87da4cb"
       },
       {
-        "name": "Saproling // Treasure",
+        "name": "Saproling",
         "set_code": "tc20",
         "number": "14",
         "back_set_code": "tc20",
@@ -728484,7 +728543,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Beast // Hydra",
+        "name": "Beast",
         "set_code": "tiko",
         "number": "10",
         "back_set_code": "tc20",
@@ -729376,7 +729435,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Human // Treasure",
+        "name": "Human",
         "set_code": "tc20",
         "number": "4",
         "back_set_code": "tc20",
@@ -729387,7 +729446,7 @@
         "back_mtgjson_uuid": "3b9455df-7577-5275-a556-6ba2966e61dc"
       },
       {
-        "name": "Human Soldier // Zombie",
+        "name": "Human Soldier",
         "set_code": "tiko",
         "number": "3",
         "back_set_code": "tc20",
@@ -729398,7 +729457,7 @@
         "back_mtgjson_uuid": "7fda20dd-f188-536d-b9d9-78613eb75a72"
       },
       {
-        "name": "Human Soldier // Zombie",
+        "name": "Human Soldier",
         "set_code": "tiko",
         "number": "4",
         "back_set_code": "tc20",
@@ -729409,7 +729468,7 @@
         "back_mtgjson_uuid": "7fda20dd-f188-536d-b9d9-78613eb75a72"
       },
       {
-        "name": "Human Soldier // Zombie",
+        "name": "Human Soldier",
         "set_code": "tiko",
         "number": "5",
         "back_set_code": "tc20",
@@ -730283,7 +730342,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Spirit // Insect",
+        "name": "Spirit",
         "set_code": "tc20",
         "number": "6",
         "back_set_code": "tc20",
@@ -731184,7 +731243,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Human Soldier // Drake",
+        "name": "Human Soldier",
         "set_code": "tiko",
         "number": "5",
         "back_set_code": "tc20",
@@ -731195,7 +731254,7 @@
         "back_mtgjson_uuid": "11af66ce-2ebe-568c-b865-2ff6fbddcc14"
       },
       {
-        "name": "Drake // Insect",
+        "name": "Drake",
         "set_code": "tc20",
         "number": "8",
         "back_set_code": "tc20",
@@ -731206,7 +731265,7 @@
         "back_mtgjson_uuid": "4667d9dc-90d5-5b6c-b112-fbd4d7511b96"
       },
       {
-        "name": "Kraken // Elemental",
+        "name": "Kraken",
         "set_code": "tiko",
         "number": "6",
         "back_set_code": "tc20",
@@ -731217,7 +731276,7 @@
         "back_mtgjson_uuid": "99a2d3f7-bda1-5a31-8a8f-c11d0c7a2437"
       },
       {
-        "name": "Angel // Elemental",
+        "name": "Angel",
         "set_code": "tc20",
         "number": "1",
         "back_set_code": "tc20",
@@ -731228,7 +731287,7 @@
         "back_mtgjson_uuid": "99a2d3f7-bda1-5a31-8a8f-c11d0c7a2437"
       },
       {
-        "name": "Spirit // Treasure",
+        "name": "Spirit",
         "set_code": "tc20",
         "number": "6",
         "back_set_code": "tc20",
@@ -731239,7 +731298,7 @@
         "back_mtgjson_uuid": "3b9455df-7577-5275-a556-6ba2966e61dc"
       },
       {
-        "name": "Bird // Dinosaur Cat",
+        "name": "Bird",
         "set_code": "tc20",
         "number": "2",
         "back_set_code": "tc20",
@@ -731250,7 +731309,7 @@
         "back_mtgjson_uuid": "4d46f6ae-835f-53f1-aba3-efea57529087"
       },
       {
-        "name": "Elemental // Soldier",
+        "name": "Elemental",
         "set_code": "tc20",
         "number": "3",
         "back_set_code": "tc20",
@@ -868617,7 +868676,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Servo // Eldrazi",
+        "name": "Servo",
         "set_code": "tbrc",
         "number": "13",
         "back_set_code": "tbrc",
@@ -868628,7 +868687,7 @@
         "back_mtgjson_uuid": "767c5ca7-495a-5d46-83a5-97d8e520d679"
       },
       {
-        "name": "Servo // Powerstone",
+        "name": "Servo",
         "set_code": "tbrc",
         "number": "13",
         "back_set_code": "tbro",
@@ -868639,7 +868698,7 @@
         "back_mtgjson_uuid": "af8db311-3520-5cf7-8410-7390c29da873"
       },
       {
-        "name": "Mishra's Warform // Inkling",
+        "name": "Mishra's Warform",
         "set_code": "tbrc",
         "number": "9",
         "back_set_code": "tbrc",
@@ -868650,7 +868709,7 @@
         "back_mtgjson_uuid": "00093ed9-5b6b-5a88-bd12-7c3e260abf1c"
       },
       {
-        "name": "Copy // Inkling",
+        "name": "Copy",
         "set_code": "tbrc",
         "number": "1",
         "back_set_code": "tbrc",
@@ -868661,7 +868720,7 @@
         "back_mtgjson_uuid": "00093ed9-5b6b-5a88-bd12-7c3e260abf1c"
       },
       {
-        "name": "Copy // Powerstone",
+        "name": "Copy",
         "set_code": "tbrc",
         "number": "1",
         "back_set_code": "tbro",
@@ -868672,7 +868731,7 @@
         "back_mtgjson_uuid": "af8db311-3520-5cf7-8410-7390c29da873"
       },
       {
-        "name": "Scrap // Phyrexian Myr",
+        "name": "Scrap",
         "set_code": "tbrc",
         "number": "12",
         "back_set_code": "tbrc",
@@ -868683,7 +868742,7 @@
         "back_mtgjson_uuid": "f893fe3a-9d33-5d5a-8718-fcc6fb5e321f"
       },
       {
-        "name": "Scrap // Powerstone",
+        "name": "Scrap",
         "set_code": "tbrc",
         "number": "12",
         "back_set_code": "tbro",
@@ -868694,7 +868753,7 @@
         "back_mtgjson_uuid": "af8db311-3520-5cf7-8410-7390c29da873"
       },
       {
-        "name": "Construct // Goat",
+        "name": "Construct",
         "set_code": "tbrc",
         "number": "8",
         "back_set_code": "tbrc",
@@ -868705,7 +868764,7 @@
         "back_mtgjson_uuid": "776a56c4-d289-5071-b453-e768c644059c"
       },
       {
-        "name": "Construct // Phyrexian Myr",
+        "name": "Construct",
         "set_code": "tbrc",
         "number": "8",
         "back_set_code": "tbrc",
@@ -1001957,7 +1002016,7 @@
     ],
     "tokens": [
       {
-        "name": "Insect // Shapeshifter",
+        "name": "Insect",
         "set_code": "tdsc",
         "number": "11",
         "back_set_code": "tdsc",
@@ -1001968,7 +1002027,7 @@
         "back_mtgjson_uuid": "ff412d57-76eb-5464-8c64-9f0cc7a03cdd"
       },
       {
-        "name": "Insect // Ooze",
+        "name": "Insect",
         "set_code": "tdsc",
         "number": "11",
         "back_set_code": "tdsc",
@@ -1001979,7 +1002038,7 @@
         "back_mtgjson_uuid": "2cc424c9-f4f3-52ff-b664-514643531691"
       },
       {
-        "name": "Insect // Spider",
+        "name": "Insect",
         "set_code": "tdsc",
         "number": "12",
         "back_set_code": "tdsc",
@@ -1001990,7 +1002049,7 @@
         "back_mtgjson_uuid": "a023a74b-91fb-5ba6-9d19-5346bd9593f9"
       },
       {
-        "name": "Treefolk // Spider",
+        "name": "Treefolk",
         "set_code": "tdsc",
         "number": "17",
         "back_set_code": "tdsc",
@@ -1002001,7 +1002060,7 @@
         "back_mtgjson_uuid": "a023a74b-91fb-5ba6-9d19-5346bd9593f9"
       },
       {
-        "name": "Insect // Shapeshifter",
+        "name": "Insect",
         "set_code": "tdsc",
         "number": "22",
         "back_set_code": "tdsc",
@@ -1002012,7 +1002071,7 @@
         "back_mtgjson_uuid": "ff412d57-76eb-5464-8c64-9f0cc7a03cdd"
       },
       {
-        "name": "Ooze // Insect",
+        "name": "Ooze",
         "set_code": "tdsc",
         "number": "13",
         "back_set_code": "tdsc",
@@ -1002023,7 +1002082,7 @@
         "back_mtgjson_uuid": "0fcd76eb-6019-51f6-b7c0-437939d5ebbf"
       },
       {
-        "name": "Elemental // Bird",
+        "name": "Elemental",
         "set_code": "tdsc",
         "number": "9",
         "back_set_code": "tdsc",
@@ -1002034,7 +1002093,7 @@
         "back_mtgjson_uuid": "a1763625-3bcb-5447-8333-286e0b5d9f0d"
       },
       {
-        "name": "Demon // Bird",
+        "name": "Demon",
         "set_code": "tdsc",
         "number": "6",
         "back_set_code": "tdsc",
@@ -1002960,7 +1003019,7 @@
     ],
     "tokens": [
       {
-        "name": "Human Soldier // Scarecrow",
+        "name": "Human Soldier",
         "set_code": "tdsc",
         "number": "3",
         "back_set_code": "tdsc",
@@ -1002971,7 +1003030,7 @@
         "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
       },
       {
-        "name": "Devil // Scarecrow",
+        "name": "Devil",
         "set_code": "tdsc",
         "number": "7",
         "back_set_code": "tdsc",
@@ -1003879,7 +1003938,7 @@
     ],
     "tokens": [
       {
-        "name": "Insect // Manifest",
+        "name": "Insect",
         "set_code": "tdsc",
         "number": "10",
         "back_set_code": "tdsk",
@@ -1003890,7 +1003949,7 @@
         "back_mtgjson_uuid": "34b761d0-6e4d-5706-9a21-5dbb4073d7f4"
       },
       {
-        "name": "Wurm // Fractal",
+        "name": "Wurm",
         "set_code": "tdsc",
         "number": "18",
         "back_set_code": "tdsc",
@@ -1003901,7 +1003960,7 @@
         "back_mtgjson_uuid": "cf9d8cf5-80c9-5720-aa4c-e788ba3e23ed"
       },
       {
-        "name": "Phyrexian Beast // Manifest",
+        "name": "Phyrexian Beast",
         "set_code": "tdsc",
         "number": "15",
         "back_set_code": "tdsk",
@@ -1003912,7 +1003971,7 @@
         "back_mtgjson_uuid": "34b761d0-6e4d-5706-9a21-5dbb4073d7f4"
       },
       {
-        "name": "Wurm // Manifest",
+        "name": "Wurm",
         "set_code": "tdsc",
         "number": "19",
         "back_set_code": "tdsk",
@@ -1003923,7 +1003982,7 @@
         "back_mtgjson_uuid": "34b761d0-6e4d-5706-9a21-5dbb4073d7f4"
       },
       {
-        "name": "Wurm // Insect",
+        "name": "Wurm",
         "set_code": "tdsc",
         "number": "19",
         "back_set_code": "tdsc",
@@ -1003934,7 +1003993,7 @@
         "back_mtgjson_uuid": "a7394601-bdd2-573a-a7b4-e38f74f74730"
       },
       {
-        "name": "Fractal // Scarecrow",
+        "name": "Fractal",
         "set_code": "tdsc",
         "number": "20",
         "back_set_code": "tdsc",
@@ -1003945,7 +1004004,7 @@
         "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
       },
       {
-        "name": "Beast // Scarecrow",
+        "name": "Beast",
         "set_code": "tdsc",
         "number": "8",
         "back_set_code": "tdsc",
@@ -1004907,7 +1004966,7 @@
     ],
     "tokens": [
       {
-        "name": "Angel // Treasure",
+        "name": "Angel",
         "set_code": "tdsc",
         "number": "2",
         "back_set_code": "tdsk",
@@ -1004918,7 +1004977,7 @@
         "back_mtgjson_uuid": "bcc85e6e-80b5-537b-98fe-8b96243cd68e"
       },
       {
-        "name": "Angel // Glimmer",
+        "name": "Angel",
         "set_code": "tdsc",
         "number": "2",
         "back_set_code": "tdsk",
@@ -1004929,7 +1004988,7 @@
         "back_mtgjson_uuid": "7918eafc-a710-5e80-9b59-bdfe07067a46"
       },
       {
-        "name": "Horror // Glimmer",
+        "name": "Horror",
         "set_code": "tdsk",
         "number": "10",
         "back_set_code": "tdsk",
@@ -1004940,7 +1004999,7 @@
         "back_mtgjson_uuid": "7918eafc-a710-5e80-9b59-bdfe07067a46"
       },
       {
-        "name": "Shark // Copy",
+        "name": "Shark",
         "set_code": "tdsc",
         "number": "4",
         "back_set_code": "tdsk",
@@ -1004951,7 +1005010,7 @@
         "back_mtgjson_uuid": "3bbbe9b2-6a32-575f-90af-6b419debf932"
       },
       {
-        "name": "Horror // Copy",
+        "name": "Horror",
         "set_code": "tdsk",
         "number": "10",
         "back_set_code": "tdsk",
@@ -1004962,7 +1005021,7 @@
         "back_mtgjson_uuid": "3bbbe9b2-6a32-575f-90af-6b419debf932"
       },
       {
-        "name": "Inkling // Scarecrow",
+        "name": "Inkling",
         "set_code": "tdsc",
         "number": "21",
         "back_set_code": "tdsc",
@@ -1004973,7 +1005032,7 @@
         "back_mtgjson_uuid": "bed35aa4-4e00-55de-a684-c7f17f1cc804"
       },
       {
-        "name": "Glimmer // Scarecrow",
+        "name": "Glimmer",
         "set_code": "tdsk",
         "number": "4",
         "back_set_code": "tdsc",
@@ -1009419,7 +1009478,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Angel // Clue",
+        "name": "Angel",
         "set_code": "TFDC",
         "number": "2",
         "back_set_code": "TFDC",
@@ -1009430,7 +1009489,7 @@
         "back_mtgjson_uuid": "98e50d1a-10e5-558f-8c11-78ff144f8c6b"
       },
       {
-        "name": "Clue // Spirit",
+        "name": "Clue",
         "set_code": "TFDC",
         "number": "13",
         "back_set_code": "TFDC",
@@ -1009441,7 +1009500,7 @@
         "back_mtgjson_uuid": "82e4297d-b153-50b8-bd2a-7984050d9ac7"
       },
       {
-        "name": "Angel // Angel",
+        "name": "Angel",
         "set_code": "TFDC",
         "number": "2",
         "back_set_code": "TFDC",
@@ -1009452,7 +1009511,7 @@
         "back_mtgjson_uuid": "7c3e9afb-35ab-5604-9fa6-ed3e740110e0"
       },
       {
-        "name": "Angel // Spirit",
+        "name": "Angel",
         "set_code": "TFDC",
         "number": "2",
         "back_set_code": "TFDC",
@@ -1009463,7 +1009522,7 @@
         "back_mtgjson_uuid": "82e4297d-b153-50b8-bd2a-7984050d9ac7"
       },
       {
-        "name": "Angel // The Monarch",
+        "name": "Angel",
         "set_code": "TFDC",
         "number": "2",
         "back_set_code": "TFDC",
@@ -1010047,7 +1010106,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Thopter // Myr",
+        "name": "Thopter",
         "set_code": "TFDC",
         "number": "15",
         "back_set_code": "TFDC",
@@ -1010058,7 +1010117,7 @@
         "back_mtgjson_uuid": "7a2e1064-95a1-5bc7-8723-e75792067dad"
       },
       {
-        "name": "Thopter // Phyrexian Germ",
+        "name": "Thopter",
         "set_code": "TFDC",
         "number": "15",
         "back_set_code": "TFDC",
@@ -1010069,7 +1010128,7 @@
         "back_mtgjson_uuid": "c949cdeb-84a4-564f-b8a0-7f0c8d97cf41"
       },
       {
-        "name": "Thopter // The Monarch",
+        "name": "Thopter",
         "set_code": "TFDC",
         "number": "15",
         "back_set_code": "TFDC",
@@ -1010669,7 +1010728,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Treasure // Dragon",
+        "name": "Treasure",
         "set_code": "TFDC",
         "number": "16",
         "back_set_code": "TFDC",
@@ -1010680,7 +1010739,7 @@
         "back_mtgjson_uuid": "7e1f83bc-1fb5-569a-aea0-b2ce5b365568"
       },
       {
-        "name": "Treasure // Dragon",
+        "name": "Treasure",
         "set_code": "TFDC",
         "number": "16",
         "back_set_code": "TFDC",
@@ -1010691,7 +1010750,7 @@
         "back_mtgjson_uuid": "1774b872-3a0d-539c-a55a-5fc1034e7068"
       },
       {
-        "name": "Treasure // Dragon",
+        "name": "Treasure",
         "set_code": "TFDC",
         "number": "16",
         "back_set_code": "TFDC",
@@ -1010702,7 +1010761,7 @@
         "back_mtgjson_uuid": "ee966606-98ef-58e7-87cc-5d59cc051683"
       },
       {
-        "name": "Dragon // Dragon",
+        "name": "Dragon",
         "set_code": "TFDC",
         "number": "9",
         "back_set_code": "TFDC",
@@ -1010713,7 +1010772,7 @@
         "back_mtgjson_uuid": "7e1f83bc-1fb5-569a-aea0-b2ce5b365568"
       },
       {
-        "name": "Treasure // The Monarch",
+        "name": "Treasure",
         "set_code": "TFDC",
         "number": "16",
         "back_set_code": "TFDC",
@@ -1011313,7 +1011372,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Beast // Spider",
+        "name": "Beast",
         "set_code": "TFDC",
         "number": "10",
         "back_set_code": "TFDC",
@@ -1011324,7 +1011383,7 @@
         "back_mtgjson_uuid": "1513ab44-5c07-5320-9ecb-3857a22a0753"
       },
       {
-        "name": "Phyrexian Beast // Spider",
+        "name": "Phyrexian Beast",
         "set_code": "TFDC",
         "number": "11",
         "back_set_code": "TFDC",
@@ -1011335,7 +1011394,7 @@
         "back_mtgjson_uuid": "1513ab44-5c07-5320-9ecb-3857a22a0753"
       },
       {
-        "name": "Phyrexian Beast // Beast",
+        "name": "Phyrexian Beast",
         "set_code": "TFDC",
         "number": "11",
         "back_set_code": "TFDC",
@@ -1011346,7 +1011405,7 @@
         "back_mtgjson_uuid": "1d8ecdac-1b22-5aac-9969-80ad2e3ae582"
       },
       {
-        "name": "Phyrexian Beast // Phyrexian Germ",
+        "name": "Phyrexian Beast",
         "set_code": "TFDC",
         "number": "11",
         "back_set_code": "TFDC",
@@ -1011938,7 +1011997,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Zombie // Zombie Knight",
+        "name": "Zombie",
         "set_code": "TFDC",
         "number": "5",
         "back_set_code": "TFDC",
@@ -1011949,7 +1012008,7 @@
         "back_mtgjson_uuid": "f377b0b5-82a2-5686-9f31-5f00d215e701"
       },
       {
-        "name": "Zombie // The Monarch",
+        "name": "Zombie",
         "set_code": "TFDC",
         "number": "5",
         "back_set_code": "TFDC",
@@ -1041714,7 +1041773,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Zombie // Angel of Sanctions",
+        "name": "Zombie",
         "set_code": "tdrc",
         "number": "3",
         "back_set_code": "tdrc",
@@ -1041725,7 +1041784,7 @@
         "back_mtgjson_uuid": "1823ec1e-db02-58dd-a613-b4f55385f1f1"
       },
       {
-        "name": "Zombie // Champion of Wits",
+        "name": "Zombie",
         "set_code": "tdrc",
         "number": "3",
         "back_set_code": "tdrc",
@@ -1041736,7 +1041795,7 @@
         "back_mtgjson_uuid": "aee15eef-bfdf-5d72-80b1-87527824b5fe"
       },
       {
-        "name": "Zombie // Timeless Dragon",
+        "name": "Zombie",
         "set_code": "tdrc",
         "number": "3",
         "back_set_code": "tdrc",
@@ -1041747,7 +1041806,7 @@
         "back_mtgjson_uuid": "1e3ff66e-bc55-5213-9253-49efd411c574"
       },
       {
-        "name": "Zombie // Vizier of Many Faces",
+        "name": "Zombie",
         "set_code": "tdrc",
         "number": "3",
         "back_set_code": "tdrc",
@@ -1041758,7 +1041817,7 @@
         "back_mtgjson_uuid": "1a5f4c2e-513b-5fd0-8ddf-2a7a70c098c8"
       },
       {
-        "name": "Zombie // Shapeshifter",
+        "name": "Zombie",
         "set_code": "tdrc",
         "number": "3",
         "back_set_code": "tdrc",
@@ -1041769,7 +1041828,7 @@
         "back_mtgjson_uuid": "ac1d46eb-68b2-56ab-9f3e-b142cdc2fa33"
       },
       {
-        "name": "Zombie Army // Shapeshifter",
+        "name": "Zombie Army",
         "set_code": "tdrc",
         "number": "8",
         "back_set_code": "tdrc",
@@ -1041780,7 +1041839,7 @@
         "back_mtgjson_uuid": "ac1d46eb-68b2-56ab-9f3e-b142cdc2fa33"
       },
       {
-        "name": "Zombie // Zombie Warrior",
+        "name": "Zombie",
         "set_code": "tdft",
         "number": "3",
         "back_set_code": "tdrc",
@@ -1041791,7 +1041850,7 @@
         "back_mtgjson_uuid": "eb928710-694c-50d6-9d62-6b709467962c"
       },
       {
-        "name": "Zombie // Zombie",
+        "name": "Zombie",
         "set_code": "tdft",
         "number": "3",
         "back_set_code": "tdrc",
@@ -1042617,7 +1042676,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Energy Reserve // Energy Reserve",
+        "name": "Energy Reserve",
         "set_code": "tdrc",
         "number": "17",
         "back_set_code": "tdrc",
@@ -1042628,7 +1042687,7 @@
         "back_mtgjson_uuid": "8088ff7f-cb4c-5dbe-a0e6-d26399bdb831"
       },
       {
-        "name": "Thopter // Golem",
+        "name": "Thopter",
         "set_code": "tdft",
         "number": "9",
         "back_set_code": "tdrc",
@@ -1042639,7 +1042698,7 @@
         "back_mtgjson_uuid": "d21afaa3-ac25-5266-aa20-1a33333433a9"
       },
       {
-        "name": "Thopter // Golem",
+        "name": "Thopter",
         "set_code": "tdft",
         "number": "10",
         "back_set_code": "tdrc",
@@ -1042650,7 +1042709,7 @@
         "back_mtgjson_uuid": "8350f090-968d-5ae0-8a64-fc3c33fc6572"
       },
       {
-        "name": "Nalaar Aetherjet // Golem",
+        "name": "Nalaar Aetherjet",
         "set_code": "tdrc",
         "number": "16",
         "back_set_code": "tdrc",
@@ -1042661,7 +1042720,7 @@
         "back_mtgjson_uuid": "3a1e706f-4145-5ebd-8c70-de38256db8b6"
       },
       {
-        "name": "Nalaar Aetherjet // Treasure",
+        "name": "Nalaar Aetherjet",
         "set_code": "tdrc",
         "number": "16",
         "back_set_code": "tdft",
@@ -1042672,7 +1042731,7 @@
         "back_mtgjson_uuid": "79b7a1b8-532b-580f-ad16-5a2dcd304e35"
       },
       {
-        "name": "Servo // Beast",
+        "name": "Servo",
         "set_code": "tdft",
         "number": "8",
         "back_set_code": "tdrc",
@@ -1042683,7 +1042742,7 @@
         "back_mtgjson_uuid": "7c8e1ce7-0f05-5659-9d64-239c52bb42e1"
       },
       {
-        "name": "Construct // Beast",
+        "name": "Construct",
         "set_code": "tdrc",
         "number": "12",
         "back_set_code": "tdrc",
@@ -1058174,29 +1058233,29 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Punchcard // Punchcard",
+        "name": "Punchcard",
         "set_code": "teoe",
-        "number": "12",
+        "number": "12a",
         "back_set_code": "teoe",
-        "back_number": "12",
+        "back_number": "12b",
         "foil": false,
         "count": 4,
-        "mtgjson_uuid": "not_in_mtgjson",
-        "back_mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "6fe0ba29-786f-545b-b54b-ddda34a140b0",
+        "back_mtgjson_uuid": "8358bb39-0fde-537b-b0f4-be39e9416fc6"
       },
       {
-        "name": "Incubator // Phyrexian",
+        "name": "Incubator",
         "set_code": "teoc",
-        "number": "15",
+        "number": "15a",
         "back_set_code": "teoc",
-        "back_number": "15",
+        "back_number": "15b",
         "foil": false,
         "count": 2,
-        "mtgjson_uuid": "not_in_mtgjson",
-        "back_mtgjson_uuid": "not_in_mtgjson"
+        "mtgjson_uuid": "09935cca-d799-56d6-85f3-f4ac256d006e",
+        "back_mtgjson_uuid": "38bb7178-c503-5203-bc2d-ea6a19fa2be5"
       },
       {
-        "name": "Golem // Bird",
+        "name": "Golem",
         "set_code": "teoc",
         "number": "12",
         "back_set_code": "teoc",
@@ -1058207,7 +1058266,7 @@
         "back_mtgjson_uuid": "d7c271ee-3327-51a9-a3a9-8a5d8685b39a"
       },
       {
-        "name": "Golem // Golem",
+        "name": "Golem",
         "set_code": "teoc",
         "number": "12",
         "back_set_code": "teoc",
@@ -1058218,7 +1058277,7 @@
         "back_mtgjson_uuid": "c40a64e4-a1f5-5d0e-b017-5d55910bf606"
       },
       {
-        "name": "Gnome // Thopter",
+        "name": "Gnome",
         "set_code": "teoc",
         "number": "11",
         "back_set_code": "teoc",
@@ -1058229,7 +1058288,7 @@
         "back_mtgjson_uuid": "9afed1c1-def8-5173-b9db-740daede6def"
       },
       {
-        "name": "Golem // Gnome",
+        "name": "Golem",
         "set_code": "teoc",
         "number": "14",
         "back_set_code": "teoc",
@@ -1058992,7 +1059051,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Beast // Lander",
+        "name": "Beast",
         "set_code": "teoc",
         "number": "6",
         "back_set_code": "teoe",
@@ -1059003,7 +1059062,7 @@
         "back_mtgjson_uuid": "7b3e5486-632b-5245-8026-3222282173bc"
       },
       {
-        "name": "Beast // Pest",
+        "name": "Beast",
         "set_code": "teoc",
         "number": "6",
         "back_set_code": "teoc",
@@ -1059014,7 +1059073,7 @@
         "back_mtgjson_uuid": "be7c7de8-06e4-5ea4-8faf-18881dbcee45"
       },
       {
-        "name": "Beast // Elemental",
+        "name": "Beast",
         "set_code": "teoc",
         "number": "6",
         "back_set_code": "teoc",
@@ -1059025,7 +1059084,7 @@
         "back_mtgjson_uuid": "19d08c2a-56af-5df8-9353-a3e1404ef022"
       },
       {
-        "name": "Beast // Elemental",
+        "name": "Beast",
         "set_code": "teoc",
         "number": "6",
         "back_set_code": "teoc",
@@ -1059036,7 +1059095,7 @@
         "back_mtgjson_uuid": "e6461e1e-243c-5391-83d9-1ab5adf6a0ab"
       },
       {
-        "name": "Insect // Elemental",
+        "name": "Insect",
         "set_code": "teoc",
         "number": "4",
         "back_set_code": "teoc",
@@ -1059047,7 +1059106,7 @@
         "back_mtgjson_uuid": "e6461e1e-243c-5391-83d9-1ab5adf6a0ab"
       },
       {
-        "name": "Insect // Elemental",
+        "name": "Insect",
         "set_code": "teoc",
         "number": "4",
         "back_set_code": "teoc",
@@ -1059058,7 +1059117,7 @@
         "back_mtgjson_uuid": "19d08c2a-56af-5df8-9353-a3e1404ef022"
       },
       {
-        "name": "Insect // Beast",
+        "name": "Insect",
         "set_code": "teoc",
         "number": "4",
         "back_set_code": "teoc",
@@ -1059069,7 +1059128,7 @@
         "back_mtgjson_uuid": "9c1f05f1-f7cb-57ac-a296-9cb007aa0779"
       },
       {
-        "name": "Insect // Golem",
+        "name": "Insect",
         "set_code": "teoc",
         "number": "4",
         "back_set_code": "teoc",
@@ -1059080,7 +1059139,7 @@
         "back_mtgjson_uuid": "fdca4948-3d94-581e-ac4a-665f4ffb1b00"
       },
       {
-        "name": "Copy // Clue",
+        "name": "Copy",
         "set_code": "teoc",
         "number": "1",
         "back_set_code": "teoc",
@@ -1059091,7 +1059150,7 @@
         "back_mtgjson_uuid": "9003ec81-9a0c-5f92-b39b-636c9fe9b8b9"
       },
       {
-        "name": "Copy // Pest",
+        "name": "Copy",
         "set_code": "teoc",
         "number": "1",
         "back_set_code": "teoc",
@@ -1089613,7 +1089672,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Treasure // Bird",
+        "name": "Treasure",
         "set_code": "tmsh",
         "number": "22",
         "back_set_code": "tmsc",
@@ -1090376,7 +1090435,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Treasure // Bird",
+        "name": "Treasure",
         "set_code": "tmsh",
         "number": "27",
         "back_set_code": "tmsc",
@@ -1091147,7 +1091206,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Villain // Robot Villain",
+        "name": "Villain",
         "set_code": "tmsh",
         "number": "9",
         "back_set_code": "tmsh",
@@ -1091158,7 +1091217,7 @@
         "back_mtgjson_uuid": "e76d9908-4651-5f2b-9dad-bf587f43a49a"
       },
       {
-        "name": "Villain // Shapeshifter",
+        "name": "Villain",
         "set_code": "tmsh",
         "number": "9",
         "back_set_code": "tmsc",
@@ -1091169,7 +1091228,7 @@
         "back_mtgjson_uuid": "f0791c62-5832-5cc2-956c-d074d2775687"
       },
       {
-        "name": "Ape Villain // Copy",
+        "name": "Ape Villain",
         "set_code": "tmsc",
         "number": "10",
         "back_set_code": "tmsc",
@@ -1091180,7 +1091239,7 @@
         "back_mtgjson_uuid": "5a2f018b-8ae2-589f-8db6-5d5dd184d95d"
       },
       {
-        "name": "Rogue // Treasure",
+        "name": "Rogue",
         "set_code": "tmsc",
         "number": "9",
         "back_set_code": "tmsh",
@@ -1091951,7 +1092010,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Villain // Robot Villain",
+        "name": "Villain",
         "set_code": "tmsh",
         "number": "25",
         "back_set_code": "tmsh",
@@ -1091962,7 +1092021,7 @@
         "back_mtgjson_uuid": "a76ad417-58a0-57be-9d2a-635ba1e55254"
       },
       {
-        "name": "Villain // Shapeshifter",
+        "name": "Villain",
         "set_code": "tmsh",
         "number": "25",
         "back_set_code": "tmsc",
@@ -1091973,7 +1092032,7 @@
         "back_mtgjson_uuid": "270874e9-76ae-5d57-aed6-d54e0da53fa3"
       },
       {
-        "name": "Ape Villain // Copy",
+        "name": "Ape Villain",
         "set_code": "tmsc",
         "number": "26",
         "back_set_code": "tmsc",
@@ -1091984,7 +1092043,7 @@
         "back_mtgjson_uuid": "3ae3c4af-2b85-5943-bab1-760e1b7da047"
       },
       {
-        "name": "Rogue // Treasure",
+        "name": "Rogue",
         "set_code": "tmsc",
         "number": "25",
         "back_set_code": "tmsh",
@@ -1092755,7 +1092814,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Wall // Copy",
+        "name": "Wall",
         "set_code": "tmsc",
         "number": "3",
         "back_set_code": "tmsc",
@@ -1092766,7 +1092825,7 @@
         "back_mtgjson_uuid": "5a2f018b-8ae2-589f-8db6-5d5dd184d95d"
       },
       {
-        "name": "Wall // Merfolk",
+        "name": "Wall",
         "set_code": "tmsc",
         "number": "3",
         "back_set_code": "tmsh",
@@ -1092777,7 +1092836,7 @@
         "back_mtgjson_uuid": "eba3b29c-7377-5d3a-95f6-ac4f4c659977"
       },
       {
-        "name": "Council of Reeds // Merfolk",
+        "name": "Council of Reeds",
         "set_code": "tmsc",
         "number": "8",
         "back_set_code": "tmsh",
@@ -1092788,7 +1092847,7 @@
         "back_mtgjson_uuid": "eba3b29c-7377-5d3a-95f6-ac4f4c659977"
       },
       {
-        "name": "Council of Reeds // Construct",
+        "name": "Council of Reeds",
         "set_code": "tmsc",
         "number": "8",
         "back_set_code": "tmsc",
@@ -1092799,7 +1092858,7 @@
         "back_mtgjson_uuid": "c2149764-cc8d-564f-be21-38de4bee9e5c"
       },
       {
-        "name": "Treasure // Construct",
+        "name": "Treasure",
         "set_code": "tmsh",
         "number": "22",
         "back_set_code": "tmsc",
@@ -1092810,7 +1092869,7 @@
         "back_mtgjson_uuid": "c2149764-cc8d-564f-be21-38de4bee9e5c"
       },
       {
-        "name": "Ox // Construct",
+        "name": "Ox",
         "set_code": "tmsc",
         "number": "7",
         "back_set_code": "tmsc",
@@ -1093581,7 +1093640,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Wall // Copy",
+        "name": "Wall",
         "set_code": "tmsc",
         "number": "19",
         "back_set_code": "tmsc",
@@ -1093592,7 +1093651,7 @@
         "back_mtgjson_uuid": "3ae3c4af-2b85-5943-bab1-760e1b7da047"
       },
       {
-        "name": "Wall // Merfolk",
+        "name": "Wall",
         "set_code": "tmsc",
         "number": "19",
         "back_set_code": "tmsh",
@@ -1093603,7 +1093662,7 @@
         "back_mtgjson_uuid": "f8754afa-7613-5a6e-8a1b-ac263dbf4f04"
       },
       {
-        "name": "Council of Reeds // Merfolk",
+        "name": "Council of Reeds",
         "set_code": "tmsc",
         "number": "24",
         "back_set_code": "tmsh",
@@ -1093614,7 +1093673,7 @@
         "back_mtgjson_uuid": "f8754afa-7613-5a6e-8a1b-ac263dbf4f04"
       },
       {
-        "name": "Council of Reeds // Construct",
+        "name": "Council of Reeds",
         "set_code": "tmsc",
         "number": "24",
         "back_set_code": "tmsc",
@@ -1093625,7 +1093684,7 @@
         "back_mtgjson_uuid": "759ff304-1fa6-54ca-8457-01af8956d3af"
       },
       {
-        "name": "Treasure // Construct",
+        "name": "Treasure",
         "set_code": "tmsh",
         "number": "27",
         "back_set_code": "tmsc",
@@ -1093636,7 +1093695,7 @@
         "back_mtgjson_uuid": "759ff304-1fa6-54ca-8457-01af8956d3af"
       },
       {
-        "name": "Ox // Construct",
+        "name": "Ox",
         "set_code": "tmsc",
         "number": "23",
         "back_set_code": "tmsc",
@@ -1094319,7 +1094378,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Angel // Vibranium",
+        "name": "Angel",
         "set_code": "tmsc",
         "number": "4",
         "back_set_code": "tmsc",
@@ -1094330,7 +1094389,7 @@
         "back_mtgjson_uuid": "1238fd0e-e1fd-5450-a4c4-a4ac32a14b92"
       },
       {
-        "name": "The Monarch // Vibranium",
+        "name": "The Monarch",
         "set_code": "tmsc",
         "number": "16",
         "back_set_code": "tmsc",
@@ -1094341,7 +1094400,7 @@
         "back_mtgjson_uuid": "1238fd0e-e1fd-5450-a4c4-a4ac32a14b92"
       },
       {
-        "name": "Soldier // Goat",
+        "name": "Soldier",
         "set_code": "tmsh",
         "number": "4",
         "back_set_code": "tmsc",
@@ -1094352,7 +1094411,7 @@
         "back_mtgjson_uuid": "155dc632-d3a5-57a4-a219-adb39b963063"
       },
       {
-        "name": "Soldier // Copy",
+        "name": "Soldier",
         "set_code": "tmsh",
         "number": "4",
         "back_set_code": "tmsc",
@@ -1094363,7 +1094422,7 @@
         "back_mtgjson_uuid": "5a2f018b-8ae2-589f-8db6-5d5dd184d95d"
       },
       {
-        "name": "Elephant // Rhino",
+        "name": "Elephant",
         "set_code": "tmsc",
         "number": "12",
         "back_set_code": "tmsc",
@@ -1094374,7 +1094433,7 @@
         "back_mtgjson_uuid": "7521c1d1-f5bc-5020-addf-2af90b0f051e"
       },
       {
-        "name": "Beast // Rhino",
+        "name": "Beast",
         "set_code": "tmsc",
         "number": "11",
         "back_set_code": "tmsc",
@@ -1095057,7 +1095116,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Angel // Vibranium",
+        "name": "Angel",
         "set_code": "tmsc",
         "number": "20",
         "back_set_code": "tmsc",
@@ -1095068,7 +1095127,7 @@
         "back_mtgjson_uuid": "dc28e653-ce6d-56a4-94e2-fa8f779bcafa"
       },
       {
-        "name": "The Monarch // Vibranium",
+        "name": "The Monarch",
         "set_code": "tmsc",
         "number": "16",
         "back_set_code": "tmsc",
@@ -1095079,7 +1095138,7 @@
         "back_mtgjson_uuid": "dc28e653-ce6d-56a4-94e2-fa8f779bcafa"
       },
       {
-        "name": "Soldier // Goat",
+        "name": "Soldier",
         "set_code": "tmsh",
         "number": "23",
         "back_set_code": "tmsc",
@@ -1095090,7 +1095149,7 @@
         "back_mtgjson_uuid": "c9e7e3cb-39f0-5e64-bf28-852c7dcba1a1"
       },
       {
-        "name": "Soldier // Copy",
+        "name": "Soldier",
         "set_code": "tmsh",
         "number": "23",
         "back_set_code": "tmsc",
@@ -1095101,7 +1095160,7 @@
         "back_mtgjson_uuid": "3ae3c4af-2b85-5943-bab1-760e1b7da047"
       },
       {
-        "name": "Elephant // Rhino",
+        "name": "Elephant",
         "set_code": "tmsc",
         "number": "28",
         "back_set_code": "tmsc",
@@ -1095112,7 +1095171,7 @@
         "back_mtgjson_uuid": "2fa95718-79c8-5ff3-a638-0ba25600117f"
       },
       {
-        "name": "Beast // Rhino",
+        "name": "Beast",
         "set_code": "tmsc",
         "number": "27",
         "back_set_code": "tmsc",
@@ -1111110,7 +1111169,7 @@
     "schemeDeck": [],
     "tokens": [
       {
-        "name": "Kobolds of Kher Keep // Phyrexian Mite",
+        "name": "Kobolds of Kher Keep",
         "set_code": "TFRC",
         "number": "10",
         "back_set_code": "TFRC",
@@ -1111121,7 +1111180,7 @@
         "back_mtgjson_uuid": "344aec1a-35dd-5742-b53d-00f6ed2300d8"
       },
       {
-        "name": "Soldier // Map",
+        "name": "Soldier",
         "set_code": "TFRC",
         "number": "3",
         "back_set_code": "TFRC",
@@ -1111132,7 +1111191,7 @@
         "back_mtgjson_uuid": "f1222d29-6361-5636-9c92-09be5f84fcd0"
       },
       {
-        "name": "Spirit // Jace",
+        "name": "Spirit",
         "set_code": "TFRC",
         "number": "4",
         "back_set_code": "TFRA",
@@ -1111143,7 +1111202,7 @@
         "back_mtgjson_uuid": "635f825d-d6fb-59ac-a807-af08713a3794"
       },
       {
-        "name": "Warrior // Shark",
+        "name": "Warrior",
         "set_code": "TFRC",
         "number": "5",
         "back_set_code": "TFRC",
@@ -1111154,7 +1111213,7 @@
         "back_mtgjson_uuid": "57ecd736-caab-593c-8ab6-f5de65439312"
       },
       {
-        "name": "Zombie Army // Goblin",
+        "name": "Zombie Army",
         "set_code": "TFRC",
         "number": "8",
         "back_set_code": "TFRC",
@@ -1111165,7 +1111224,7 @@
         "back_mtgjson_uuid": "4103cee6-f37f-5554-a28d-2c0fe10acb3e"
       },
       {
-        "name": "Insect // Rogue",
+        "name": "Insect",
         "set_code": "TFRC",
         "number": "2",
         "back_set_code": "TFRC",
@@ -1111184,7 +1111243,7 @@
         "mtgjson_uuid": "not_in_mtgjson"
       },
       {
-        "name": "Gingerbrute Token // Myr",
+        "name": "Gingerbrute Token",
         "set_code": "TFRC",
         "number": "12",
         "back_set_code": "TFRC",
@@ -1111195,7 +1111254,7 @@
         "back_mtgjson_uuid": "c0b05951-068f-59bb-a368-db54ef7c7e12"
       },
       {
-        "name": "The Monarch // Citizen",
+        "name": "The Monarch",
         "set_code": "TFRC",
         "number": "17",
         "back_set_code": "TFRC",
@@ -1111206,7 +1111265,7 @@
         "back_mtgjson_uuid": "d0237757-8e22-55f0-8137-f66f87792269"
       },
       {
-        "name": "Incubator // Phyrexian",
+        "name": "Incubator",
         "set_code": "TFRC",
         "number": "13a",
         "back_set_code": "TFRC",
