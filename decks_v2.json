@@ -697948,7 +697948,16 @@
         "mtgjson_uuid": "544d653e-e296-5b78-a8e7-90e7e6a265a7"
       }
     ],
-    "displayCommander": [],
+    "displayCommander": [
+      {
+        "name": "Yennett, Cryptic Sovereign",
+        "set_code": "sld",
+        "number": "1019",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "d2fab49f-0aa7-588a-b759-2dd59f6cae66"
+      }
+    ],
     "planarDeck": [],
     "schemeDeck": [],
     "tokens": [

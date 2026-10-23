@@ -690746,6 +690746,14 @@
       {
         "name": "Yennett, Cryptic Sovereign",
         "set_code": "sld",
+        "number": "1019",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "d2fab49f-0aa7-588a-b759-2dd59f6cae66"
+      },
+      {
+        "name": "Yennett, Cryptic Sovereign",
+        "set_code": "sld",
         "number": "2121",
         "foil": true,
         "count": 1,
