@@ -859825,11 +859825,11 @@
       {
         "name": "Inquisitor Greyfax",
         "set_code": "40k",
-        "number": "179",
+        "number": "320",
         "foil": true,
+        "etched": true,
         "count": 1,
-        "multiverseid": 580829,
-        "mtgjson_uuid": "12b8b065-af39-53d4-9840-1e2e55232a75"
+        "mtgjson_uuid": "88f7656d-d895-585e-a193-33854a47909e"
       }
     ],
     "planarDeck": [],
@@ -860531,11 +860531,11 @@
       {
         "name": "Inquisitor Greyfax",
         "set_code": "40k",
-        "number": "320",
+        "number": "179",
         "foil": true,
-        "etched": true,
         "count": 1,
-        "mtgjson_uuid": "88f7656d-d895-585e-a193-33854a47909e"
+        "multiverseid": 580829,
+        "mtgjson_uuid": "12b8b065-af39-53d4-9840-1e2e55232a75"
       }
     ],
     "planarDeck": [],
@@ -861230,11 +861230,11 @@
       {
         "name": "Szarekh, the Silent King",
         "set_code": "40k",
-        "number": "177",
+        "number": "318",
         "foil": true,
+        "etched": true,
         "count": 1,
-        "multiverseid": 580827,
-        "mtgjson_uuid": "8549e67f-e2f8-54a3-8a54-f9a3f546d5d4"
+        "mtgjson_uuid": "6f5a4d31-4026-5ef1-9e3a-29b1f7ce5d76"
       }
     ],
     "planarDeck": [],
@@ -861856,11 +861856,11 @@
       {
         "name": "Szarekh, the Silent King",
         "set_code": "40k",
-        "number": "318",
+        "number": "177",
         "foil": true,
-        "etched": true,
         "count": 1,
-        "mtgjson_uuid": "6f5a4d31-4026-5ef1-9e3a-29b1f7ce5d76"
+        "multiverseid": 580827,
+        "mtgjson_uuid": "8549e67f-e2f8-54a3-8a54-f9a3f546d5d4"
       }
     ],
     "planarDeck": [],
@@ -862609,11 +862609,11 @@
       {
         "name": "Abaddon the Despoiler",
         "set_code": "40k",
-        "number": "178",
+        "number": "319",
         "foil": true,
+        "etched": true,
         "count": 1,
-        "multiverseid": 580828,
-        "mtgjson_uuid": "6b4a0a86-9cb1-569c-b01b-d9c48ff24a8a"
+        "mtgjson_uuid": "50096463-7b2b-575f-b3dd-74f37829af8d"
       }
     ],
     "planarDeck": [],
@@ -863283,11 +863283,11 @@
       {
         "name": "Abaddon the Despoiler",
         "set_code": "40k",
-        "number": "319",
+        "number": "178",
         "foil": true,
-        "etched": true,
         "count": 1,
-        "mtgjson_uuid": "50096463-7b2b-575f-b3dd-74f37829af8d"
+        "multiverseid": 580828,
+        "mtgjson_uuid": "6b4a0a86-9cb1-569c-b01b-d9c48ff24a8a"
       }
     ],
     "planarDeck": [],
@@ -864054,11 +864054,11 @@
       {
         "name": "The Swarmlord",
         "set_code": "40k",
-        "number": "180",
+        "number": "321",
         "foil": true,
+        "etched": true,
         "count": 1,
-        "multiverseid": 580830,
-        "mtgjson_uuid": "b519b069-c573-5e28-9891-9cc230b8703c"
+        "mtgjson_uuid": "fd2ff5f3-c979-504c-b5a2-54aba5430682"
       }
     ],
     "planarDeck": [],
@@ -864744,11 +864744,11 @@
       {
         "name": "The Swarmlord",
         "set_code": "40k",
-        "number": "321",
+        "number": "180",
         "foil": true,
-        "etched": true,
         "count": 1,
-        "mtgjson_uuid": "fd2ff5f3-c979-504c-b5a2-54aba5430682"
+        "multiverseid": 580830,
+        "mtgjson_uuid": "b519b069-c573-5e28-9891-9cc230b8703c"
       }
     ],
     "planarDeck": [],
