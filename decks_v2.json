@@ -1051699,6 +1051699,67 @@
     "source": "https://magic.wizards.com/en/news/announcements/final-fantasy-commander-decklists"
   },
   {
+    "name": "Deluxe Commander Kit Promos",
+    "type": "Addon",
+    "category": "addon",
+    "format": null,
+    "set_code": "fic",
+    "set_name": "Final Fantasy Commander",
+    "release_date": "2025-07-03",
+    "cards": [
+      {
+        "name": "Ultimecia, Temporal Threat",
+        "set_code": "pmei",
+        "number": "2025-11",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "0a190e22-c757-5aea-a083-a622b35bf431"
+      },
+      {
+        "name": "Lightning, Security Sergeant",
+        "set_code": "pmei",
+        "number": "2025-12",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "301055d7-0824-59a5-b990-bb37e996f3c5"
+      },
+      {
+        "name": "Cloud, Planet's Champion",
+        "set_code": "pmei",
+        "number": "2025-13",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "69beac37-e044-577e-ba81-4feac5396862"
+      },
+      {
+        "name": "Sephiroth, Planet's Heir",
+        "set_code": "pmei",
+        "number": "2025-14",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "8bd38fe9-5142-5af1-91d7-d8553a89febf"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "de",
+      "en",
+      "fr",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "pmei"
+    ],
+    "source": "https://www.tcgplayer.com/product/641711"
+  },
+  {
     "name": "Limit Break (FINAL FANTASY VII)",
     "type": "Commander Deck",
     "category": "deck",
