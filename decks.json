@@ -666185,6 +666185,116 @@
     "source": "https://secretlair.wizards.com/us/product/1247708"
   },
   {
+    "name": "Duality Distorted",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-11-18",
+    "cards": [
+      {
+        "name": "Thoughtseize",
+        "set_code": "sld",
+        "number": "2705",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9539dc29-7514-5d01-b9a7-7be15ab210ad"
+      },
+      {
+        "name": "Desperate Ritual",
+        "set_code": "sld",
+        "number": "2706",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f4df38fd-2d22-5fb9-b712-2d2a2521a3b9"
+      },
+      {
+        "name": "Pyroblast",
+        "set_code": "sld",
+        "number": "2707",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0b43ec57-cd9c-50b0-9bc0-2bf0cc19bdc4"
+      },
+      {
+        "name": "Tribute to the World Tree",
+        "set_code": "sld",
+        "number": "2708",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "f58730d8-2aab-5738-8fd0-db3155380435"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255734"
+  },
+  {
+    "name": "Duality Distorted Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-11-18",
+    "cards": [
+      {
+        "name": "Thoughtseize",
+        "set_code": "sld",
+        "number": "2705",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "9539dc29-7514-5d01-b9a7-7be15ab210ad"
+      },
+      {
+        "name": "Desperate Ritual",
+        "set_code": "sld",
+        "number": "2706",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "f4df38fd-2d22-5fb9-b712-2d2a2521a3b9"
+      },
+      {
+        "name": "Pyroblast",
+        "set_code": "sld",
+        "number": "2707",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "0b43ec57-cd9c-50b0-9bc0-2bf0cc19bdc4"
+      },
+      {
+        "name": "Tribute to the World Tree",
+        "set_code": "sld",
+        "number": "2708",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "f58730d8-2aab-5738-8fd0-db3155380435"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255733"
+  },
+  {
     "name": "Dungeons & Dragons: An Exhibition of Adventure",
     "type": "Secret Lair Drop",
     "category": "box",
@@ -700463,6 +700573,69 @@
       "sld"
     ],
     "source": "https://secretlair.wizards.com/us/product/1253585"
+  },
+  {
+    "name": "Strange School",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-11-18",
+    "cards": [
+      {
+        "name": "Attrition",
+        "set_code": "sld",
+        "number": "2709",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "61d30fde-1e56-50b8-a761-7904ddd4295d"
+      },
+      {
+        "name": "Bitter Ordeal",
+        "set_code": "sld",
+        "number": "2710",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "3d219f60-dddd-570a-b9d9-22500d5ec57e"
+      },
+      {
+        "name": "Ophiomancer",
+        "set_code": "sld",
+        "number": "2711",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "177a55e4-ac19-51ab-9a1c-8887bacaa08b"
+      },
+      {
+        "name": "Sign in Blood",
+        "set_code": "sld",
+        "number": "2712",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7b8e01b5-0ec4-5605-b688-c6598c1617ba"
+      },
+      {
+        "name": "Soul Spike",
+        "set_code": "sld",
+        "number": "2713",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "28c84a90-f458-5fa8-8cbf-c875cb64e4aa"
+      }
+    ],
+    "sideboard": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255732"
   },
   {
     "name": "Stranger Things",
