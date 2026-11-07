@@ -708407,6 +708407,73 @@
     "source": "https://secretlair.wizards.com/us/product/1255732"
   },
   {
+    "name": "Strange School Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-11-18",
+    "cards": [
+      {
+        "name": "Attrition",
+        "set_code": "sld",
+        "number": "2709",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "61d30fde-1e56-50b8-a761-7904ddd4295d"
+      },
+      {
+        "name": "Bitter Ordeal",
+        "set_code": "sld",
+        "number": "2710",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "3d219f60-dddd-570a-b9d9-22500d5ec57e"
+      },
+      {
+        "name": "Ophiomancer",
+        "set_code": "sld",
+        "number": "2711",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "177a55e4-ac19-51ab-9a1c-8887bacaa08b"
+      },
+      {
+        "name": "Sign in Blood",
+        "set_code": "sld",
+        "number": "2712",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "7b8e01b5-0ec4-5605-b688-c6598c1617ba"
+      },
+      {
+        "name": "Soul Spike",
+        "set_code": "sld",
+        "number": "2713",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "28c84a90-f458-5fa8-8cbf-c875cb64e4aa"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255731"
+  },
+  {
     "name": "Stranger Things",
     "type": "Secret Lair Drop",
     "category": "box",
