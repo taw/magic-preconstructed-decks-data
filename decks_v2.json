@@ -699590,7 +699590,7 @@
         "name": "Sticker sheet",
         "set_code": "sld",
         "number": "335",
-        "foil": true,
+        "foil": false,
         "count": 1,
         "mtgjson_uuid": "8917e096-45d3-5eeb-8a2c-4b4f436705de"
       },
@@ -699598,7 +699598,7 @@
         "name": "Sticker sheet",
         "set_code": "sld",
         "number": "336",
-        "foil": true,
+        "foil": false,
         "count": 1,
         "mtgjson_uuid": "83539ee3-ae7f-5925-8172-032c83b1a4f1"
       },
@@ -699606,7 +699606,7 @@
         "name": "Sticker sheet",
         "set_code": "sld",
         "number": "337",
-        "foil": true,
+        "foil": false,
         "count": 1,
         "mtgjson_uuid": "b255cda8-e8bf-5711-aee9-c7a027ea26b4"
       },
@@ -699614,7 +699614,7 @@
         "name": "Sticker sheet",
         "set_code": "sld",
         "number": "338",
-        "foil": true,
+        "foil": false,
         "count": 1,
         "mtgjson_uuid": "3c48b49f-23f1-5cfb-b8bc-98b9ebf28b90"
       },
@@ -699622,7 +699622,7 @@
         "name": "Sticker sheet",
         "set_code": "sld",
         "number": "339",
-        "foil": true,
+        "foil": false,
         "count": 1,
         "mtgjson_uuid": "7fdc7795-4f14-5fa3-8f12-43b2a5c81c5c"
       },
@@ -707852,6 +707852,676 @@
       "sld"
     ],
     "source": "https://secretlair.wizards.com/us/product/811034"
+  },
+  {
+    "name": "Star Trek: Assimilation",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Suture Priest",
+        "set_code": "sld",
+        "number": "2729",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "565aba9a-2d0f-5253-b54a-951e229e7121"
+      },
+      {
+        "name": "Hive Mind",
+        "set_code": "sld",
+        "number": "2730",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "16458b9d-a4a1-5e27-947d-57353e30a3d1"
+      },
+      {
+        "name": "Gix, Yawgmoth Praetor",
+        "set_code": "sld",
+        "number": "2731",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2f5a918c-36a4-52ad-99c9-f203e550ca2f"
+      },
+      {
+        "name": "K'rrik, Son of Yawgmoth",
+        "set_code": "sld",
+        "number": "2732",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "74466e8a-f615-5429-a729-dc64269c1400"
+      },
+      {
+        "name": "Elas il-Kor, Sadistic Pilgrim",
+        "set_code": "sld",
+        "number": "2733",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "de58c90e-10ac-55e5-80cf-949b54f68818"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255841"
+  },
+  {
+    "name": "Star Trek: Assimilation Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Suture Priest",
+        "set_code": "sld",
+        "number": "2729",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "565aba9a-2d0f-5253-b54a-951e229e7121"
+      },
+      {
+        "name": "Hive Mind",
+        "set_code": "sld",
+        "number": "2730",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "16458b9d-a4a1-5e27-947d-57353e30a3d1"
+      },
+      {
+        "name": "Gix, Yawgmoth Praetor",
+        "set_code": "sld",
+        "number": "2731",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "2f5a918c-36a4-52ad-99c9-f203e550ca2f"
+      },
+      {
+        "name": "K'rrik, Son of Yawgmoth",
+        "set_code": "sld",
+        "number": "2732",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "74466e8a-f615-5429-a729-dc64269c1400"
+      },
+      {
+        "name": "Elas il-Kor, Sadistic Pilgrim",
+        "set_code": "sld",
+        "number": "2733",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "de58c90e-10ac-55e5-80cf-949b54f68818"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255840"
+  },
+  {
+    "name": "Star Trek: Beam Me Up",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Eerie Interlude",
+        "set_code": "sld",
+        "number": "2744a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9c0fea82-e4ac-5bc3-89e5-07cdaecf287a"
+      },
+      {
+        "name": "Momentary Blink",
+        "set_code": "sld",
+        "number": "2745a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "98195c4d-8a27-5047-aa66-8c66bfc89d1d"
+      },
+      {
+        "name": "Essence Flux",
+        "set_code": "sld",
+        "number": "2746a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "90dbb3de-00ad-59eb-8cef-e102ff061da4"
+      },
+      {
+        "name": "Conjurer's Closet",
+        "set_code": "sld",
+        "number": "2747a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9f19e215-824d-5ea3-8cb1-b9fc9fae1663"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255845"
+  },
+  {
+    "name": "Star Trek: Beam Me Up Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Eerie Interlude",
+        "set_code": "sld",
+        "number": "2744a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "9c0fea82-e4ac-5bc3-89e5-07cdaecf287a"
+      },
+      {
+        "name": "Momentary Blink",
+        "set_code": "sld",
+        "number": "2745a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "98195c4d-8a27-5047-aa66-8c66bfc89d1d"
+      },
+      {
+        "name": "Essence Flux",
+        "set_code": "sld",
+        "number": "2746a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "90dbb3de-00ad-59eb-8cef-e102ff061da4"
+      },
+      {
+        "name": "Conjurer's Closet",
+        "set_code": "sld",
+        "number": "2747a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "9f19e215-824d-5ea3-8cb1-b9fc9fae1663"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255844"
+  },
+  {
+    "name": "Star Trek: KHAAAAAAAAN",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Wrath of the Skies",
+        "set_code": "sld",
+        "number": "2748",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2d3704ce-bc09-594a-b7c5-074a1e083b27"
+      },
+      {
+        "name": "Commandeer",
+        "set_code": "sld",
+        "number": "2749",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b48f00a2-e887-5275-8337-29ff72a31432"
+      },
+      {
+        "name": "Illusionist's Gambit",
+        "set_code": "sld",
+        "number": "2750",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "bb06fa48-1c12-55e0-a796-221a32448574"
+      },
+      {
+        "name": "Buried Alive",
+        "set_code": "sld",
+        "number": "2751",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "e3b5ecb0-b49d-5d08-a3ce-a11c55a54de5"
+      },
+      {
+        "name": "Genesis Wave",
+        "set_code": "sld",
+        "number": "2752",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "35d563a1-229c-5cc0-a8e3-19f9f2f1ead1"
+      },
+      {
+        "name": "Fracture",
+        "set_code": "sld",
+        "number": "2753",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "560eea72-bc04-5e9f-a393-c2a07d42989a"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255849"
+  },
+  {
+    "name": "Star Trek: KHAAAAAAAAN Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Wrath of the Skies",
+        "set_code": "sld",
+        "number": "2748",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "2d3704ce-bc09-594a-b7c5-074a1e083b27"
+      },
+      {
+        "name": "Commandeer",
+        "set_code": "sld",
+        "number": "2749",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "b48f00a2-e887-5275-8337-29ff72a31432"
+      },
+      {
+        "name": "Illusionist's Gambit",
+        "set_code": "sld",
+        "number": "2750",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "bb06fa48-1c12-55e0-a796-221a32448574"
+      },
+      {
+        "name": "Buried Alive",
+        "set_code": "sld",
+        "number": "2751",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "e3b5ecb0-b49d-5d08-a3ce-a11c55a54de5"
+      },
+      {
+        "name": "Genesis Wave",
+        "set_code": "sld",
+        "number": "2752",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "35d563a1-229c-5cc0-a8e3-19f9f2f1ead1"
+      },
+      {
+        "name": "Fracture",
+        "set_code": "sld",
+        "number": "2753",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "560eea72-bc04-5e9f-a393-c2a07d42989a"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255848"
+  },
+  {
+    "name": "Star Trek: New Worlds",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Plains",
+        "set_code": "sld",
+        "number": "2754",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "d5de9957-5973-5d83-bd75-e02c754b7c3f"
+      },
+      {
+        "name": "Island",
+        "set_code": "sld",
+        "number": "2755",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "cf478879-f1e5-5a4c-9a08-ce270a8a26d3"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "sld",
+        "number": "2756",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "d24478c3-f146-599d-8b69-da21770fcb2b"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "sld",
+        "number": "2757",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "6214f228-a0f4-595f-9d1e-007e8f333776"
+      },
+      {
+        "name": "Forest",
+        "set_code": "sld",
+        "number": "2758",
+        "foil": false,
+        "count": 2,
+        "mtgjson_uuid": "b08a988a-43f1-5abc-8cac-808058213b96"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255843"
+  },
+  {
+    "name": "Star Trek: New Worlds Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Plains",
+        "set_code": "sld",
+        "number": "2754",
+        "foil": true,
+        "count": 2,
+        "mtgjson_uuid": "d5de9957-5973-5d83-bd75-e02c754b7c3f"
+      },
+      {
+        "name": "Island",
+        "set_code": "sld",
+        "number": "2755",
+        "foil": true,
+        "count": 2,
+        "mtgjson_uuid": "cf478879-f1e5-5a4c-9a08-ce270a8a26d3"
+      },
+      {
+        "name": "Swamp",
+        "set_code": "sld",
+        "number": "2756",
+        "foil": true,
+        "count": 2,
+        "mtgjson_uuid": "d24478c3-f146-599d-8b69-da21770fcb2b"
+      },
+      {
+        "name": "Mountain",
+        "set_code": "sld",
+        "number": "2757",
+        "foil": true,
+        "count": 2,
+        "mtgjson_uuid": "6214f228-a0f4-595f-9d1e-007e8f333776"
+      },
+      {
+        "name": "Forest",
+        "set_code": "sld",
+        "number": "2758",
+        "foil": true,
+        "count": 2,
+        "mtgjson_uuid": "b08a988a-43f1-5abc-8cac-808058213b96"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255842"
+  },
+  {
+    "name": "Star Trek: tlhIngan maH!",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Demand Answers",
+        "set_code": "sld",
+        "number": "2734a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "598fad59-caef-5d11-b1a6-99ccaac93745"
+      },
+      {
+        "name": "Relentless Assault",
+        "set_code": "sld",
+        "number": "2735a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c528e2bc-a215-5245-a320-d0c52cfefb69"
+      },
+      {
+        "name": "Seething Song",
+        "set_code": "sld",
+        "number": "2736a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "13f099fe-35b4-59f6-91d6-a43e20e85143"
+      },
+      {
+        "name": "War's Toll",
+        "set_code": "sld",
+        "number": "2737a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "72ce5527-ca9c-532e-a90d-6685f647b471"
+      },
+      {
+        "name": "Warstorm Surge",
+        "set_code": "sld",
+        "number": "2738a",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6c56e04d-2708-50c7-b7ec-7472da591d2d"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255847"
+  },
+  {
+    "name": "Star Trek: tlhIngan maH! Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Demand Answers",
+        "set_code": "sld",
+        "number": "2734a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "598fad59-caef-5d11-b1a6-99ccaac93745"
+      },
+      {
+        "name": "Relentless Assault",
+        "set_code": "sld",
+        "number": "2735a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "c528e2bc-a215-5245-a320-d0c52cfefb69"
+      },
+      {
+        "name": "Seething Song",
+        "set_code": "sld",
+        "number": "2736a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "13f099fe-35b4-59f6-91d6-a43e20e85143"
+      },
+      {
+        "name": "War's Toll",
+        "set_code": "sld",
+        "number": "2737a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "72ce5527-ca9c-532e-a90d-6685f647b471"
+      },
+      {
+        "name": "Warstorm Surge",
+        "set_code": "sld",
+        "number": "2738a",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "6c56e04d-2708-50c7-b7ec-7472da591d2d"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255846"
   },
   {
     "name": "Stardew Valley: A Flicker in the Deep",
