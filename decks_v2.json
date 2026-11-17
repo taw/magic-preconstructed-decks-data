@@ -708374,6 +708374,140 @@
     "source": "https://secretlair.wizards.com/us/product/1255848"
   },
   {
+    "name": "Star Trek: Lower Decks",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Inti, Seneschal of the Sun",
+        "set_code": "sld",
+        "number": "2739",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "1bfd98a5-3b87-50b0-a833-ff7bceec0af0"
+      },
+      {
+        "name": "Kambal, Profiteering Mayor",
+        "set_code": "sld",
+        "number": "2740",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "1e87f8f2-4164-57e1-8fd0-f402ee2d7927"
+      },
+      {
+        "name": "Silas Renn, Seeker Adept",
+        "set_code": "sld",
+        "number": "2741",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c31383cb-6cc6-57c8-a7a2-01060d24d2ac"
+      },
+      {
+        "name": "Thrasios, Triton Hero",
+        "set_code": "sld",
+        "number": "2742",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b7e97ca9-e058-5766-bd50-e8041172bce0"
+      },
+      {
+        "name": "Weatherlight",
+        "set_code": "sld",
+        "number": "2743",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0d42e090-0b2d-5a99-ab5a-75a5aa6253a0"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255851"
+  },
+  {
+    "name": "Star Trek: Lower Decks Foil Edition",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "release_date": "2026-12-16",
+    "cards": [
+      {
+        "name": "Inti, Seneschal of the Sun",
+        "set_code": "sld",
+        "number": "2739",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "1bfd98a5-3b87-50b0-a833-ff7bceec0af0"
+      },
+      {
+        "name": "Kambal, Profiteering Mayor",
+        "set_code": "sld",
+        "number": "2740",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "1e87f8f2-4164-57e1-8fd0-f402ee2d7927"
+      },
+      {
+        "name": "Silas Renn, Seeker Adept",
+        "set_code": "sld",
+        "number": "2741",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "c31383cb-6cc6-57c8-a7a2-01060d24d2ac"
+      },
+      {
+        "name": "Thrasios, Triton Hero",
+        "set_code": "sld",
+        "number": "2742",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "b7e97ca9-e058-5766-bd50-e8041172bce0"
+      },
+      {
+        "name": "Weatherlight",
+        "set_code": "sld",
+        "number": "2743",
+        "foil": true,
+        "count": 1,
+        "mtgjson_uuid": "0d42e090-0b2d-5a99-ab5a-75a5aa6253a0"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "sourceSetCodes": [
+      "sld"
+    ],
+    "source": "https://secretlair.wizards.com/us/product/1255850"
+  },
+  {
     "name": "Star Trek: New Worlds",
     "type": "Secret Lair Drop",
     "category": "box",
@@ -867792,6 +867926,270 @@
       "slc"
     ],
     "source": "https://secretlair.wizards.com/us/product/1247688/secret-lair-countdown-kit-an-encyclopedia-of-magic"
+  },
+  {
+    "name": "Marvel's History of Heroes",
+    "type": "Secret Lair Drop",
+    "category": "box",
+    "format": null,
+    "set_code": "slc",
+    "set_name": "Secret Lair Countdown",
+    "release_date": "2026-11-02",
+    "cards": [
+      {
+        "name": "Molten Duplication",
+        "set_code": "slc",
+        "number": "54",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "833a676f-4794-587a-8082-a334b57da787"
+      },
+      {
+        "name": "Fierce Guardianship",
+        "set_code": "slc",
+        "number": "55",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b8284bdf-7d84-5d04-8391-1f7aa98843a5"
+      },
+      {
+        "name": "Unbreakable Formation",
+        "set_code": "slc",
+        "number": "56",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "829923c5-c923-503c-9976-5fe37e6f345c"
+      },
+      {
+        "name": "Timber Protector",
+        "set_code": "slc",
+        "number": "57",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ad54bb87-9658-5e5c-b4aa-886520b8c7e2"
+      },
+      {
+        "name": "Biorhythm",
+        "set_code": "slc",
+        "number": "58",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7ee6b9dc-9a89-5250-987d-08bffed5e796"
+      },
+      {
+        "name": "Tainted Pact",
+        "set_code": "slc",
+        "number": "59",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b536ade6-a48b-5821-bf9c-86bac6ed86e8"
+      },
+      {
+        "name": "With Great Power . . .",
+        "set_code": "slc",
+        "number": "60",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "a3a89b28-fcf4-5a22-83d9-c1f7254a9158"
+      },
+      {
+        "name": "Vigor",
+        "set_code": "slc",
+        "number": "61",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "c0701775-e3f1-50fc-8c00-3c2cc818ac02"
+      },
+      {
+        "name": "Mjölnir, Storm Hammer",
+        "set_code": "slc",
+        "number": "62",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "10d00c7a-62cb-502d-8c41-9e53195ae74e"
+      },
+      {
+        "name": "Doctor Strange, Master of Magic",
+        "set_code": "slc",
+        "number": "63",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b7b18a69-2e26-548d-987c-af3f6c554fff"
+      },
+      {
+        "name": "Champion's Helm",
+        "set_code": "slc",
+        "number": "64",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "0c84b02b-48dc-54d5-b832-0692d0e2cbd0"
+      },
+      {
+        "name": "Force of Virtue",
+        "set_code": "slc",
+        "number": "65",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "d81c1b78-2b96-53b9-a4dc-1342cf78370d"
+      },
+      {
+        "name": "Heroic Intervention",
+        "set_code": "slc",
+        "number": "66",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9469c785-08e3-5c9b-8bfd-d95e82d4abe6"
+      },
+      {
+        "name": "Fighter Class",
+        "set_code": "slc",
+        "number": "67",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "6f6f3c73-311b-59ce-8edf-3c2ac09893c3"
+      },
+      {
+        "name": "Court of Bounty",
+        "set_code": "slc",
+        "number": "68",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "2cf7b1b4-c7f2-57fb-9d55-7c3be4bacfae"
+      },
+      {
+        "name": "Devastation",
+        "set_code": "slc",
+        "number": "69",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "dab7ba66-84a7-58b3-85a7-52033cabf89c"
+      },
+      {
+        "name": "Unholy Heat",
+        "set_code": "slc",
+        "number": "70",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "3a2e780d-a4c1-57ba-bdd0-d62cfebcf550"
+      },
+      {
+        "name": "Villainous Wrath",
+        "set_code": "slc",
+        "number": "71",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "aaf3e100-6b14-5c8a-a32d-8963efe2cd8e"
+      },
+      {
+        "name": "Damning Verdict",
+        "set_code": "slc",
+        "number": "72",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "ca7bead0-770d-56d0-bbfb-f520580978c9"
+      },
+      {
+        "name": "Primal Might",
+        "set_code": "slc",
+        "number": "73",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "195bd0e9-c261-563d-85e5-2c618346a887"
+      },
+      {
+        "name": "Damn",
+        "set_code": "slc",
+        "number": "74",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "04bfde95-a4c3-54d4-9561-f51ffe65a6e7"
+      },
+      {
+        "name": "Genesis Wave",
+        "set_code": "slc",
+        "number": "75",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b62863ce-b1fd-574e-af67-b134ac94448d"
+      },
+      {
+        "name": "Fiery Confluence",
+        "set_code": "slc",
+        "number": "76",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "9d2a9f41-1b4c-5d5e-94f4-f09786cbe53c"
+      },
+      {
+        "name": "Rogue's Gloves",
+        "set_code": "slc",
+        "number": "77",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "b5a28489-be9b-5338-9156-4e230a6f7513"
+      },
+      {
+        "name": "Beta Ray Bill",
+        "set_code": "slc",
+        "number": "78",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "12e1c429-a4bc-5244-a3c5-ba74586d5129"
+      },
+      {
+        "name": "Snuff Out",
+        "set_code": "slc",
+        "number": "79",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "30c01783-14be-52aa-9273-d24b55fbf319"
+      },
+      {
+        "name": "Titanic Ultimatum",
+        "set_code": "slc",
+        "number": "80",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "7d295605-fc12-5fec-8648-123ad34f7391"
+      },
+      {
+        "name": "Opposition Agent",
+        "set_code": "slc",
+        "number": "81",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "146724d5-63bd-546b-8800-07b1f970c440"
+      },
+      {
+        "name": "Collective Effort",
+        "set_code": "slc",
+        "number": "82",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "fa8920b9-7c07-500b-913b-7d2d474ef0df"
+      },
+      {
+        "name": "Lightning Bolt",
+        "set_code": "slc",
+        "number": "83",
+        "foil": false,
+        "count": 1,
+        "mtgjson_uuid": "52004857-98ae-50ea-98bc-c4fca67878d1"
+      }
+    ],
+    "sideboard": [],
+    "commander": [],
+    "displayCommander": [],
+    "planarDeck": [],
+    "schemeDeck": [],
+    "tokens": [],
+    "languages": [
+      "en"
+    ],
+    "sourceSetCodes": [
+      "slc"
+    ],
+    "source": "https://magic.wizards.com/en/news/announcements/secret-lair-countdown-kit-marvels-history-of-heroes"
   },
   {
     "name": "Dimir Control",
