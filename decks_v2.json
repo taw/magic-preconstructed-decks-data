@@ -713523,43 +713523,11 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
         "name": "Forest",
         "set_code": "sld",
         "number": "2120",
         "foil": false,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
@@ -713590,43 +713558,11 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
         "name": "Forest",
         "set_code": "sld",
         "number": "2120",
         "foil": true,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
@@ -713657,44 +713593,12 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
         "name": "Island",
         "set_code": "sld",
         "number": "2117",
         "foil": false,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
@@ -713724,44 +713628,12 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
         "name": "Island",
         "set_code": "sld",
         "number": "2117",
         "foil": true,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
@@ -713791,44 +713663,12 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
         "name": "Mountain",
         "set_code": "sld",
         "number": "2119",
         "foil": false,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
@@ -713858,44 +713698,12 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
         "name": "Mountain",
         "set_code": "sld",
         "number": "2119",
         "foil": true,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
@@ -713929,40 +713737,8 @@
         "set_code": "sld",
         "number": "2116",
         "foil": false,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
@@ -713996,40 +713772,8 @@
         "set_code": "sld",
         "number": "2116",
         "foil": true,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
-        "name": "Swamp",
-        "set_code": "sld",
-        "number": "2118",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
@@ -714059,44 +713803,12 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
         "name": "Swamp",
         "set_code": "sld",
         "number": "2118",
         "foil": false,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": false,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
@@ -714126,44 +713838,12 @@
     "release_date": "2026-09-29",
     "cards": [
       {
-        "name": "Plains",
-        "set_code": "sld",
-        "number": "2116",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "f6d64186-0dd5-562b-ac9a-5205639b354c"
-      },
-      {
-        "name": "Island",
-        "set_code": "sld",
-        "number": "2117",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "775d359a-9d6e-50df-a236-fe82ffb47c15"
-      },
-      {
         "name": "Swamp",
         "set_code": "sld",
         "number": "2118",
         "foil": true,
-        "count": 1,
+        "count": 10,
         "mtgjson_uuid": "7e67f448-c391-54cd-b77f-95c6b6e8b245"
-      },
-      {
-        "name": "Mountain",
-        "set_code": "sld",
-        "number": "2119",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "6db28c88-cf63-5666-8435-330d392c6f4b"
-      },
-      {
-        "name": "Forest",
-        "set_code": "sld",
-        "number": "2120",
-        "foil": true,
-        "count": 1,
-        "mtgjson_uuid": "dbdb9619-cb55-50af-bed2-af3d74d7ff2b"
       }
     ],
     "sideboard": [],
